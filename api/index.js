@@ -1,5 +1,4 @@
 const express = require('express');
-const axios = require('axios');
 const cors = require('cors');
 const fetch = require('cross-fetch');
 
@@ -99,3 +98,5 @@ app.get('/search', (req, res) => {
 app.listen(port, () => {
     console.log(`Server listening on port ${port}`);
 });
+
+export default app;
