@@ -12,9 +12,8 @@ app.get('/', (req, res) => {
 })
 
 app.get('/restaurants', (req, res) => {
-    const { offset } = req.query;
-    const url = `https://www.swiggy.com/dapi/restaurants/list/v5?lat=19.3667296&lng=72.819814&offset=${offset}&sortBy=RELEVANCE&pageType=SEE_ALL&page_type=DESKTOP_SEE_ALL_LISTING`;
-
+    const { offset } = req.query || 0;
+    const url = 'https://www.swiggy.com/dapi/restaurants/list/v5?lat=19.3667296&lng=72.819814&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING'
     fetch(url, {
         headers: {
             'Content-Type': 'application/json',
@@ -24,6 +23,7 @@ app.get('/restaurants', (req, res) => {
         }
     })
         .then(response => {
+            console.log(response);
             if (!response.ok) {
                 throw new Error('Network response was not ok');
             }
@@ -98,5 +98,3 @@ app.get('/search', (req, res) => {
 app.listen(port, () => {
     console.log(`Server listening on port ${port}`);
 });
-
-export default app;
