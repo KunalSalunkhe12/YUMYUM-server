@@ -2,6 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const fetch = require('cross-fetch');
 const fs = require('fs');
+const path = require('path');
 
 const app = express();
 const port = 3000;
@@ -12,8 +13,8 @@ app.get('/', (req, res) => {
     res.send('YumYum- server')
 })
 
-app.get('/restaurants', (req, res) => {
-    fs.readFile('./data/restaurants.json', (err, data) => {
+app.get('/api/restaurants', (req, res) => {
+    fs.readFile(path.join(__dirname, './data/restaurants.json'), 'utf8', (err, data) => {
         if (err) {
             console.error(err)
             res.status(500).send('An error occurred');
@@ -23,9 +24,9 @@ app.get('/restaurants', (req, res) => {
     });
 });
 
-app.get('/menu', (req, res) => {
+app.get('/api/menu', (req, res) => {
     const { id } = req.query
-    fs.readFile(`./data/menu/${id}.json`, (err, data) => {
+    fs.readFile(path.join(__dirname, `./data/menu/${id}.json`), 'utf8', (err, data) => {
         if (err) {
             console.error(err)
             res.status(500).send('An error occurred');
