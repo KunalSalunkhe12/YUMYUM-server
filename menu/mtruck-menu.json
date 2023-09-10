@@ -1,0 +1,676 @@
+{
+  "info": {
+    "id": "582645",
+    "name": "Moussestruck",
+    "city": "Mumbai",
+    "slugs": {
+      "restaurant": "moussestruck-vasai-vasai",
+      "city": "mumbai"
+    },
+    "uniqueId": "c3843723-ad40-4a6e-9e6f-fb520f6f43bd",
+    "cloudinaryImageId": "681c7880247e6c3db57354048b219076",
+    "locality": "Opp st Augustine School",
+    "areaName": "Vasai",
+    "costForTwo": "12000",
+    "costForTwoMessage": "₹120 for two",
+    "cuisines": ["Desserts", "Snacks"],
+    "avgRating": 4.7,
+    "veg": true,
+    "feeDetails": {
+      "restaurantId": "582645",
+      "fees": [
+        {
+          "name": "time"
+        },
+        {
+          "name": "distance",
+          "fee": 2000
+        },
+        {
+          "name": "special"
+        }
+      ],
+      "totalFee": 2000,
+      "icon": "EquitableDistanceFee/infoIcon",
+      "message": "Far-away restaurant. Additional delivery fees will apply."
+    },
+    "parentId": "4549",
+    "avgRatingString": "4.7",
+    "totalRatingsString": "20+ ratings",
+    "sla": {
+      "restaurantId": "582645",
+      "lastMileTravel": 1897.5,
+      "serviceability": "NON_SERVICEABLE",
+      "rainMode": "RAIN_MODE_NONE",
+      "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+      "lastMileTravelString": "1897.5 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2023-09-10 23:30:00",
+      "visibility": true,
+      "opened": true,
+      "restaurantClosedMeta": {}
+    },
+    "aggregatedDiscountInfo": {
+      "header": "40% off",
+      "shortDescriptionList": [
+        {
+          "meta": "40% off | Use TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "FLAT100 off | Use FLATDEAL",
+          "discountType": "Flat",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "descriptionList": [
+        {
+          "meta": "40% off up to ₹80 | Use code TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "FLAT100 off | Use FLATDEAL",
+          "discountType": "Flat",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "visible": true
+    },
+    "badges": {},
+    "slugString": "moussestruck-vasai-vasai",
+    "isOpen": true,
+    "labels": [
+      {
+        "title": "Timings",
+        "message": "null"
+      },
+      {
+        "title": "Address",
+        "message": "12 , Arunoday CHS LTD, Opp. St. Augustine School, Barampur,Vasai Station Road, Vasai Tahashil (Thane Zone6), Maharashtra-401202"
+      },
+      {
+        "title": "Cuisines",
+        "message": "Desserts,Snacks"
+      }
+    ],
+    "totalRatings": 20,
+    "aggregatedDiscountInfoV2": {
+      "header": "40% off",
+      "shortDescriptionList": [
+        {
+          "meta": "40% off | Use TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "FLAT100 off | Use FLATDEAL",
+          "discountType": "Flat",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "descriptionList": [
+        {
+          "meta": "40% off up to ₹80 | Use code TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "FLAT100 off | Use FLATDEAL",
+          "discountType": "Flat",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "couponDetailsCta": "View coupon details"
+    },
+    "type": "F",
+    "nudgeBanners": [
+      {
+        "minValue": 700,
+        "maxValue": 1000,
+        "priority": 3,
+        "couponCode": "PARTY",
+        "discountInfo": {
+          "discountType": "Percentage",
+          "value": 15
+        },
+        "lockedMessage": "Add items worth ₹<amount> to unlock flat 15% off | Code PARTY",
+        "unlockedMessage": "PARTY Coupon Unlocked! Use it to save flat 15% off",
+        "logoCtx": {}
+      }
+    ],
+    "headerBanner": {
+      "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/582645"
+    },
+    "ratingSlab": "RATING_SLAB_5",
+    "availabilityServiceabilityMessage": "Does not deliver to your location",
+    "orderabilityCommunication": {
+      "title": {
+        "text": "Wish you were"
+      },
+      "subTitle": {
+        "text": "CLOSER!"
+      },
+      "message": {
+        "text": "This location is outside the outlet's delivery area",
+        "textColour": "negative"
+      },
+      "customIcon": {
+        "bgGradientColorStart": "#F64C41",
+        "bgGradientColorEnd": "#E53554"
+      }
+    },
+    "hasBestsellerItems": true,
+    "cartOrderabilityNudgeBanner": {
+      "parameters": {},
+      "presentation": {}
+    },
+    "latLong": "19.370160047565474,72.81917990008112"
+  },
+  "menu": [
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Mousse Cups",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "97260421",
+              "name": "Classic Chocolate Mousse",
+              "category": "Mousse Cups",
+              "imageId": "qzsqp6kyyrcsmjvialmi",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 7600,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "5.0",
+                  "ratingCount": "4 ratings",
+                  "ratingCountV2": "4"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "97260422",
+              "name": "Cookies And Cream Mousse",
+              "category": "Mousse Cups",
+              "imageId": "elgapp1eriojiugl4ghk",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 8000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.2",
+                  "ratingCount": "3 ratings",
+                  "ratingCountV2": "3"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "97260423",
+              "name": "Dark Knight Mousse",
+              "category": "Mousse Cups",
+              "imageId": "zoz4kaeycs7ydarcuepm",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 7600,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.7",
+                  "ratingCount": "8 ratings",
+                  "ratingCountV2": "8"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "97260424",
+              "name": "Fererro Nutella Mousse",
+              "category": "Mousse Cups",
+              "imageId": "rklspqomf50b6klhpf9q",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 9000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.9",
+                  "ratingCount": "8 ratings",
+                  "ratingCountV2": "8"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "97260427",
+              "name": "Triple Chocolate Mousse",
+              "category": "Mousse Cups",
+              "imageId": "v2t7lui4whfiv2laxcwb",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 9000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.5",
+                  "ratingCount": "11 ratings",
+                  "ratingCountV2": "11"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "110675272",
+              "name": "Guilt Free Dark Chocolate Mousse",
+              "category": "Mousse Cups",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 10000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Cold Cheesecake Cups",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "97260428",
+              "name": "Blueberry Cheesecake Cup",
+              "category": "Cold Cheesecake Cups",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 10000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.3",
+                  "ratingCount": "10 ratings",
+                  "ratingCountV2": "10"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "97260430",
+              "name": "Lotus Biscoff Cheesecake Cup",
+              "category": "Cold Cheesecake Cups",
+              "description": "Lotus Biscoff cookie base and spread. match made in heaven.",
+              "imageId": "deqg9vxrtoynzojatrth",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 11000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.8",
+                  "ratingCount": "12 ratings",
+                  "ratingCountV2": "12"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "97260432",
+              "name": "Raspberry Cheesecake Cup",
+              "category": "Cold Cheesecake Cups",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 10000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "97525405",
+              "name": "Nutella Cheesecake Cup",
+              "category": "Cold Cheesecake Cups",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 11000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "5.0",
+                  "ratingCount": "3 ratings",
+                  "ratingCountV2": "3"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Bakery Style Cookies",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "97260433",
+              "name": "Chocolate Chips Cookie",
+              "category": "Bakery Style Cookies",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 5500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "97260434",
+              "name": "Double Chocolate Chip Cookie",
+              "category": "Bakery Style Cookies",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 5500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "97260435",
+              "name": "Nutella Sea Salt Cookie",
+              "category": "Bakery Style Cookies",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 6800,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Fudgy Brownie",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "112423548",
+              "name": "Fudgy Chocolate Brownie",
+              "category": "Fudgy Brownie",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 6500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2111 @@
+{
+  "info": {
+    "id": "140123",
+    "name": "Famous Dabeli",
+    "city": "Mumbai",
+    "slugs": {
+      "restaurant": "famous-dabeli-vasai-vasai",
+      "city": "mumbai"
+    },
+    "uniqueId": "fd5b7745-10c4-47ea-98e3-b6a86c40303f",
+    "cloudinaryImageId": "l4jfakfmuws4wkvu02qk",
+    "locality": "Ambadi Road",
+    "areaName": "Vasai West",
+    "costForTwo": "15000",
+    "costForTwoMessage": "₹150 for two",
+    "cuisines": ["Street Food"],
+    "avgRating": 4,
+    "veg": true,
+    "feeDetails": {
+      "restaurantId": "140123",
+      "fees": [
+        {
+          "name": "time"
+        },
+        {
+          "name": "distance",
+          "fee": 2000
+        },
+        {
+          "name": "special"
+        }
+      ],
+      "totalFee": 2000,
+      "icon": "EquitableDistanceFee/infoIcon",
+      "message": "Far-away restaurant. Additional delivery fees will apply."
+    },
+    "parentId": "7162",
+    "avgRatingString": "4.0",
+    "totalRatingsString": "100+ ratings",
+    "sla": {
+      "restaurantId": "140123",
+      "lastMileTravel": 1895.1,
+      "serviceability": "NON_SERVICEABLE",
+      "rainMode": "RAIN_MODE_NONE",
+      "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+      "lastMileTravelString": "1895.0 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2023-09-10 22:00:00",
+      "visibility": true,
+      "opened": true,
+      "restaurantClosedMeta": {}
+    },
+    "aggregatedDiscountInfo": {
+      "header": "50% off",
+      "shortDescriptionList": [
+        {
+          "meta": "50% off | Use TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "20% off | Use PARTY",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "descriptionList": [
+        {
+          "meta": "50% off up to ₹100 | Use code TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "20% off | Use code PARTY",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "visible": true
+    },
+    "badges": {},
+    "slugString": "famous-dabeli-vasai-vasai",
+    "isOpen": true,
+    "labels": [
+      {
+        "title": "Timings",
+        "message": "null"
+      },
+      {
+        "title": "Address",
+        "message": "LICENCE NO 121-45 OPP MANTHAN BANGLAF/Q.I.N.G VYASA BANK AMBADI ROAD, near  K.T. Signature Building, IDFC Bank.,Vasai Tahashil, Palghar, Maharashtra - 401202"
+      },
+      {
+        "title": "Cuisines",
+        "message": "Street Food"
+      }
+    ],
+    "totalRatings": 100,
+    "aggregatedDiscountInfoV2": {
+      "header": "50% off",
+      "shortDescriptionList": [
+        {
+          "meta": "50% off | Use TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "20% off | Use PARTY",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "descriptionList": [
+        {
+          "meta": "50% off up to ₹100 | Use code TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "20% off | Use code PARTY",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "couponDetailsCta": "View coupon details"
+    },
+    "type": "F",
+    "nudgeBanners": [
+      {
+        "minValue": 490,
+        "maxValue": 700,
+        "priority": 2,
+        "couponCode": "PARTY",
+        "discountInfo": {
+          "discountType": "Percentage",
+          "value": 20
+        },
+        "lockedMessage": "Add items worth ₹<amount> to unlock flat 20% off | Code PARTY",
+        "unlockedMessage": "PARTY Coupon Unlocked! Use it to save flat 20% off",
+        "logoCtx": {}
+      }
+    ],
+    "headerBanner": {
+      "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/140123"
+    },
+    "ratingSlab": "RATING_SLAB_4",
+    "availabilityServiceabilityMessage": "Does not deliver to your location",
+    "orderabilityCommunication": {
+      "title": {
+        "text": "Wish you were"
+      },
+      "subTitle": {
+        "text": "CLOSER!"
+      },
+      "message": {
+        "text": "This location is outside the outlet's delivery area",
+        "textColour": "negative"
+      },
+      "customIcon": {
+        "bgGradientColorStart": "#F64C41",
+        "bgGradientColorEnd": "#E53554"
+      }
+    },
+    "hasBestsellerItems": true,
+    "cartOrderabilityNudgeBanner": {
+      "parameters": {},
+      "presentation": {}
+    },
+    "latLong": "19.386562,72.826939"
+  },
+  "menu": [
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Recommended",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "50858329",
+              "name": "Danawadi Dabeli",
+              "category": "Snacks",
+              "imageId": "c9beba046c9bacbf29287add02e0de6a",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 3700,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.4",
+                  "ratingCount": "17 ratings",
+                  "ratingCountV2": "17"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "50858337",
+              "name": "Cheese Garlic Pav",
+              "category": "Snacks",
+              "imageId": "eba1f900144c83b8c4e9e187d79127ca",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 3700,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.2",
+                  "ratingCount": "8 ratings",
+                  "ratingCountV2": "8"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "35467588",
+              "name": "Sada Thanda Dabeli (Non Stewed Dabeli)",
+              "category": "Snacks",
+              "imageId": "6cd752d213af2e8f71e05a0d023ae07e",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 3300,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "6331113",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.5",
+                  "ratingCount": "15 ratings",
+                  "ratingCountV2": "15"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "35467590",
+              "name": "Jain Sada Thanda Dabeli (Jain Non Stewed Dabeli)",
+              "category": "Snacks",
+              "imageId": "885baa4500ba401083cdbf9911d214a4",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 3300,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "6350159",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "35467592",
+              "name": "Garam Butter Dabeli (Dabeli Stewed with Butter)",
+              "category": "Snacks",
+              "description": "A flavorful and indulgent snack bursting with rich buttery goodness.",
+              "imageId": "b369c28fbedbf0bd1eb42be031a999ed",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 3600,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "6350158",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.0",
+                  "ratingCount": "247 ratings",
+                  "ratingCountV2": "247"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "35467594",
+              "name": "Jain Garam Butter Dabeli (Jain Dabeli Stewed with Butter)",
+              "category": "Snacks",
+              "imageId": "66f20b714a28765b8272e97ddee4fda0",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 3600,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "6350157",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.8",
+                  "ratingCount": "22 ratings",
+                  "ratingCountV2": "22"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "35467601",
+              "name": "Rajdhani Dabeli (Super Spicy Dabeli) Cheese",
+              "category": "Snacks",
+              "imageId": "4f19299a2ec9547706563bd4d7a45121",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 6400,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "6350163",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "2.9",
+                  "ratingCount": "20 ratings",
+                  "ratingCountV2": "20"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "35467603",
+              "name": "Cheese Dabeli",
+              "category": "Snacks",
+              "description": "A scrumptious veg snack bursting with cheesy goodness.",
+              "imageId": "75eebe5d2ad663590e7972f4194296c2",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 6400,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "6350162",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.1",
+                  "ratingCount": "50 ratings",
+                  "ratingCountV2": "50"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "35467605",
+              "name": "Jain Cheese Dabeli",
+              "category": "Snacks",
+              "description": "A delectable Jain snack featuring cheesy flavors and delightful spices.",
+              "imageId": "29a27bb26707aa2bc4df64ab85831783",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 6400,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "6350161",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "35467607",
+              "name": "Kutchi Kadak Missal",
+              "category": "Snacks",
+              "description": "(Made With Jeera Butter, Sev And Other Dabeli Ingredients)",
+              "imageId": "qtnkmb2edh2bpegp1qhe",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 6400,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "5673011",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076878",
+                      "name": " Butter Pav (1)",
+                      "price": 800,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076877",
+                      "name": " Sada Pav(1)",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.4",
+                  "ratingCount": "41 ratings",
+                  "ratingCountV2": "41"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "46273345",
+              "name": "Sada Pav",
+              "category": "Snacks",
+              "imageId": "9c8902b12ea3c2ab1d909d1b1ebc4202",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 600,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.7",
+                  "ratingCount": "10 ratings",
+                  "ratingCountV2": "10"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "46273347",
+              "name": "Mayonnaise Dabeli",
+              "category": "Snacks",
+              "imageId": "b068fa839534e192a9523b78061ff2b2",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 4900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "5.0",
+                  "ratingCount": "7 ratings",
+                  "ratingCountV2": "7"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ],
+      "type": "CATEGORY_TYPE_RECOMMENDED"
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Swiggy Exclusive Combos",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "36854562",
+              "name": "Combo @ 109",
+              "category": "Swiggy Exclusive Combos",
+              "description": "1 Kutchi Kadak Missal & 2 Pav + 1 Dabeli + 1 Chaas",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 10900,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "6331114",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "2.4",
+                  "ratingCount": "60 ratings",
+                  "ratingCountV2": "60"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "36854563",
+              "name": "Combo @ 199",
+              "category": "Swiggy Exclusive Combos",
+              "description": "1 Kutchi Kadak Missal & 4 Pav + 2 Dabeli + Sprite (600 ml)",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 21900,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "6331115",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.7",
+                  "ratingCount": "17 ratings",
+                  "ratingCountV2": "17"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Snacks",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "50858324",
+              "name": "Cheese Danawadi Dabeli",
+              "category": "Snacks",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 6900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "5.0",
+                  "ratingCount": "8 ratings",
+                  "ratingCountV2": "8"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "50858329",
+              "name": "Danawadi Dabeli",
+              "category": "Snacks",
+              "imageId": "c9beba046c9bacbf29287add02e0de6a",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 3700,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.4",
+                  "ratingCount": "17 ratings",
+                  "ratingCountV2": "17"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "50858337",
+              "name": "Cheese Garlic Pav",
+              "category": "Snacks",
+              "imageId": "eba1f900144c83b8c4e9e187d79127ca",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 3700,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.2",
+                  "ratingCount": "8 ratings",
+                  "ratingCountV2": "8"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "35467588",
+              "name": "Sada Thanda Dabeli (Non Stewed Dabeli)",
+              "category": "Snacks",
+              "imageId": "6cd752d213af2e8f71e05a0d023ae07e",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 3300,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "6331113",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.5",
+                  "ratingCount": "15 ratings",
+                  "ratingCountV2": "15"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "35467590",
+              "name": "Jain Sada Thanda Dabeli (Jain Non Stewed Dabeli)",
+              "category": "Snacks",
+              "imageId": "885baa4500ba401083cdbf9911d214a4",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 3300,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "6350159",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "35467592",
+              "name": "Garam Butter Dabeli (Dabeli Stewed with Butter)",
+              "category": "Snacks",
+              "description": "A flavorful and indulgent snack bursting with rich buttery goodness.",
+              "imageId": "b369c28fbedbf0bd1eb42be031a999ed",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 3600,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "6350158",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.0",
+                  "ratingCount": "247 ratings",
+                  "ratingCountV2": "247"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "35467594",
+              "name": "Jain Garam Butter Dabeli (Jain Dabeli Stewed with Butter)",
+              "category": "Snacks",
+              "imageId": "66f20b714a28765b8272e97ddee4fda0",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 3600,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "6350157",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.8",
+                  "ratingCount": "22 ratings",
+                  "ratingCountV2": "22"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "35467596",
+              "name": "Rajdhani Dabeli (Super Spicy Dabeli) Sada",
+              "category": "Snacks",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 3300,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "6350156",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.8",
+                  "ratingCount": "20 ratings",
+                  "ratingCountV2": "20"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "35467599",
+              "name": "Rajdhani Dabeli (Super Spicy Dabeli) Garam",
+              "category": "Snacks",
+              "description": "A fiery fusion of flavors that will set your taste buds ablaze, Rajdhani Dabeli is the ultimate veg snack that packs a punch of irresistible spice.",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 3600,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "6350164",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.2",
+                  "ratingCount": "50 ratings",
+                  "ratingCountV2": "50"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "35467601",
+              "name": "Rajdhani Dabeli (Super Spicy Dabeli) Cheese",
+              "category": "Snacks",
+              "imageId": "4f19299a2ec9547706563bd4d7a45121",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 6400,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "6350163",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "2.9",
+                  "ratingCount": "20 ratings",
+                  "ratingCountV2": "20"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "35467603",
+              "name": "Cheese Dabeli",
+              "category": "Snacks",
+              "description": "A scrumptious veg snack bursting with cheesy goodness.",
+              "imageId": "75eebe5d2ad663590e7972f4194296c2",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 6400,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "6350162",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.1",
+                  "ratingCount": "50 ratings",
+                  "ratingCountV2": "50"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "35467605",
+              "name": "Jain Cheese Dabeli",
+              "category": "Snacks",
+              "description": "A delectable Jain snack featuring cheesy flavors and delightful spices.",
+              "imageId": "29a27bb26707aa2bc4df64ab85831783",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 6400,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "6350161",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "35467607",
+              "name": "Kutchi Kadak Missal",
+              "category": "Snacks",
+              "description": "(Made With Jeera Butter, Sev And Other Dabeli Ingredients)",
+              "imageId": "qtnkmb2edh2bpegp1qhe",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 6400,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "5673011",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076878",
+                      "name": " Butter Pav (1)",
+                      "price": 800,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076877",
+                      "name": " Sada Pav(1)",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.4",
+                  "ratingCount": "41 ratings",
+                  "ratingCountV2": "41"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "35467609",
+              "name": "Jain Kutchi Kadak Missal",
+              "category": "Snacks",
+              "description": "(Made With Jeera Butter, Sev And Other Jain Dabeli Ingredients)",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 6400,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "5673010",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076878",
+                      "name": " Butter Pav (1)",
+                      "price": 800,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076877",
+                      "name": " Sada Pav(1)",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "1.1",
+                  "ratingCount": "9 ratings",
+                  "ratingCountV2": "9"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "37700820",
+              "name": "Chatni Pav",
+              "category": "Snacks",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 1000,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "6350160",
+                  "groupName": "Add Ons",
+                  "choices": [
+                    {
+                      "id": "11076880",
+                      "name": "Spicy Lasun Chutney",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11315264",
+                      "name": "Onions",
+                      "price": 500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "11076879",
+                      "name": "Extra Sing (Masala Peanuts)",
+                      "price": 1500,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": -1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "5.0",
+                  "ratingCount": "6 ratings",
+                  "ratingCountV2": "6"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "46273345",
+              "name": "Sada Pav",
+              "category": "Snacks",
+              "imageId": "9c8902b12ea3c2ab1d909d1b1ebc4202",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 600,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.7",
+                  "ratingCount": "10 ratings",
+                  "ratingCountV2": "10"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "46273346",
+              "name": "Butter Pav",
+              "category": "Snacks",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 1000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.3",
+                  "ratingCount": "8 ratings",
+                  "ratingCountV2": "8"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "46273347",
+              "name": "Mayonnaise Dabeli",
+              "category": "Snacks",
+              "imageId": "b068fa839534e192a9523b78061ff2b2",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 4900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "5.0",
+                  "ratingCount": "7 ratings",
+                  "ratingCountV2": "7"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "46273349",
+              "name": "Schezwan Dabeli",
+              "category": "Snacks",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 4900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "2.7",
+                  "ratingCount": "10 ratings",
+                  "ratingCountV2": "10"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    }
+  ]
+}

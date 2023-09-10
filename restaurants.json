@@ -1,0 +1,783 @@
+[
+  {
+    "info": {
+      "id": "552714",
+      "name": "KFC",
+      "cloudinaryImageId": "56c9ab92bd79745fd152a30fa2525426",
+      "locality": "Achole Rd",
+      "areaName": "Capital Mall",
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Burgers", "Biryani", "American", "Snacks", "Fast Food"],
+      "avgRating": 3.9,
+      "feeDetails": {
+        "restaurantId": "552714",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 7100
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
+        ],
+        "totalFee": 7100
+      },
+      "parentId": "547",
+      "avgRatingString": "3.9",
+      "totalRatingsString": "500+",
+      "sla": {
+        "deliveryTime": 34,
+        "lastMileTravel": 6.6,
+        "serviceability": "SERVICEABLE",
+        "slaString": "34 mins",
+        "lastMileTravelString": "6.6 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-09-10 23:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "aggregatedDiscountInfoV2": {},
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+      "context": "seo-data-b7e917e9-edda-415b-ab26-e799ce20b378"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/kfc-achole-rd-capital-mall-mumbai-552714",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "info": {
+      "id": "37937",
+      "name": "McDonald's",
+      "cloudinaryImageId": "ee5f8e06b300efc07c9fe3f4df40dfc4",
+      "locality": "Agarwal Complex",
+      "areaName": "Vasai West",
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Burgers", "Beverages", "Cafe", "Desserts"],
+      "avgRating": 4.3,
+      "feeDetails": {
+        "restaurantId": "37937",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3500
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
+        ],
+        "totalFee": 3500
+      },
+      "parentId": "630",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "10K+",
+      "sla": {
+        "deliveryTime": 17,
+        "lastMileTravel": 0.6,
+        "serviceability": "SERVICEABLE",
+        "slaString": "17 mins",
+        "lastMileTravelString": "0.6 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-09-11 00:45:00",
+        "opened": true
+      },
+      "badges": {
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "options available",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "options available"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "10% OFF",
+        "subHeader": "ABOVE ₹999",
+        "discountTag": "FLAT DEAL"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+      "context": "seo-data-b7e917e9-edda-415b-ab26-e799ce20b378"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/mcdonalds-agarwal-complex-vasai-west-mumbai-37937",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "info": {
+      "id": "513063",
+      "name": "Burger King",
+      "cloudinaryImageId": "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+      "locality": "Richmond Town Phase Ii",
+      "areaName": "Vasai",
+      "costForTwo": "₹350 for two",
+      "cuisines": ["Burgers", "American"],
+      "avgRating": 4.2,
+      "feeDetails": {
+        "restaurantId": "513063",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3500
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
+        ],
+        "totalFee": 3500
+      },
+      "parentId": "166",
+      "avgRatingString": "4.2",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 17,
+        "lastMileTravel": 0.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "17 mins",
+        "lastMileTravelString": "0.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-09-11 04:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "60% OFF",
+        "subHeader": "UPTO ₹120"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+      "context": "seo-data-b7e917e9-edda-415b-ab26-e799ce20b378"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/burger-king-richmond-town-phase-ii-vasai-mumbai-513063",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "info": {
+      "id": "38950",
+      "name": "Domino's Pizza",
+      "cloudinaryImageId": "kptn63ucsqlghipqo9h9",
+      "locality": "Emarald Building",
+      "areaName": "Vasai West",
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Pizzas", "Italian", "Pastas", "Desserts"],
+      "avgRating": 3.9,
+      "feeDetails": {
+        "restaurantId": "38950",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3500
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
+        ],
+        "totalFee": 3500
+      },
+      "parentId": "2456",
+      "avgRatingString": "3.9",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 25,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25 mins",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-09-11 02:59:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹100 OFF",
+        "subHeader": "ABOVE ₹699",
+        "discountTag": "FLAT DEAL"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+      "context": "seo-data-b7e917e9-edda-415b-ab26-e799ce20b378"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/dominos-pizza-emarald-building-vasai-west-mumbai-38950",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "info": {
+      "id": "654298",
+      "name": "La Pino'z Pizza",
+      "cloudinaryImageId": "d20fdc8c86aa8bd0638f47dd013d46f9",
+      "locality": "Vasai",
+      "areaName": "Station Road",
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Pizzas", "Pastas", "Italian", "Desserts", "Beverages"],
+      "avgRating": 3.9,
+      "feeDetails": {
+        "restaurantId": "654298",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3500
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
+        ],
+        "totalFee": 3500
+      },
+      "parentId": "4961",
+      "avgRatingString": "3.9",
+      "totalRatingsString": "100+",
+      "sla": {
+        "deliveryTime": 16,
+        "lastMileTravel": 0.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "16 mins",
+        "lastMileTravelString": "0.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-09-11 03:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "50% OFF",
+        "subHeader": "UPTO ₹100"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+      "context": "seo-data-b7e917e9-edda-415b-ab26-e799ce20b378"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/la-pinoz-pizza-vasai-station-road-mumbai-654298",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "info": {
+      "id": "54117",
+      "name": "Hunan",
+      "cloudinaryImageId": "9f39b2b7fb228d8aa8c3f873ea289bf5",
+      "locality": "Vasai",
+      "areaName": "Vasai West",
+      "costForTwo": "₹300 for two",
+      "cuisines": ["Chinese"],
+      "avgRating": 4,
+      "feeDetails": {
+        "restaurantId": "54117",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3500
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
+        ],
+        "totalFee": 3500
+      },
+      "parentId": "2084",
+      "avgRatingString": "4.0",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 21,
+        "lastMileTravel": 1.6,
+        "serviceability": "SERVICEABLE",
+        "slaString": "21 mins",
+        "lastMileTravelString": "1.6 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-09-10 23:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "newg.png",
+            "description": "Gourmet"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Gourmet",
+                  "imageId": "newg.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "30% OFF",
+        "subHeader": "UPTO ₹75"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+      "context": "seo-data-b7e917e9-edda-415b-ab26-e799ce20b378"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/hunan-vasai-vasai-west-mumbai-54117",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "info": {
+      "id": "140123",
+      "name": "Famous Dabeli",
+      "cloudinaryImageId": "l4jfakfmuws4wkvu02qk",
+      "locality": "Ambadi Road",
+      "areaName": "Vasai West",
+      "costForTwo": "₹150 for two",
+      "cuisines": ["Street Food"],
+      "avgRating": 4,
+      "veg": true,
+      "feeDetails": {
+        "restaurantId": "140123",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3500
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
+        ],
+        "totalFee": 3500
+      },
+      "parentId": "7162",
+      "avgRatingString": "4.0",
+      "totalRatingsString": "100+",
+      "sla": {
+        "deliveryTime": 24,
+        "lastMileTravel": 2.7,
+        "serviceability": "SERVICEABLE",
+        "slaString": "24 mins",
+        "lastMileTravelString": "2.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-09-10 22:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "50% OFF",
+        "subHeader": "UPTO ₹100"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+      "context": "seo-data-b7e917e9-edda-415b-ab26-e799ce20b378"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/famous-dabeli-ambadi-road-vasai-west-mumbai-140123",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "info": {
+      "id": "582645",
+      "name": "Moussestruck",
+      "cloudinaryImageId": "681c7880247e6c3db57354048b219076",
+      "locality": "Opp st Augustine School",
+      "areaName": "Vasai",
+      "costForTwo": "₹120 for two",
+      "cuisines": ["Desserts", "Snacks"],
+      "avgRating": 4.7,
+      "veg": true,
+      "feeDetails": {
+        "restaurantId": "582645",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3500
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
+        ],
+        "totalFee": 3500
+      },
+      "parentId": "4549",
+      "avgRatingString": "4.7",
+      "totalRatingsString": "20+",
+      "sla": {
+        "deliveryTime": 14,
+        "lastMileTravel": 0.3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "14 mins",
+        "lastMileTravelString": "0.3 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-09-10 23:30:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "40% OFF",
+        "subHeader": "UPTO ₹80"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+      "context": "seo-data-b7e917e9-edda-415b-ab26-e799ce20b378"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/moussestruck-opp-st-augustine-school-vasai-mumbai-582645",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "info": {
+      "id": "438801",
+      "name": "AL-Baik.Com",
+      "cloudinaryImageId": "pgiydrnpkkl7zh3q66dy",
+      "locality": "Dindayal Nagar",
+      "areaName": "Vasai",
+      "costForTwo": "₹250 for two",
+      "cuisines": ["Fast Food", "Combo", "Pizzas"],
+      "avgRating": 4.2,
+      "feeDetails": {
+        "restaurantId": "438801",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 3500
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
+        ],
+        "totalFee": 3500
+      },
+      "parentId": "6315",
+      "avgRatingString": "4.2",
+      "totalRatingsString": "100+",
+      "sla": {
+        "deliveryTime": 28,
+        "lastMileTravel": 1.9,
+        "serviceability": "SERVICEABLE",
+        "slaString": "28 mins",
+        "lastMileTravelString": "1.9 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-09-11 00:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "10% OFF",
+        "subHeader": "UPTO ₹40"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+      "context": "seo-data-b7e917e9-edda-415b-ab26-e799ce20b378"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/al-baik-com-dindayal-nagar-vasai-mumbai-438801",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  }
+]

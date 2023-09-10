@@ -1,0 +1,3894 @@
+{
+  "info": {
+    "id": "54117",
+    "name": "Hunan",
+    "city": "Mumbai",
+    "slugs": {
+      "restaurant": "hunan-vasai-vasai",
+      "city": "mumbai"
+    },
+    "uniqueId": "665b23a6-0459-41b0-9e55-836ae6ad1b81",
+    "cloudinaryImageId": "9f39b2b7fb228d8aa8c3f873ea289bf5",
+    "locality": "Vasai",
+    "areaName": "Vasai West",
+    "costForTwo": "30000",
+    "costForTwoMessage": "₹300 for two",
+    "cuisines": ["Chinese"],
+    "avgRating": 4,
+    "feeDetails": {
+      "restaurantId": "54117",
+      "fees": [
+        {
+          "name": "time"
+        },
+        {
+          "name": "distance",
+          "fee": 2000
+        },
+        {
+          "name": "special"
+        }
+      ],
+      "totalFee": 2000,
+      "icon": "EquitableDistanceFee/infoIcon",
+      "message": "Far-away restaurant. Additional delivery fees will apply."
+    },
+    "parentId": "2084",
+    "avgRatingString": "4.0",
+    "totalRatingsString": "1K+ ratings",
+    "sla": {
+      "restaurantId": "54117",
+      "lastMileTravel": 1898.9,
+      "serviceability": "NON_SERVICEABLE",
+      "rainMode": "RAIN_MODE_NONE",
+      "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+      "lastMileTravelString": "1898.9 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2023-09-10 23:00:00",
+      "visibility": true,
+      "opened": true,
+      "restaurantClosedMeta": {}
+    },
+    "aggregatedDiscountInfo": {
+      "header": "30% off",
+      "shortDescriptionList": [
+        {
+          "meta": "30% off | Use TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "descriptionList": [
+        {
+          "meta": "30% off up to ₹75 | Use code TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "15% off upto ₹300 | Use CITIFOODIE Above ₹1200",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "visible": true
+    },
+    "badges": {},
+    "slugString": "hunan-vasai-vasai",
+    "isOpen": true,
+    "labels": [
+      {
+        "title": "Timings",
+        "message": "null"
+      },
+      {
+        "title": "Address",
+        "message": "11, 2nd Floor, Food Court, Dattani Square Mall, Vasai, Mumbai"
+      },
+      {
+        "title": "Cuisines",
+        "message": "Chinese"
+      }
+    ],
+    "logo": "v1668173439/Gourmet_OBV2/logos/Hunan.png",
+    "totalRatings": 1000,
+    "aggregatedDiscountInfoV2": {
+      "header": "30% off",
+      "shortDescriptionList": [
+        {
+          "meta": "30% off | Use TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "descriptionList": [
+        {
+          "meta": "30% off up to ₹75 | Use code TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "15% off upto ₹300 | Use CITIFOODIE Above ₹1200",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "couponDetailsCta": "View coupon details"
+    },
+    "type": "F",
+    "headerBanner": {
+      "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/54117"
+    },
+    "generalPurposeInfoListV2": [
+      {
+        "cta": {
+          "info": {
+            "recordings": {}
+          },
+          "linkCta": {}
+        }
+      }
+    ],
+    "ratingSlab": "RATING_SLAB_4",
+    "availabilityServiceabilityMessage": "Does not deliver to your location",
+    "restaurantCategory": "RESTAURANT_CATEGORY_GOURMET",
+    "backgroundImage": "v1668173979/Gourmet_OBV2/menu%20headers/Hunan_1.png",
+    "orderabilityCommunication": {
+      "title": {
+        "text": "Wish you were"
+      },
+      "subTitle": {
+        "text": "CLOSER!"
+      },
+      "message": {
+        "text": "This location is outside the outlet's delivery area",
+        "textColour": "negative"
+      },
+      "customIcon": {
+        "bgGradientColorStart": "#F64C41",
+        "bgGradientColorEnd": "#E53554"
+      }
+    },
+    "hasBestsellerItems": true,
+    "cartOrderabilityNudgeBanner": {
+      "parameters": {},
+      "presentation": {}
+    },
+    "latLong": "19.3593548,72.8122335"
+  },
+  "menu": [
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Recommended",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "112230592",
+              "name": "Veg Momo ",
+              "category": "Momos",
+              "description": "Veggie delight. Filled with freshly chopped vegetables and mixed with chinese sauce .",
+              "imageId": "a54c3f152fb142b3fed3f9f9d98fa497",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 21000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677822",
+              "name": "Veg Manchow Soup",
+              "category": "Soups",
+              "imageId": "u8idl5fgdqwxacvm87ex",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 16000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.8",
+                  "ratingCount": "24 ratings",
+                  "ratingCountV2": "24"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677825",
+              "name": "Veg Hot & Sour Soup",
+              "category": "Soups",
+              "imageId": "kjxylnryi6aj559b2qek",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 16000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.6",
+                  "ratingCount": "7 ratings",
+                  "ratingCountV2": "7"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677827",
+              "name": "Veg Clear Soup",
+              "category": "Soups",
+              "imageId": "zmrzjeslou0n0mhqpvvz",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 16000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677833",
+              "name": "Chicken Manchow Soup",
+              "category": "Soups",
+              "imageId": "vk71klyudo3lriohfccb",
+              "inStock": 1,
+              "price": 19000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.5",
+                  "ratingCount": "146 ratings",
+                  "ratingCountV2": "146"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677835",
+              "name": "Chicken Hot & Sour Soup",
+              "category": "Soups",
+              "imageId": "pmgdkf3kucdunf6wcmaw",
+              "inStock": 1,
+              "price": 19000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "2.6",
+                  "ratingCount": "10 ratings",
+                  "ratingCountV2": "10"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677837",
+              "name": "Chicken Clear Soup",
+              "category": "Soups",
+              "imageId": "bo49nfdpgelwfhyh1d9z",
+              "inStock": 1,
+              "price": 19000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.6",
+                  "ratingCount": "8 ratings",
+                  "ratingCountV2": "8"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677849",
+              "name": "Veg Manchurian",
+              "category": "Starters",
+              "imageId": "ckoj2b1dta0ol8do29vt",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 22400,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.8",
+                  "ratingCount": "27 ratings",
+                  "ratingCountV2": "27"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677845",
+              "name": "Veg Spring Roll",
+              "category": "Starters",
+              "imageId": "cdrc7nrkubmlcn6le2zk",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 20800,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "2.7",
+                  "ratingCount": "16 ratings",
+                  "ratingCountV2": "16"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677847",
+              "name": "Veg Fried Wontons",
+              "category": "Starters",
+              "imageId": "yrzl2jcnzhxfsyhcap3b",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 20800,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "2.8",
+                  "ratingCount": "3 ratings",
+                  "ratingCountV2": "3"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677871",
+              "name": "Chicken Manchurian Dry",
+              "category": "Starters",
+              "imageId": "coapyaa3ky9vppfh5rkq",
+              "inStock": 1,
+              "price": 25000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "2.2",
+                  "ratingCount": "65 ratings",
+                  "ratingCountV2": "65"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677877",
+              "name": "Crispy Chicken",
+              "category": "Starters",
+              "imageId": "kibygd3gvgcmjys5awkh",
+              "inStock": 1,
+              "price": 25000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.0",
+                  "ratingCount": "319 ratings",
+                  "ratingCountV2": "319"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677879",
+              "name": "Pan Fried Chicken",
+              "category": "Starters",
+              "imageId": "jgr4mlwunj3maocdkw5m",
+              "inStock": 1,
+              "price": 25000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.1",
+                  "ratingCount": "95 ratings",
+                  "ratingCountV2": "95"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677885",
+              "name": "Salt & Pepper Chicken",
+              "category": "Starters",
+              "imageId": "bsdtsekln7jsirr1xjzj",
+              "inStock": 1,
+              "price": 27000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.3",
+                  "ratingCount": "43 ratings",
+                  "ratingCountV2": "43"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677888",
+              "name": "Oyster Pan Chicken",
+              "category": "Starters",
+              "imageId": "cuu4szmtohvnj3tj1gsy",
+              "inStock": 1,
+              "price": 28000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.5",
+                  "ratingCount": "39 ratings",
+                  "ratingCountV2": "39"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677890",
+              "name": "Roasted Chicken Chilli Dry",
+              "category": "Starters",
+              "imageId": "mw5ipxycwjyevs2o7feh",
+              "inStock": 1,
+              "price": 28000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.3",
+                  "ratingCount": "71 ratings",
+                  "ratingCountV2": "71"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677867",
+              "name": "Chicken Lollipop",
+              "category": "Starters",
+              "imageId": "fgjlgap6wt2lsnenwndc",
+              "inStock": 1,
+              "price": 24000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.9",
+                  "ratingCount": "311 ratings",
+                  "ratingCountV2": "311"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677869",
+              "name": "Chicken Lollipop Masala",
+              "category": "Starters",
+              "imageId": "jocc6arhxas9lvqnmb2t",
+              "inStock": 1,
+              "price": 27000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.2",
+                  "ratingCount": "222 ratings",
+                  "ratingCountV2": "222"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677863",
+              "name": "Chicken Spring Roll",
+              "category": "Starters",
+              "imageId": "lkyvs3arnjjduwodugrv",
+              "inStock": 1,
+              "price": 20800,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "5.0",
+                  "ratingCount": "18 ratings",
+                  "ratingCountV2": "18"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677865",
+              "name": "Chicken Fried Wontons",
+              "category": "Starters",
+              "imageId": "poasladbfuh7u5kqeydn",
+              "inStock": 1,
+              "price": 20800,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "5.0",
+                  "ratingCount": "22 ratings",
+                  "ratingCountV2": "22"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677910",
+              "name": "Mixed Veg Paneer in Hunan",
+              "category": "Main Course",
+              "imageId": "pcu0lsfrpf1si5lzaiqt",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 16000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.0",
+                  "ratingCount": "7 ratings",
+                  "ratingCountV2": "7"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677828",
+              "name": "Schezwan Chicken",
+              "category": "Main Course",
+              "imageId": "dnwmr95mnvgcyp9p0zdq",
+              "inStock": 1,
+              "price": 25000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677830",
+              "name": "Chilli Chicken Gravy",
+              "category": "Main Course",
+              "imageId": "g46zao5m7qmngmqxvbz8",
+              "inStock": 1,
+              "price": 25000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.5",
+                  "ratingCount": "25 ratings",
+                  "ratingCountV2": "25"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677836",
+              "name": "Veg Fried Rice",
+              "category": "Main Course",
+              "imageId": "pmmkmvwzyye6eejihyxi",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 16000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.2",
+                  "ratingCount": "64 ratings",
+                  "ratingCountV2": "64"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677852",
+              "name": "Chicken Fried Rice",
+              "category": "Main Course",
+              "imageId": "ey9urvx7lk9ar5jvhuo8",
+              "inStock": 1,
+              "price": 19000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.3",
+                  "ratingCount": "312 ratings",
+                  "ratingCountV2": "312"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677854",
+              "name": "Chicken Schezwan Fried Rice",
+              "category": "Main Course",
+              "imageId": "ph3uy6ap8jokjwtrkvm0",
+              "inStock": 1,
+              "price": 20800,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.2",
+                  "ratingCount": "379 ratings",
+                  "ratingCountV2": "379"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677856",
+              "name": "Chicken Singapore Fried Rice",
+              "category": "Main Course",
+              "imageId": "yotjfjfykja1pisun7y5",
+              "inStock": 1,
+              "price": 20800,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "1.9",
+                  "ratingCount": "92 ratings",
+                  "ratingCountV2": "92"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677858",
+              "name": "Chicken Chilli Garlic Fried Rice",
+              "category": "Main Course",
+              "imageId": "68f3225938f4170364ffe500c42af381",
+              "inStock": 1,
+              "price": 20800,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.2",
+                  "ratingCount": "61 ratings",
+                  "ratingCountV2": "61"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677866",
+              "name": "Chicken Triple Schezwan Rice",
+              "category": "Main Course",
+              "imageId": "ksngth6ez6j72fven8x9",
+              "inStock": 1,
+              "price": 27000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.9",
+                  "ratingCount": "367 ratings",
+                  "ratingCountV2": "367"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677874",
+              "name": "Veg Schezwan Noodles",
+              "category": "Main Course",
+              "imageId": "57c9f6ea63a47c140078a89fd78c7542",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 19000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.9",
+                  "ratingCount": "22 ratings",
+                  "ratingCountV2": "22"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677882",
+              "name": "Veg Pan Fried Noodles",
+              "category": "Main Course",
+              "imageId": "jbekfuzhu1kkkqlrqxle",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 28800,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.4",
+                  "ratingCount": "3 ratings",
+                  "ratingCountV2": "3"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677884",
+              "name": "Chicken Hakka Noodles",
+              "category": "Main Course",
+              "imageId": "gfv0nct8adt6d928aizy",
+              "inStock": 1,
+              "price": 19000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.9",
+                  "ratingCount": "160 ratings",
+                  "ratingCountV2": "160"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "13677889",
+              "name": "Chicken Schezwan Noodles",
+              "category": "Main Course",
+              "imageId": "78212e6e6e20254ba3173b09e59a47b2",
+              "inStock": 1,
+              "price": 20800,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.4",
+                  "ratingCount": "75 ratings",
+                  "ratingCountV2": "75"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ],
+      "type": "CATEGORY_TYPE_RECOMMENDED"
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Momos",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "112230806",
+              "name": "Chicken Fried Momos ",
+              "category": "Momos",
+              "description": "Stuffed with mix of juicy leg bonless chicken keema and chicnese sauces then oil fried",
+              "inStock": 1,
+              "price": 21000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.0",
+                  "ratingCount": "3 ratings",
+                  "ratingCountV2": "3"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "112230788",
+              "name": "Chicken Steem Momos",
+              "category": "Momos",
+              "description": "Stuffed with mix of juicy leg bonless chicken keema and chinese sauces",
+              "inStock": 1,
+              "price": 21000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.9",
+                  "ratingCount": "3 ratings",
+                  "ratingCountV2": "3"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "112230635",
+              "name": "Veg Fried Momos ",
+              "category": "Momos",
+              "description": "Veggie delight , filled with freshly chopped vegetables and mixed with chinese sauces and deeply oil fry",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 21000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "112230592",
+              "name": "Veg Momo ",
+              "category": "Momos",
+              "description": "Veggie delight. Filled with freshly chopped vegetables and mixed with chinese sauce .",
+              "imageId": "a54c3f152fb142b3fed3f9f9d98fa497",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 21000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Family Binge Combos",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "37728728",
+              "name": "Chicken Fried Rice + Hunan Chicken",
+              "category": "Family Binge Combos",
+              "inStock": 1,
+              "price": 39000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.0",
+                  "ratingCount": "5 ratings",
+                  "ratingCountV2": "5"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "37728729",
+              "name": "Veg Manchurian Gravy + Veg Fried Rice",
+              "category": "Family Binge Combos",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 36000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "1.0",
+                  "ratingCount": "4 ratings",
+                  "ratingCountV2": "4"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "37728730",
+              "name": "Veg Schezwan Noodles + Paneer Chilli",
+              "category": "Family Binge Combos",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 42000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.0",
+                  "ratingCount": "3 ratings",
+                  "ratingCountV2": "3"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "37728731",
+              "name": "Chicken Schezwan Noodles + Chicken Manchow Soup",
+              "category": "Family Binge Combos",
+              "inStock": 1,
+              "price": 36000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.8",
+                  "ratingCount": "5 ratings",
+                  "ratingCountV2": "5"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "37728732",
+              "name": "Crispy Chicken + Chicken Singapore Fried Rice",
+              "category": "Family Binge Combos",
+              "inStock": 1,
+              "price": 43000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.3",
+                  "ratingCount": "3 ratings",
+                  "ratingCountV2": "3"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+      "title": "Soups",
+      "categories": [
+        {
+          "title": "Veg",
+          "itemCards": [
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677822",
+                  "name": "Veg Manchow Soup",
+                  "category": "Soups",
+                  "imageId": "u8idl5fgdqwxacvm87ex",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 16000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "3.8",
+                      "ratingCount": "24 ratings",
+                      "ratingCountV2": "24"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677825",
+                  "name": "Veg Hot & Sour Soup",
+                  "category": "Soups",
+                  "imageId": "kjxylnryi6aj559b2qek",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 16000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "3.6",
+                      "ratingCount": "7 ratings",
+                      "ratingCountV2": "7"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677827",
+                  "name": "Veg Clear Soup",
+                  "category": "Soups",
+                  "imageId": "zmrzjeslou0n0mhqpvvz",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 16000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {}
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677831",
+                  "name": "Veg Coriander Pepper Soup",
+                  "category": "Soups",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 16000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {}
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            }
+          ]
+        },
+        {
+          "title": "Chicken",
+          "itemCards": [
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677833",
+                  "name": "Chicken Manchow Soup",
+                  "category": "Soups",
+                  "imageId": "vk71klyudo3lriohfccb",
+                  "inStock": 1,
+                  "price": 19000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {
+                    "text": "Bestseller",
+                    "textColor": "#ffffff",
+                    "topBackgroundColor": "#d53d4c",
+                    "bottomBackgroundColor": "#b02331"
+                  },
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "isBestseller": true,
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.5",
+                      "ratingCount": "146 ratings",
+                      "ratingCountV2": "146"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677835",
+                  "name": "Chicken Hot & Sour Soup",
+                  "category": "Soups",
+                  "imageId": "pmgdkf3kucdunf6wcmaw",
+                  "inStock": 1,
+                  "price": 19000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "2.6",
+                      "ratingCount": "10 ratings",
+                      "ratingCountV2": "10"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677837",
+                  "name": "Chicken Clear Soup",
+                  "category": "Soups",
+                  "imageId": "bo49nfdpgelwfhyh1d9z",
+                  "inStock": 1,
+                  "price": 19000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.6",
+                      "ratingCount": "8 ratings",
+                      "ratingCountV2": "8"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677841",
+                  "name": "Chicken Coriander Pepper Soup",
+                  "category": "Soups",
+                  "inStock": 1,
+                  "price": 19000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "3.5",
+                      "ratingCount": "5 ratings",
+                      "ratingCountV2": "5"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+      "title": "Starters",
+      "categories": [
+        {
+          "title": "Veg",
+          "itemCards": [
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677849",
+                  "name": "Veg Manchurian",
+                  "category": "Starters",
+                  "imageId": "ckoj2b1dta0ol8do29vt",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 22400,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.8",
+                      "ratingCount": "27 ratings",
+                      "ratingCountV2": "27"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677853",
+                  "name": "Veg Crispy",
+                  "category": "Starters",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 24000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "2.4",
+                      "ratingCount": "16 ratings",
+                      "ratingCountV2": "16"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677855",
+                  "name": "Mushroom Chilli",
+                  "category": "Starters",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 24000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.7",
+                      "ratingCount": "9 ratings",
+                      "ratingCountV2": "9"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677857",
+                  "name": "Veg Manchurian Chilli",
+                  "category": "Starters",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 24000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.3",
+                      "ratingCount": "6 ratings",
+                      "ratingCountV2": "6"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677861",
+                  "name": "Paneer Manchurian Dry",
+                  "category": "Starters",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 27200,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.2",
+                      "ratingCount": "3 ratings",
+                      "ratingCountV2": "3"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677845",
+                  "name": "Veg Spring Roll",
+                  "category": "Starters",
+                  "imageId": "cdrc7nrkubmlcn6le2zk",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 20800,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "2.7",
+                      "ratingCount": "16 ratings",
+                      "ratingCountV2": "16"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677847",
+                  "name": "Veg Fried Wontons",
+                  "category": "Starters",
+                  "imageId": "yrzl2jcnzhxfsyhcap3b",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 20800,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "2.8",
+                      "ratingCount": "3 ratings",
+                      "ratingCountV2": "3"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677859",
+                  "name": "Paneer Chilli",
+                  "category": "Starters",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 27200,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.0",
+                      "ratingCount": "10 ratings",
+                      "ratingCountV2": "10"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            }
+          ]
+        },
+        {
+          "title": "Chicken",
+          "itemCards": [
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677871",
+                  "name": "Chicken Manchurian Dry",
+                  "category": "Starters",
+                  "imageId": "coapyaa3ky9vppfh5rkq",
+                  "inStock": 1,
+                  "price": 25000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "2.2",
+                      "ratingCount": "65 ratings",
+                      "ratingCountV2": "65"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677873",
+                  "name": "Chilli Chicken Dry",
+                  "category": "Starters",
+                  "inStock": 1,
+                  "price": 25000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.8",
+                      "ratingCount": "50 ratings",
+                      "ratingCountV2": "50"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677875",
+                  "name": "Chicken Schezwan Dry",
+                  "category": "Starters",
+                  "inStock": 1,
+                  "price": 25000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.1",
+                      "ratingCount": "7 ratings",
+                      "ratingCountV2": "7"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677877",
+                  "name": "Crispy Chicken",
+                  "category": "Starters",
+                  "imageId": "kibygd3gvgcmjys5awkh",
+                  "inStock": 1,
+                  "price": 25000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {
+                    "text": "Bestseller",
+                    "textColor": "#ffffff",
+                    "topBackgroundColor": "#d53d4c",
+                    "bottomBackgroundColor": "#b02331"
+                  },
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "isBestseller": true,
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.0",
+                      "ratingCount": "319 ratings",
+                      "ratingCountV2": "319"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677879",
+                  "name": "Pan Fried Chicken",
+                  "category": "Starters",
+                  "imageId": "jgr4mlwunj3maocdkw5m",
+                  "inStock": 1,
+                  "price": 25000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.1",
+                      "ratingCount": "95 ratings",
+                      "ratingCountV2": "95"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677881",
+                  "name": "Pepper Chicken",
+                  "category": "Starters",
+                  "inStock": 1,
+                  "price": 27000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {}
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677885",
+                  "name": "Salt & Pepper Chicken",
+                  "category": "Starters",
+                  "imageId": "bsdtsekln7jsirr1xjzj",
+                  "inStock": 1,
+                  "price": 27000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.3",
+                      "ratingCount": "43 ratings",
+                      "ratingCountV2": "43"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677888",
+                  "name": "Oyster Pan Chicken",
+                  "category": "Starters",
+                  "imageId": "cuu4szmtohvnj3tj1gsy",
+                  "inStock": 1,
+                  "price": 28000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.5",
+                      "ratingCount": "39 ratings",
+                      "ratingCountV2": "39"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677890",
+                  "name": "Roasted Chicken Chilli Dry",
+                  "category": "Starters",
+                  "imageId": "mw5ipxycwjyevs2o7feh",
+                  "inStock": 1,
+                  "price": 28000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.3",
+                      "ratingCount": "71 ratings",
+                      "ratingCountV2": "71"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677867",
+                  "name": "Chicken Lollipop",
+                  "category": "Starters",
+                  "imageId": "fgjlgap6wt2lsnenwndc",
+                  "inStock": 1,
+                  "price": 24000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {
+                    "text": "Bestseller",
+                    "textColor": "#ffffff",
+                    "topBackgroundColor": "#d53d4c",
+                    "bottomBackgroundColor": "#b02331"
+                  },
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "isBestseller": true,
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "3.9",
+                      "ratingCount": "311 ratings",
+                      "ratingCountV2": "311"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677869",
+                  "name": "Chicken Lollipop Masala",
+                  "category": "Starters",
+                  "imageId": "jocc6arhxas9lvqnmb2t",
+                  "inStock": 1,
+                  "price": 27000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.2",
+                      "ratingCount": "222 ratings",
+                      "ratingCountV2": "222"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677863",
+                  "name": "Chicken Spring Roll",
+                  "category": "Starters",
+                  "imageId": "lkyvs3arnjjduwodugrv",
+                  "inStock": 1,
+                  "price": 20800,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {
+                    "text": "Bestseller",
+                    "textColor": "#ffffff",
+                    "topBackgroundColor": "#d53d4c",
+                    "bottomBackgroundColor": "#b02331"
+                  },
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "isBestseller": true,
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "5.0",
+                      "ratingCount": "18 ratings",
+                      "ratingCountV2": "18"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677865",
+                  "name": "Chicken Fried Wontons",
+                  "category": "Starters",
+                  "imageId": "poasladbfuh7u5kqeydn",
+                  "inStock": 1,
+                  "price": 20800,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "5.0",
+                      "ratingCount": "22 ratings",
+                      "ratingCountV2": "22"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+      "title": "Main Course",
+      "categories": [
+        {
+          "title": "Veg Main Course",
+          "itemCards": [
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677906",
+                  "name": "Veg Manchurian Gravy",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 13900,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.4",
+                      "ratingCount": "8 ratings",
+                      "ratingCountV2": "8"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677907",
+                  "name": "Mixed Veg in Choice of Sauce",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 13000,
+                  "variants": {
+                    "variantGroups": [
+                      {
+                        "groupId": "1290413",
+                        "name": "Choice of Sauce",
+                        "variations": [
+                          {
+                            "name": "Hot Garlic Sauce",
+                            "default": 1,
+                            "id": "4531404",
+                            "inStock": 1,
+                            "isVeg": 1,
+                            "isEnabled": 1
+                          },
+                          {
+                            "name": "Black Garlic Sauce",
+                            "id": "4531405",
+                            "inStock": 1,
+                            "isVeg": 1,
+                            "isEnabled": 1
+                          },
+                          {
+                            "name": "Schezwan Sauce",
+                            "id": "4531406",
+                            "inStock": 1,
+                            "isVeg": 1,
+                            "isEnabled": 1
+                          },
+                          {
+                            "name": "Hunan Sauce",
+                            "id": "4531407",
+                            "inStock": 1,
+                            "isVeg": 1,
+                            "isEnabled": 1
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {}
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677909",
+                  "name": "Paneer Manchurian Gravy",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 15000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.7",
+                      "ratingCount": "11 ratings",
+                      "ratingCountV2": "11"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677910",
+                  "name": "Mixed Veg Paneer in Hunan",
+                  "category": "Main Course",
+                  "imageId": "pcu0lsfrpf1si5lzaiqt",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 16000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.0",
+                      "ratingCount": "7 ratings",
+                      "ratingCountV2": "7"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677908",
+                  "name": "Paneer Chilli Gravy",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 25600,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.4",
+                      "ratingCount": "4 ratings",
+                      "ratingCountV2": "4"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            }
+          ]
+        },
+        {
+          "title": "Chicken Main Course",
+          "itemCards": [
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677911",
+                  "name": "Hunan Chicken",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "price": 25000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "2.8",
+                      "ratingCount": "29 ratings",
+                      "ratingCountV2": "29"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677823",
+                  "name": "Black Garlic Chicken",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "price": 25000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {}
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677824",
+                  "name": "Hot Garlic Chicken",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "price": 25000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.9",
+                      "ratingCount": "4 ratings",
+                      "ratingCountV2": "4"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677826",
+                  "name": "Manchurian Chicken",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "price": 25000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.7",
+                      "ratingCount": "16 ratings",
+                      "ratingCountV2": "16"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677828",
+                  "name": "Schezwan Chicken",
+                  "category": "Main Course",
+                  "imageId": "dnwmr95mnvgcyp9p0zdq",
+                  "inStock": 1,
+                  "price": 25000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {}
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677830",
+                  "name": "Chilli Chicken Gravy",
+                  "category": "Main Course",
+                  "imageId": "g46zao5m7qmngmqxvbz8",
+                  "inStock": 1,
+                  "price": 25000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.5",
+                      "ratingCount": "25 ratings",
+                      "ratingCountV2": "25"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677832",
+                  "name": "Chicken Chilli Basil Leaves",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "price": 27000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {}
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677834",
+                  "name": "Chicken Chilli Oyster Sauce",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "price": 27000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.5",
+                      "ratingCount": "13 ratings",
+                      "ratingCountV2": "13"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            }
+          ]
+        },
+        {
+          "title": "Veg Fried Rice",
+          "itemCards": [
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677836",
+                  "name": "Veg Fried Rice",
+                  "category": "Main Course",
+                  "imageId": "pmmkmvwzyye6eejihyxi",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 16000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {
+                    "text": "Bestseller",
+                    "textColor": "#ffffff",
+                    "topBackgroundColor": "#d53d4c",
+                    "bottomBackgroundColor": "#b02331"
+                  },
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "isBestseller": true,
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.2",
+                      "ratingCount": "64 ratings",
+                      "ratingCountV2": "64"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677838",
+                  "name": "Veg Schezwan Fried Rice",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 19000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.9",
+                      "ratingCount": "39 ratings",
+                      "ratingCountV2": "39"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677840",
+                  "name": "Veg Singapore Fried Rice",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 19000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "5.0",
+                      "ratingCount": "9 ratings",
+                      "ratingCountV2": "9"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677842",
+                  "name": "Veg Chilli Garlic Fried Rice",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 19000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.5",
+                      "ratingCount": "10 ratings",
+                      "ratingCountV2": "10"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677844",
+                  "name": "Veg Mushroom Fried Rice",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 19000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "5.0",
+                      "ratingCount": "9 ratings",
+                      "ratingCountV2": "9"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677846",
+                  "name": "Paneer Fried Rice",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 22000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {}
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677848",
+                  "name": "Veg Triple Schezwan Rice",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 24000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.0",
+                      "ratingCount": "47 ratings",
+                      "ratingCountV2": "47"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677850",
+                  "name": "Veg Chopper Rice",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 27000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "5.0",
+                      "ratingCount": "4 ratings",
+                      "ratingCountV2": "4"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            }
+          ]
+        },
+        {
+          "title": "Chicken Fried Rice",
+          "itemCards": [
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677852",
+                  "name": "Chicken Fried Rice",
+                  "category": "Main Course",
+                  "imageId": "ey9urvx7lk9ar5jvhuo8",
+                  "inStock": 1,
+                  "price": 19000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.3",
+                      "ratingCount": "312 ratings",
+                      "ratingCountV2": "312"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677854",
+                  "name": "Chicken Schezwan Fried Rice",
+                  "category": "Main Course",
+                  "imageId": "ph3uy6ap8jokjwtrkvm0",
+                  "inStock": 1,
+                  "price": 20800,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {
+                    "text": "Bestseller",
+                    "textColor": "#ffffff",
+                    "topBackgroundColor": "#d53d4c",
+                    "bottomBackgroundColor": "#b02331"
+                  },
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "isBestseller": true,
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.2",
+                      "ratingCount": "379 ratings",
+                      "ratingCountV2": "379"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677856",
+                  "name": "Chicken Singapore Fried Rice",
+                  "category": "Main Course",
+                  "imageId": "yotjfjfykja1pisun7y5",
+                  "inStock": 1,
+                  "price": 20800,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "1.9",
+                      "ratingCount": "92 ratings",
+                      "ratingCountV2": "92"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677858",
+                  "name": "Chicken Chilli Garlic Fried Rice",
+                  "category": "Main Course",
+                  "imageId": "68f3225938f4170364ffe500c42af381",
+                  "inStock": 1,
+                  "price": 20800,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {
+                    "text": "Bestseller",
+                    "textColor": "#ffffff",
+                    "topBackgroundColor": "#d53d4c",
+                    "bottomBackgroundColor": "#b02331"
+                  },
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "isBestseller": true,
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "3.2",
+                      "ratingCount": "61 ratings",
+                      "ratingCountV2": "61"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677860",
+                  "name": "Chicken Mushroom Fried Rice",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "price": 20800,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.8",
+                      "ratingCount": "20 ratings",
+                      "ratingCountV2": "20"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677866",
+                  "name": "Chicken Triple Schezwan Rice",
+                  "category": "Main Course",
+                  "imageId": "ksngth6ez6j72fven8x9",
+                  "inStock": 1,
+                  "price": 27000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {
+                    "text": "Bestseller",
+                    "textColor": "#ffffff",
+                    "topBackgroundColor": "#d53d4c",
+                    "bottomBackgroundColor": "#b02331"
+                  },
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "isBestseller": true,
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "3.9",
+                      "ratingCount": "367 ratings",
+                      "ratingCountV2": "367"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677868",
+                  "name": "Chicken Chopper Rice",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "price": 30000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "3.8",
+                      "ratingCount": "31 ratings",
+                      "ratingCountV2": "31"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "27019914",
+                  "name": "Chicken Value meal",
+                  "category": "Main Course",
+                  "description": "chicken gravy with chicken fried rice",
+                  "inStock": 1,
+                  "price": 29000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "3.0",
+                      "ratingCount": "18 ratings",
+                      "ratingCountV2": "18"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            }
+          ]
+        },
+        {
+          "title": "Veg Noodles",
+          "itemCards": [
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677870",
+                  "name": "Veg Hakka Noodles",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 16000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.1",
+                      "ratingCount": "41 ratings",
+                      "ratingCountV2": "41"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677872",
+                  "name": "Veg Singapore Noodles",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 19000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {}
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677874",
+                  "name": "Veg Schezwan Noodles",
+                  "category": "Main Course",
+                  "imageId": "57c9f6ea63a47c140078a89fd78c7542",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 19000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.9",
+                      "ratingCount": "22 ratings",
+                      "ratingCountV2": "22"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677876",
+                  "name": "Veg Chilli Garlic Noodles",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 19000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "1.5",
+                      "ratingCount": "8 ratings",
+                      "ratingCountV2": "8"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677878",
+                  "name": "Veg Triple Schezwan Noodles",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 24000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.1",
+                      "ratingCount": "15 ratings",
+                      "ratingCountV2": "15"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677880",
+                  "name": "Veg Chopper Noodles",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 27000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {}
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677882",
+                  "name": "Veg Pan Fried Noodles",
+                  "category": "Main Course",
+                  "imageId": "jbekfuzhu1kkkqlrqxle",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 28800,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "3.4",
+                      "ratingCount": "3 ratings",
+                      "ratingCountV2": "3"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            }
+          ]
+        },
+        {
+          "title": "Chicken Noodles",
+          "itemCards": [
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677884",
+                  "name": "Chicken Hakka Noodles",
+                  "category": "Main Course",
+                  "imageId": "gfv0nct8adt6d928aizy",
+                  "inStock": 1,
+                  "price": 19000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {
+                    "text": "Bestseller",
+                    "textColor": "#ffffff",
+                    "topBackgroundColor": "#d53d4c",
+                    "bottomBackgroundColor": "#b02331"
+                  },
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "isBestseller": true,
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "3.9",
+                      "ratingCount": "160 ratings",
+                      "ratingCountV2": "160"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677887",
+                  "name": "Chicken Singapore Noodles",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "price": 20800,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.5",
+                      "ratingCount": "16 ratings",
+                      "ratingCountV2": "16"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677889",
+                  "name": "Chicken Schezwan Noodles",
+                  "category": "Main Course",
+                  "imageId": "78212e6e6e20254ba3173b09e59a47b2",
+                  "inStock": 1,
+                  "price": 20800,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {
+                    "text": "Bestseller",
+                    "textColor": "#ffffff",
+                    "topBackgroundColor": "#d53d4c",
+                    "bottomBackgroundColor": "#b02331"
+                  },
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "isBestseller": true,
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "3.4",
+                      "ratingCount": "75 ratings",
+                      "ratingCountV2": "75"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677891",
+                  "name": "Chicken Chilli Garlic Noodles",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "price": 20800,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.0",
+                      "ratingCount": "40 ratings",
+                      "ratingCountV2": "40"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677893",
+                  "name": "Chicken Triple Schezwan Noodles",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "price": 27000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "2.2",
+                      "ratingCount": "45 ratings",
+                      "ratingCountV2": "45"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677894",
+                  "name": "Chicken Chopper Noodles",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "price": 32000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "1.1",
+                      "ratingCount": "9 ratings",
+                      "ratingCountV2": "9"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "13677896",
+                  "name": "Chicken Pan Fried Noodles",
+                  "category": "Main Course",
+                  "inStock": 1,
+                  "price": 32000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "5.0",
+                      "ratingCount": "6 ratings",
+                      "ratingCountV2": "6"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

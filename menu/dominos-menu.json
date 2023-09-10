@@ -1,0 +1,165 @@
+{
+  "id": "38950",
+  "name": "Domino's Pizza",
+  "city": "Mumbai",
+  "slugs": {
+    "restaurant": "dominos-pizza-emarald-building-vasai",
+    "city": "mumbai"
+  },
+  "uniqueId": "9c87acfd-66f0-4631-9320-b9e9fd011928",
+  "cloudinaryImageId": "kptn63ucsqlghipqo9h9",
+  "locality": "Emarald Building",
+  "areaName": "Vasai West",
+  "costForTwo": "40000",
+  "costForTwoMessage": "₹400 for two",
+  "cuisines": ["Pizzas", "Italian"],
+  "avgRating": 3.9,
+  "feeDetails": {
+    "restaurantId": "38950",
+    "icon": "dominos_cod_xc6inc"
+  },
+  "parentId": "2456",
+  "avgRatingString": "3.9",
+  "totalRatingsString": "1K+ ratings",
+  "sla": {
+    "restaurantId": "38950",
+    "serviceability": "NON_SERVICEABLE",
+    "stressFactor": 1,
+    "rainMode": "RAIN_MODE_NONE",
+    "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+    "zoneId": 349,
+    "iconType": "ICON_TYPE_EMPTY"
+  },
+  "availability": {
+    "nextCloseTime": "2023-09-11 02:59:00",
+    "visibility": true,
+    "opened": true,
+    "restaurantClosedMeta": {}
+  },
+  "aggregatedDiscountInfo": {
+    "header": "Flat ₹100 off",
+    "shortDescriptionList": [
+      {
+        "meta": "Flat ₹100 off on orders above ₹699",
+        "discountType": "Flat",
+        "operationType": "RESTAURANT"
+      },
+      {
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+      }
+    ],
+    "descriptionList": [
+      {
+        "meta": "Flat ₹100 off on orders above ₹699 | Use code FLAT100",
+        "discountType": "Flat",
+        "operationType": "RESTAURANT"
+      },
+      {
+        "meta": "15% off upto ₹300 | Use CITIFOODIE Above ₹1200",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+      }
+    ],
+    "visible": true
+  },
+  "badges": {},
+  "slugString": "dominos-pizza-emarald-building-vasai",
+  "isOpen": true,
+  "labels": [
+    {
+      "title": "Timings",
+      "message": "null"
+    },
+    {
+      "title": "Address",
+      "message": "Shop No 8 Ground Floor, Emarald Building, Pam Imfrastructure, G. G. College Road, Village Malonde, Vasai West, Koliwada, Vasai West, Thane, Maharashtra 401201"
+    },
+    {
+      "title": "Cuisines",
+      "message": "Pizzas,Italian"
+    }
+  ],
+  "logo": "dominos_logo_zohi7f",
+  "totalRatings": 1000,
+  "aggregatedDiscountInfoV2": {
+    "header": "Flat ₹100 off",
+    "shortDescriptionList": [
+      {
+        "meta": "Flat ₹100 off on orders above ₹699",
+        "discountType": "Flat",
+        "operationType": "RESTAURANT"
+      },
+      {
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+      }
+    ],
+    "descriptionList": [
+      {
+        "meta": "Flat ₹100 off on orders above ₹699 | Use code FLAT100",
+        "discountType": "Flat",
+        "operationType": "RESTAURANT"
+      },
+      {
+        "meta": "15% off upto ₹300 | Use CITIFOODIE Above ₹1200",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+      }
+    ],
+    "couponDetailsCta": "View coupon details"
+  },
+  "type": "F",
+  "nudgeBanners": [
+    {
+      "minValue": 489,
+      "maxValue": 699,
+      "priority": 1,
+      "couponCode": "FLAT100",
+      "discountInfo": {
+        "discountType": "Flat",
+        "value": 100
+      },
+      "lockedMessage": "Add items worth ₹<amount> to save ₹100 | Code FLAT100",
+      "unlockedMessage": "FLAT100 Coupon Unlocked! Use it to save ₹100",
+      "logoCtx": {}
+    }
+  ],
+  "headerBanner": {
+    "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/38950"
+  },
+  "generalPurposeInfoListV2": [
+    {
+      "cta": {
+        "info": {
+          "recordings": {}
+        },
+        "linkCta": {}
+      }
+    }
+  ],
+  "ratingSlab": "RATING_SLAB_4",
+  "availabilityServiceabilityMessage": "Does not deliver to your location",
+  "orderabilityCommunication": {
+    "title": {
+      "text": "Wish you were"
+    },
+    "subTitle": {
+      "text": "CLOSER!"
+    },
+    "message": {
+      "text": "This location is outside the outlet's delivery area",
+      "textColour": "negative"
+    },
+    "customIcon": {
+      "bgGradientColorStart": "#F64C41",
+      "bgGradientColorEnd": "#E53554"
+    }
+  },
+  "hasBestsellerItems": true,
+  "cartOrderabilityNudgeBanner": {
+    "parameters": {},
+    "presentation": {}
+  },
+  "latLong": "19.340109,72.80593"
+}
