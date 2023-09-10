@@ -1,6 +1,7 @@
 const express = require('express');
 const cors = require('cors');
 const fetch = require('cross-fetch');
+const fs = require('fs');
 
 const app = express();
 const port = 3000;
@@ -11,58 +12,27 @@ app.get('/', (req, res) => {
     res.send('YumYum- server')
 })
 
-app.get('/restaurants', (req, res) => {
-    const { offset } = req.query || 0;
-    const url = 'https://www.swiggy.com/dapi/restaurants/list/v5?lat=19.3667296&lng=72.819814&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING'
-    fetch(url, {
-        headers: {
-            'Content-Type': 'application/json',
-            'Access-Control-Allow-Origin': '*',
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
-
-        }
-    })
-        .then(response => {
-            console.log(response);
-            if (!response.ok) {
-                throw new Error('Network response was not ok');
-            }
-            return response.json();
-        })
-        .then(data => {
-            res.json(data);
-        })
-        .catch(error => {
-            console.error(error);
+app.get('/api/restaurants', (req, res) => {
+    fs.readFile('./data/restaurants.json', (err, data) => {
+        if (err) {
+            console.error(err)
             res.status(500).send('An error occurred');
-        });
+            return
+        }
+        res.json(JSON.parse(data));
+    });
 });
 
-app.get('/menu', (req, res) => {
+app.get('/api/menu', (req, res) => {
     const { id } = req.query
-    const url = `https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=22.517929&lng=88.38341199999999&restaurantId=${id}`;
-
-    fetch(url, {
-        headers: {
-            'Content-Type': 'application/json',
-            'Access-Control-Allow-Origin': '*',
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
-
-        }
-    })
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('Network response was not ok');
-            }
-            return response.json();
-        })
-        .then(data => {
-            res.json(data);
-        })
-        .catch(error => {
-            console.error(error);
+    fs.readFile(`./data/menu/${id}.json`, (err, data) => {
+        if (err) {
+            console.error(err)
             res.status(500).send('An error occurred');
-        });
+            return
+        }
+        res.json(JSON.parse(data));
+    });
 });
 
 app.get('/search', (req, res) => {
@@ -91,8 +61,6 @@ app.get('/search', (req, res) => {
             res.status(500).send('An error occurred');
         });
 });
-
-
 
 
 app.listen(port, () => {
