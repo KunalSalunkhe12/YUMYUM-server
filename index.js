@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
     res.send('YumYum- server')
 })
 
-app.get('/api/restaurants', (req, res) => {
+app.get('/restaurants', (req, res) => {
     fs.readFile('./data/restaurants.json', (err, data) => {
         if (err) {
             console.error(err)
@@ -23,7 +23,7 @@ app.get('/api/restaurants', (req, res) => {
     });
 });
 
-app.get('/api/menu', (req, res) => {
+app.get('/menu', (req, res) => {
     const { id } = req.query
     fs.readFile(`./data/menu/${id}.json`, (err, data) => {
         if (err) {
