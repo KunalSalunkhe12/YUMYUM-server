@@ -78,15 +78,16 @@ const connectDB = async () => {
             useUnifiedTopology: true,
         });
 
-        app.listen(port, () => {
-            console.log(`Server listening on port ${port}`);
-        });
         console.log('MongoDB connected');
     } catch (err) {
         console.error(err.message);
         process.exit(1);
     }
 }
-
 connectDB();
+
+app.listen(port, () => {
+    console.log(`Server listening on port ${port}`);
+});
+
 
