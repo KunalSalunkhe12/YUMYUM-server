@@ -3,11 +3,15 @@ const cors = require('cors');
 const fetch = require('cross-fetch');
 const fs = require('fs');
 const path = require('path');
+const mongoose = require('mongoose');
+const dotenv = require('dotenv');
 
 const app = express();
 const port = 3000;
+dotenv.config();
 
 app.use(cors()); // Enable CORS for all routes
+app.use(express.json()); // Parse request body as JSON
 
 app.get('/', (req, res) => {
     res.send('YumYum- server')
@@ -63,7 +67,22 @@ app.get('/search', (req, res) => {
         });
 });
 
+const connectDB = async () => {
+    try {
+        await mongoose.connect('mongodb://localhost:27017/yumyum', {
+            useNewUrlParser: true,
+            useUnifiedTopology: true,
+        });
 
-app.listen(port, () => {
-    console.log(`Server listening on port ${port}`);
-});
+        app.listen(port, () => {
+            console.log(`Server listening on port ${port}`);
+        });
+        console.log('MongoDB connected');
+    } catch (err) {
+        console.error(err.message);
+        process.exit(1);
+    }
+}
+
+connectDB();
+
