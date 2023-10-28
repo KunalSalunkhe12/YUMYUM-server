@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "YumYum is a food ordring site made with swiggy's api, this server enables us to make api calls directly without getting cors error",
   "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
