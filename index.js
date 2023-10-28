@@ -6,12 +6,16 @@ const path = require('path');
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 
+const userRoutes = require('./routes/user.js');
+
 const app = express();
 const port = 3000;
 dotenv.config();
 
 app.use(cors()); // Enable CORS for all routes
 app.use(express.json()); // Parse request body as JSON
+
+app.use('/user', userRoutes)
 
 app.get('/', (req, res) => {
     res.send('YumYum- server')
