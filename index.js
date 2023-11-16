@@ -5,26 +5,19 @@ const fs = require('fs');
 const path = require('path');
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
-const Razorpay = require('razorpay')
+dotenv.config();
 
 const userRoutes = require('./routes/user.js');
+const paymentRoutes = require('./routes/payment.js');
 
 const app = express();
 const port = 3000;
-dotenv.config();
 
 app.use(cors());
 app.use(express.json());
 
 app.use('/user', userRoutes)
-
-
-module.exports = {
-    instance: new Razorpay({
-        key_id: process.env.RAZORPAY_API_KEY,
-        key_secret: process.env.RAZORPAY_APT_SECRET,
-    })
-}
+app.use('/create-checkout-session', paymentRoutes)
 
 app.get('/', (req, res) => {
     res.send('YumYum- server')
