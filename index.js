@@ -5,6 +5,7 @@ const fs = require('fs');
 const path = require('path');
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
+const bodyParser = require('body-parser')
 dotenv.config();
 
 const userRoutes = require('./routes/user.js');
@@ -14,7 +15,13 @@ const app = express();
 const port = 3000;
 
 app.use(cors());
-app.use(express.json());
+app.use(bodyParser.urlencoded({ extended: false }))
+app.use(bodyParser.json({
+    verify: (req, res, buf) => {
+        req.rawBody = buf
+    }
+}))
+
 
 app.use('/user', userRoutes)
 app.use('/create-checkout-session', paymentRoutes)
