@@ -13,7 +13,7 @@ const getRestaurants = (req, res) => {
 }
 
 const getMenu = (req, res) => {
-    const { id } = req.query
+    const { id } = req.params;
     fs.readFile(path.join(__dirname, `../data/menu/${id}.json`), 'utf8', (err, data) => {
         if (err) {
             console.error(err)
