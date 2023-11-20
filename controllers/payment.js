@@ -1,5 +1,6 @@
 const stripe = require("stripe")(process.env.STRIPE_SECRET_KEY);
 const endpointSecret = "whsec_97459639adbbc849729b5e2d02fd73133258531e0a5ad98b484967c6700b07cc"
+const Order = require("../models/order");
 
 const payment = async (req, res) => {
     const { cartData, userId } = req.body;
@@ -46,7 +47,36 @@ const payment = async (req, res) => {
     }
 };
 
-const webhook = (req, res) => {
+const fulfillOrder = async (customerData, checkoutCompleted) => {
+    const order = new Order({
+        userId: customerData.metadata.userId,
+        amount_total: checkoutCompleted.amount_total,
+        created: checkoutCompleted.created,
+        currency: checkoutCompleted.currency,
+        customer: checkoutCompleted.customer,
+        customer_details: {
+            address: {
+                city: checkoutCompleted.customer_details.address.city,
+                country: checkoutCompleted.customer_details.address.country,
+                line1: checkoutCompleted.customer_details.address.line1,
+                line2: checkoutCompleted.customer_details.address.line2,
+                postal_code: checkoutCompleted.customer_details.address.postal_code,
+                state: checkoutCompleted.customer_details.address.state
+            },
+            email: checkoutCompleted.customer_details.email,
+            name: checkoutCompleted.customer_details.name
+        },
+        payment_status: checkoutCompleted.payment_status
+    });
+
+    try {
+        await order.save();
+    } catch (error) {
+        console.log(error);
+    }
+}
+
+const webhook = async (req, res) => {
     const rawBody = req.rawBody.toString('utf8');
     const sig = req.headers['stripe-signature'];
     let event;
@@ -62,7 +92,11 @@ const webhook = (req, res) => {
     switch (event.type) {
         case 'checkout.session.completed':
             const checkoutCompleted = event.data.object;
-            console.log(checkoutCompleted)
+            const customerData = await stripe.customers.retrieve(checkoutCompleted.customer);
+
+            if (checkoutCompleted.payment_status === 'paid') {
+                fulfillOrder(customerData, checkoutCompleted)
+            }
             break;
         default:
             console.log(`Unhandled event type ${event.type}`);
