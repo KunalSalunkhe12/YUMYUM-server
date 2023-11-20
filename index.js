@@ -1,13 +1,12 @@
 const express = require('express');
 const cors = require('cors');
 const fetch = require('cross-fetch');
-const fs = require('fs');
-const path = require('path');
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 const bodyParser = require('body-parser')
 dotenv.config();
 
+const restaurantRoutes = require('./routes/restaurant.js');
 const userRoutes = require('./routes/user.js');
 const paymentRoutes = require('./routes/payment.js');
 const orderRoutes = require('./routes/order.js');
@@ -23,7 +22,7 @@ app.use(bodyParser.json({
     }
 }))
 
-
+app.use('/api', restaurantRoutes)
 app.use('/user', userRoutes)
 app.use('/create-checkout-session', paymentRoutes)
 app.use('/order', orderRoutes)
@@ -32,29 +31,7 @@ app.get('/', (req, res) => {
     res.send('YumYum- server')
 })
 
-app.get('/api/restaurants', (req, res) => {
-    fs.readFile(path.join(__dirname, './data/restaurants.json'), 'utf8', (err, data) => {
-        if (err) {
-            console.error(err)
-            res.status(500).send('An error occurred');
-            return
-        }
-        res.json(JSON.parse(data));
-    });
-});
-
-app.get('/api/menu', (req, res) => {
-    const { id } = req.query
-    fs.readFile(path.join(__dirname, `./data/menu/${id}.json`), 'utf8', (err, data) => {
-        if (err) {
-            console.error(err)
-            res.status(500).send('An error occurred');
-            return
-        }
-        res.json(JSON.parse(data));
-    });
-});
-
+//Old search api
 app.get('/search', (req, res) => {
     const { searchInput } = req.query
     const url = `https://www.swiggy.com/dapi/restaurants/search/v3?lat=19.3667296&lng=72.819814&str=${searchInput}&trackingId=undefined&submitAction=ENTER&queryUniqueId=d27bc450-4b77-77b6-ba67-9b72b1edbb08&selectedPLTab=RESTAURANT`
