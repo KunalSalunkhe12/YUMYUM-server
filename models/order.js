@@ -6,6 +6,18 @@ const orderSchema = mongoose.Schema({
         required: true,
         ref: 'User'
     },
+    payment_intent: {
+        type: String,
+        required: true
+    },
+    line_items: {
+        data: [
+            {
+                type: Object,
+                required: true
+            }
+        ]
+    },
     amount_total: {
         type: Number,
         required: true

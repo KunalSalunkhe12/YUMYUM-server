@@ -10,6 +10,7 @@ dotenv.config();
 
 const userRoutes = require('./routes/user.js');
 const paymentRoutes = require('./routes/payment.js');
+const orderRoutes = require('./routes/order.js');
 
 const app = express();
 const port = 3000;
@@ -25,6 +26,7 @@ app.use(bodyParser.json({
 
 app.use('/user', userRoutes)
 app.use('/create-checkout-session', paymentRoutes)
+app.use('/order', orderRoutes)
 
 app.get('/', (req, res) => {
     res.send('YumYum- server')

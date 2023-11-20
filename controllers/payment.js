@@ -17,6 +17,9 @@ const payment = async (req, res) => {
             price_data: {
                 currency: "inr",
                 product_data: {
+                    metadata: {
+                        imageId: data.item.imageId
+                    },
                     name: data.item.name,
                     images: [
                         `https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/${data.item.imageId}`
@@ -50,6 +53,10 @@ const payment = async (req, res) => {
 const fulfillOrder = async (customerData, checkoutCompleted) => {
     const order = new Order({
         userId: customerData.metadata.userId,
+        payment_intent: checkoutCompleted.payment_intent,
+        line_items: {
+            data: checkoutCompleted.line_items.data
+        },
         amount_total: checkoutCompleted.amount_total,
         created: checkoutCompleted.created,
         currency: checkoutCompleted.currency,
@@ -91,8 +98,14 @@ const webhook = async (req, res) => {
     // Handle the event
     switch (event.type) {
         case 'checkout.session.completed':
-            const checkoutCompleted = event.data.object;
+            const checkoutCompleted = await stripe.checkout.sessions.retrieve(
+                event.data.object.id,
+                {
+                    expand: ['line_items'],
+                }
+            );
             const customerData = await stripe.customers.retrieve(checkoutCompleted.customer);
+            console.log(checkoutCompleted)
 
             if (checkoutCompleted.payment_status === 'paid') {
                 fulfillOrder(customerData, checkoutCompleted)
