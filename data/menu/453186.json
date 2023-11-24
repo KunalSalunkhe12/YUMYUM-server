@@ -1,0 +1,1426 @@
+{
+  "info": {
+    "id": "453186",
+    "name": "ZAZA Mughal Biryani",
+    "city": "Mumbai",
+    "slugs": {
+      "restaurant": "zaza-21-spice-biryani-natalia-albert-menezes-vasai",
+      "city": "mumbai"
+    },
+    "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+    "cloudinaryImageId": "e12f3a72ab92442dc088f803a04d4293",
+    "locality": "Manickpur naka",
+    "areaName": "Vasai",
+    "costForTwo": "25000",
+    "costForTwoMessage": "₹250 for two",
+    "cuisines": ["Biryani", "North Indian"],
+    "avgRating": 3.8,
+    "feeDetails": {
+      "icon": "v1648635511/Delivery_fee_new_cjxumu"
+    },
+    "parentId": "22473",
+    "avgRatingString": "3.8",
+    "totalRatingsString": "100+ ratings",
+    "sla": {
+      "restaurantId": "453186",
+      "lastMileTravel": 1652,
+      "serviceability": "NON_SERVICEABLE",
+      "stressFactor": 1,
+      "rainMode": "RAIN_MODE_NONE",
+      "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+      "zoneId": 349,
+      "lastMileTravelString": "1652.0 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2023-11-25 02:00:00",
+      "visibility": true,
+      "opened": true,
+      "restaurantClosedMeta": {}
+    },
+    "aggregatedDiscountInfo": {
+      "header": "50% off",
+      "shortDescriptionList": [
+        {
+          "meta": "50% off | Use TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "Free Choco Lava Cake on orders above ₹899",
+          "discountType": "Freebie",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "descriptionList": [
+        {
+          "meta": "50% off up to ₹100 | Use code TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "Free Choco Lava Cake on orders above ₹899",
+          "discountType": "Freebie",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "visible": true
+    },
+    "badges": {},
+    "slugString": "zaza-21-spice-biryani-natalia-albert-menezes-vasai",
+    "isOpen": true,
+    "labels": [
+      {
+        "title": "Timings",
+        "message": "null"
+      },
+      {
+        "title": "Address",
+        "message": "Natalia Albert Menezes Ground Floor 2 50 B, Menezes Wadi Front of Mandir Manikpur Vasai, Vasai Virar Municipal Corporation  Zone C, Palghar Zone 2, Maharashtra 401202"
+      },
+      {
+        "title": "Cuisines",
+        "message": "Biryani,North Indian"
+      }
+    ],
+    "logo": "v1682666369/Brand logo/ZAZA_Murgh_Biryani",
+    "totalRatings": 100,
+    "aggregatedDiscountInfoV2": {
+      "header": "50% off",
+      "shortDescriptionList": [
+        {
+          "meta": "50% off | Use TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "Free Choco Lava Cake on orders above ₹899",
+          "discountType": "Freebie",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "descriptionList": [
+        {
+          "meta": "50% off up to ₹100 | Use code TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "Free Choco Lava Cake on orders above ₹899",
+          "discountType": "Freebie",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "couponDetailsCta": "View coupon details"
+    },
+    "type": "F",
+    "nudgeBanners": [
+      {
+        "minValue": 209,
+        "maxValue": 299,
+        "priority": 3,
+        "couponCode": "FLAT125",
+        "discountInfo": {
+          "discountType": "Flat",
+          "value": 125
+        },
+        "lockedMessage": "Add items worth ₹<amount> to save ₹125 | Code FLAT125",
+        "unlockedMessage": "FLAT125 Coupon Unlocked! Use it to save ₹125",
+        "logoCtx": {}
+      },
+      {
+        "minValue": 700,
+        "maxValue": 1000,
+        "priority": 4,
+        "couponCode": "PARTY",
+        "discountInfo": {
+          "discountType": "Percentage",
+          "value": 15
+        },
+        "lockedMessage": "Add items worth ₹<amount> to unlock flat 15% off | Code PARTY",
+        "unlockedMessage": "PARTY Coupon Unlocked! Use it to save flat 15% off",
+        "logoCtx": {}
+      }
+    ],
+    "headerBanner": {
+      "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/453186"
+    },
+    "ratingSlab": "RATING_SLAB_4",
+    "availabilityServiceabilityMessage": "Does not deliver to your location",
+    "orderabilityCommunication": {
+      "title": {
+        "text": "Wish you were"
+      },
+      "subTitle": {
+        "text": "CLOSER!"
+      },
+      "message": {
+        "text": "This location is outside the outlet's delivery area",
+        "textColour": "negative"
+      },
+      "customIcon": {
+        "bgGradientColorStart": "#F64C41",
+        "bgGradientColorEnd": "#E53554"
+      }
+    },
+    "hasBestsellerItems": true,
+    "hasGuiltfreeItems": true,
+    "cartOrderabilityNudgeBanner": {
+      "parameters": {},
+      "presentation": {}
+    },
+    "latLong": "19.375337,72.825808"
+  },
+  "menu": [
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Recommended",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "81646035",
+              "name": "Peri Peri Chicken Wings",
+              "category": "Chicken Starters",
+              "description": "Juicy pieces of chicken wings in peri peri mix. Wings that will make your tastebuds fly!",
+              "imageId": "84bfaa01ef9d0b7ef4ea76e8d9cc8c98",
+              "inStock": 1,
+              "price": 21500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isGuiltfree": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.4",
+                  "ratingCount": "4 ratings",
+                  "ratingCountV2": "4"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "81646066",
+              "name": "Chicken Tikka",
+              "category": "Chicken Starters",
+              "description": "Tender chicken chunks marinated & grilled on a tandoor for the perfect smoky taste!",
+              "imageId": "227ab789dfc3aadc96b0244e97fb7e97",
+              "inStock": 1,
+              "price": 27500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isGuiltfree": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ],
+      "type": "CATEGORY_TYPE_RECOMMENDED"
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Daily Value Biryani @ 199",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "128411013",
+              "name": "Dum Aloo Value Biryani Bowl",
+              "category": "Daily Value Biryani @ 199",
+              "description": "[Half KG, Serves 1, Raita not included] Mughal style biryani with flavour-packed aloo & long grain rice. Feast at an unbelievable price!",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 19900,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "124095234",
+                  "groupName": "Make it a FEAST?",
+                  "choices": [
+                    {
+                      "id": "106864023",
+                      "name": "Choco Lava Cake + Pepsi Black [500 ml]",
+                      "price": 12000,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "106864024",
+                      "name": "Choco Lava Cake + Pepsi [400 ml]",
+                      "price": 12000,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "106864022",
+                      "name": "Choco Lava Cake + Lipton Ice Tea [250 ml]",
+                      "price": 12000,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "106864021",
+                      "name": "Pack of Nachos + Pepsi Black [500 ml]",
+                      "price": 8000,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "106864025",
+                      "name": "Pack of Nachos + Pepsi [400 ml]",
+                      "price": 8000,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "106864019",
+                      "name": "Pack of Nachos + Lipton Ice Tea [250 ml]",
+                      "price": 8000,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "106864018",
+                      "name": "Choco Lava Cake + Pepsi [250 ml]",
+                      "price": 12000,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "106864020",
+                      "name": "Pack of Nachos + Pepsi [250 ml]",
+                      "price": 8000,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 5,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "119746159",
+              "name": "Tangdi Chicken Value Biryani Bowl",
+              "category": "Daily Value Biryani @ 199",
+              "description": "[1 Leg Pc with Bone, Half KG, Serves 1, Raita not included] Juicy marinated chicken slow-cooked with aromatic rice. This deal-icious Mughal biryani is such a steal!",
+              "imageId": "29b09f12b6bd504de9ec000adb6ed4a9",
+              "inStock": 1,
+              "price": 19900,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "124095243",
+                  "groupName": "Make it a FEAST?",
+                  "choices": [
+                    {
+                      "id": "106864023",
+                      "name": "Choco Lava Cake + Pepsi Black [500 ml]",
+                      "price": 12000,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "106864024",
+                      "name": "Choco Lava Cake + Pepsi [400 ml]",
+                      "price": 12000,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "106864022",
+                      "name": "Choco Lava Cake + Lipton Ice Tea [250 ml]",
+                      "price": 12000,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "106864021",
+                      "name": "Pack of Nachos + Pepsi Black [500 ml]",
+                      "price": 8000,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "106864025",
+                      "name": "Pack of Nachos + Pepsi [400 ml]",
+                      "price": 8000,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "106864019",
+                      "name": "Pack of Nachos + Lipton Ice Tea [250 ml]",
+                      "price": 8000,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "106864018",
+                      "name": "Choco Lava Cake + Pepsi [250 ml]",
+                      "price": 12000,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "106864020",
+                      "name": "Pack of Nachos + Pepsi [250 ml]",
+                      "price": 8000,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 5,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.9",
+                  "ratingCount": "26 ratings",
+                  "ratingCountV2": "26"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "119746160",
+              "name": "Egg Value Biryani Bowl",
+              "category": "Daily Value Biryani @ 199",
+              "description": "[Half KG, Serves 1, Raita not included] 2 Boiled eggs sautéed in rustic spices & cooked with basmati rice. Royal Mughal biryani at an irresistible price!",
+              "imageId": "4b298772d8d104ef3be91498746c38a5",
+              "inStock": 1,
+              "price": 19900,
+              "variants": {},
+              "variantsV2": {},
+              "addons": [
+                {
+                  "groupId": "124095244",
+                  "groupName": "Make it a FEAST?",
+                  "choices": [
+                    {
+                      "id": "106864023",
+                      "name": "Choco Lava Cake + Pepsi Black [500 ml]",
+                      "price": 12000,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "106864024",
+                      "name": "Choco Lava Cake + Pepsi [400 ml]",
+                      "price": 12000,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "106864022",
+                      "name": "Choco Lava Cake + Lipton Ice Tea [250 ml]",
+                      "price": 12000,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "106864021",
+                      "name": "Pack of Nachos + Pepsi Black [500 ml]",
+                      "price": 8000,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "106864025",
+                      "name": "Pack of Nachos + Pepsi [400 ml]",
+                      "price": 8000,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "106864019",
+                      "name": "Pack of Nachos + Lipton Ice Tea [250 ml]",
+                      "price": 8000,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "106864018",
+                      "name": "Choco Lava Cake + Pepsi [250 ml]",
+                      "price": 12000,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "id": "106864020",
+                      "name": "Pack of Nachos + Pepsi [250 ml]",
+                      "price": 8000,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 5,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Chicken Starters",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "81646068",
+              "name": "Tandoori Chicken Wings [6 Pcs]",
+              "category": "Chicken Starters",
+              "description": "Tender and juicy chicken wings marinated in a hot spice mix and grilled in a desi tandoor.",
+              "imageId": "169d5f6f6082f64d7d8c0186b0fdbb8f",
+              "inStock": 1,
+              "price": 21500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "isGuiltfree": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.6",
+                  "ratingCount": "3 ratings",
+                  "ratingCountV2": "3"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "81646035",
+              "name": "Peri Peri Chicken Wings",
+              "category": "Chicken Starters",
+              "description": "Juicy pieces of chicken wings in peri peri mix. Wings that will make your tastebuds fly!",
+              "imageId": "84bfaa01ef9d0b7ef4ea76e8d9cc8c98",
+              "inStock": 1,
+              "price": 21500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isGuiltfree": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.4",
+                  "ratingCount": "4 ratings",
+                  "ratingCountV2": "4"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "81646051",
+              "name": "Garlic Pepper Chicken Wings [6 Pcs]",
+              "category": "Chicken Starters",
+              "description": "Chicken wings seasoned in a herb-garlic glaze and baked to a perfect crispy. Kickoff your party with this starter!",
+              "imageId": "6832f7ed73a5ec7c040ed4115e3230d4",
+              "inStock": 1,
+              "price": 21500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isGuiltfree": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "5.0",
+                  "ratingCount": "3 ratings",
+                  "ratingCountV2": "3"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "81646065",
+              "name": "Smoky BBQ Chicken Wings [6 Pcs]",
+              "category": "Chicken Starters",
+              "description": "Crispy and juicy chicken wings tossed in BBQ sauce. Full of smoky flavours!",
+              "imageId": "f00681c52ef6d286102f453a655e6948",
+              "inStock": 1,
+              "price": 21500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "isGuiltfree": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.6",
+                  "ratingCount": "4 ratings",
+                  "ratingCountV2": "4"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "96366049",
+              "name": "Tandoori Chicken Tangdi [2 Pcs]",
+              "category": "Chicken Starters",
+              "description": "Chicken leg pieces rubbed in a marinade of yogurt & classic Indian spices. Grilled to perfection!",
+              "imageId": "169d5f6f6082f64d7d8c0186b0fdbb8f",
+              "inStock": 1,
+              "price": 24500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isGuiltfree": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "96366045",
+              "name": "Peri Peri Chicken Tangdi [2 Pcs]",
+              "category": "Chicken Starters",
+              "description": "Chicken leg pieces marinated in peri-peri sauce and grilled to perfection. Enjoy a hot & spicy burst of flavours!",
+              "imageId": "41f91405ce06257b70efd7ac18fbeba9",
+              "inStock": 1,
+              "price": 24500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isGuiltfree": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "81646066",
+              "name": "Chicken Tikka",
+              "category": "Chicken Starters",
+              "description": "Tender chicken chunks marinated & grilled on a tandoor for the perfect smoky taste!",
+              "imageId": "227ab789dfc3aadc96b0244e97fb7e97",
+              "inStock": 1,
+              "price": 27500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isGuiltfree": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "81646041",
+              "name": "Chicken Peri Peri Tikka",
+              "category": "Chicken Starters",
+              "description": "Boneless chicken chunks with peri-peri sauce, skewered on tandoor to attain the perfect tikka flavours! A feast for the meat lovers.",
+              "imageId": "40f3618f58c5509e138c513c824b7010",
+              "inStock": 1,
+              "price": 27500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isGuiltfree": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "96366034",
+              "name": "Grilled Chicken Kalimiri",
+              "category": "Chicken Starters",
+              "description": "Tender Chicken pieces smothered in a creamy marinade, freshly ground pepper & herbs. Perfect smoky flavours!",
+              "imageId": "e6b59755efacbd4cb4b0643623c84325",
+              "inStock": 1,
+              "price": 27500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isGuiltfree": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "81646036",
+              "name": "Firangi BBQ Chicken",
+              "category": "Chicken Starters",
+              "description": "Tender boneless chicken is marinated and grilled in a sweet & tangy BBQ sauce. Quite a crowd puller!",
+              "imageId": "e720c68f041c6263ddeb7fd13f3849e2",
+              "inStock": 1,
+              "price": 27500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isGuiltfree": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Veg Starters",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "96366037",
+              "name": "Original Tandoori Aloo [10 Pcs]",
+              "category": "Veg Starters",
+              "description": "Baby potatoes in a flavourful marinade, grilled in a tandoor. Ready for an irresistible treat?",
+              "imageId": "59c33d0ae59ef21737872a66eec18a7a",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 17500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isGuiltfree": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "96366041",
+              "name": "Peri Peri Aloo Tikka [10 Pcs]",
+              "category": "Veg Starters",
+              "description": "Baby potatoes marinated in peri peri sauce & grilled to perfection. Peri fiery & yummy!",
+              "imageId": "6742811397af747476f679c617093617",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 17500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isGuiltfree": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "81646048",
+              "name": "Classic Paneer Tikka [10 Pcs]",
+              "category": "Veg Starters",
+              "description": "Cubes of paneer wrapped in an aromatic spice mix and baked in tandoor for a smoky flavour.",
+              "imageId": "e05a77c2fca5edb27b6650c30b7766f2",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 22500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isGuiltfree": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "81646067",
+              "name": "Angara Paneer Tikka [10 Pcs]",
+              "category": "Veg Starters",
+              "description": "Soft pieces of paneer in a peri-peri marinade, grilled to perfection! Your go-to pick when you crave for something spicy.",
+              "imageId": "a5718df3c9ed9ad7c69f2053ee915b8a",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 22500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isGuiltfree": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Drinks & Desserts",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "119998191",
+              "name": "Choco Lava Cake + Pepsi Black Combo @ Rs79",
+              "category": "Drinks & Desserts",
+              "description": "[Save ?41] Choco Lava Cake + Pepsi Black [500 ml]. Make every order a complete feast!",
+              "imageId": "0ab402ab1897b270d55911cd1b6cfd12",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 7900,
+              "variants": {
+                "variantGroups": [
+                  {
+                    "groupId": "32333733",
+                    "name": "Choose a Drink",
+                    "variations": [
+                      {
+                        "name": "Pepsi Black [500 ml]",
+                        "default": 1,
+                        "id": "100317471",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Lipton Ice Tea [250 ml]",
+                        "id": "100317473",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Zingy Lemonade [330 ml]",
+                        "id": "100317474",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Pepsi [250 ml]",
+                        "id": "100317472",
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "120239257",
+              "name": "Nachos + Pepsi Black Combo @ Rs49",
+              "category": "Drinks & Desserts",
+              "description": "[Save ?31] Nachos + Pepsi Black [500 ml]. Perfect sides to complete your order!",
+              "imageId": "2efc350c8957131aa88ff6a9c96e94d5",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 4900,
+              "variants": {
+                "variantGroups": [
+                  {
+                    "groupId": "32333735",
+                    "name": "Choose a Drink",
+                    "variations": [
+                      {
+                        "name": "Pepsi Black [500 ml]",
+                        "default": 1,
+                        "id": "100317477",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Lipton Ice Tea [250 ml]",
+                        "id": "100317479",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Zingy Lemonade [330 ml]",
+                        "id": "100317480",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Pepsi [250 ml]",
+                        "id": "100317478",
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "81646054",
+              "name": "Ghee Moong Dal Halwa 100 gm",
+              "category": "Drinks & Desserts",
+              "description": "Cooked in pure ghee and topped with rich dry fruits, our moong dal ka halwa is a perfect sweet indulgence!",
+              "imageId": "hi8fxr6h3ao3fj9hycw6",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 9500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.0",
+                  "ratingCount": "3 ratings",
+                  "ratingCountV2": "3"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "81646050",
+              "name": "Mini Gulab Jamun 100 gm",
+              "category": "Drinks & Desserts",
+              "description": "Prepared with fresh mawa and dunked in a sweet sugary syrup, these gulab jamuns are a melt-in-the-mouth treat.",
+              "imageId": "6f406aa49841110e70b788e9f1ead71a",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 9500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "81646043",
+              "name": "Choco Lava Cake",
+              "category": "Drinks & Desserts",
+              "description": "Freshly baked, soft cake with a molten chocolate filling in the centre. You'll lava it!",
+              "imageId": "5e2eaa594b99bde68ddb1bb7f486515b",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 9500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.8",
+                  "ratingCount": "7 ratings",
+                  "ratingCountV2": "7"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "81646049",
+              "name": "Double Chocolate Brownie",
+              "category": "Drinks & Desserts",
+              "description": "Loaded with chocolate and gooey goodness, this fudgy brownie is pure indulgence!",
+              "imageId": "8ae813cf9489ea21be8a4120d6f7f39a",
+              "inStock": 1,
+              "price": 9500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "81646044",
+              "name": "Rich Chocolate Mousse Cake",
+              "category": "Drinks & Desserts",
+              "description": "Molten dark chocolate between layers of creamy mousse, sprinkled with chocolate chips. Droolworthy!",
+              "imageId": "d9899e5444a1f9f64d6e58e2c5403c81",
+              "inStock": 1,
+              "price": 8500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "95142022",
+              "name": "Ghee Moong Dal Halwa [500 gm]",
+              "category": "Drinks & Desserts",
+              "description": "A decadent delight! This dessert is prepared with moong dal, pure ghee & rich dry fruits",
+              "imageId": "3678bdaa719a758710bb2166fc32d81c",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 34500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "95142023",
+              "name": "Mini Gulab Jamun [500 gm]",
+              "category": "Drinks & Desserts",
+              "description": "Soft, spongy & delicious gulab jamuns made with fresh mawa. Treat your tastebuds to something sweet!",
+              "imageId": "540982c1e947547b8d646d9ceab98842",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 34500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "81646073",
+              "name": "Zingy Lemonade (330 ml)",
+              "category": "Drinks & Desserts",
+              "description": "A refreshing drink made of freshly squeezed lemon juice and a zing of Indian spices.",
+              "imageId": "7d2ab7291c896a57048dc47b832c640a",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 4500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "5.0",
+                  "ratingCount": "3 ratings",
+                  "ratingCountV2": "3"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "81646064",
+              "name": "Pepsi [475 ml]",
+              "category": "Drinks & Desserts",
+              "description": "Need a beverage to side your biryani? It can't get cooler than this!",
+              "imageId": "y1t1hvbslphercp2scjx",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 6000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    }
+  ]
+}

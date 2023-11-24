@@ -3,8 +3,10 @@ const cors = require('cors');
 const fetch = require('cross-fetch');
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
-const bodyParser = require('body-parser')
 dotenv.config();
+const bodyParser = require('body-parser')
+const fs = require('fs')
+const path = require('path')
 
 const restaurantRoutes = require('./routes/restaurant.js');
 const userRoutes = require('./routes/user.js');
@@ -19,7 +21,8 @@ app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json({
     verify: (req, res, buf) => {
         req.rawBody = buf
-    }
+    },
+    limit: '10mb'
 }))
 
 app.use('/api', restaurantRoutes)
@@ -58,6 +61,29 @@ app.get('/search', (req, res) => {
             res.status(500).send('An error occurred');
         });
 });
+
+//Save restaurant info from swiggy to data files
+
+app.post('/create-menu', (req, res) => {
+    const { id, info, menu } = req.body
+    const filePath = path.join(__dirname, `./data/menu/${id}.json`)
+    const data = JSON.stringify({ info, menu })
+    if (fs.existsSync(filePath)) {
+        console.log(`File ${filePath} already exists.`);
+        return; // Stop execution if the file exists
+    }
+    fs.writeFile(filePath, data, (err) => {
+        if (err) {
+            console.error(err)
+            res.status(500).send('An error occurred');
+        } else {
+            console.log("File written successfully\n");
+            res.json({ success: true })
+        }
+    })
+
+})
+
 
 const connectDB = async () => {
     try {

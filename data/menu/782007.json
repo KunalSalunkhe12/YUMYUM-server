@@ -1,0 +1,3023 @@
+{
+  "info": {
+    "id": "782007",
+    "name": "Madina Hotel",
+    "city": "Mumbai",
+    "slugs": {
+      "restaurant": "madina-hotel-vasai-vasai-2",
+      "city": "mumbai"
+    },
+    "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+    "cloudinaryImageId": "b14cd9fc40129fcfb97aa7e621719d07",
+    "locality": "Pandit Dindayal Nagar",
+    "areaName": "Vasai",
+    "costForTwo": "50000",
+    "costForTwoMessage": "₹500 for two",
+    "cuisines": ["North Indian", "Tandoor"],
+    "avgRating": 4.5,
+    "feeDetails": {
+      "restaurantId": "782007",
+      "fees": [
+        {
+          "name": "time"
+        },
+        {
+          "name": "distance",
+          "fee": 2000
+        },
+        {
+          "name": "special"
+        }
+      ],
+      "totalFee": 2000,
+      "icon": "v1648208530/surgecreatives/info",
+      "message": "Very Far (1,652.1 kms) | Additional delivery fee will apply"
+    },
+    "parentId": "128748",
+    "avgRatingString": "4.5",
+    "totalRatingsString": "10+ ratings",
+    "sla": {
+      "restaurantId": "782007",
+      "lastMileTravel": 1652.2,
+      "serviceability": "NON_SERVICEABLE",
+      "rainMode": "RAIN_MODE_NONE",
+      "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+      "lastMileTravelString": "1652.1 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2023-11-24 23:30:00",
+      "visibility": true,
+      "opened": true,
+      "restaurantClosedMeta": {}
+    },
+    "aggregatedDiscountInfo": {
+      "shortDescriptionList": [
+        {
+          "discountType": "Flat",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "descriptionList": [
+        {
+          "meta": "Flat ₹75 off | Above ₹650",
+          "discountType": "Flat",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "20% off up to ₹100 | Use RUPAY100 Above ₹129",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "visible": true
+    },
+    "badges": {},
+    "slugString": "madina-hotel-vasai-vasai-2",
+    "isOpen": true,
+    "labels": [
+      {
+        "title": "Timings",
+        "message": "null"
+      },
+      {
+        "title": "Address",
+        "message": "Shop no. 1,2,3 Ground floor, kumud chs ltd, near masjid, pandit dindayal nagar, vasai west  Palghar -  401202"
+      },
+      {
+        "title": "Cuisines",
+        "message": "North Indian,Tandoor"
+      }
+    ],
+    "totalRatings": 10,
+    "aggregatedDiscountInfoV2": {
+      "shortDescriptionList": [
+        {
+          "discountType": "Flat",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "descriptionList": [
+        {
+          "meta": "Flat ₹75 off | Above ₹650",
+          "discountType": "Flat",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "20% off up to ₹100 | Use RUPAY100 Above ₹129",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "couponDetailsCta": "View coupon details"
+    },
+    "type": "F",
+    "headerBanner": {
+      "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/782007"
+    },
+    "ratingSlab": "RATING_SLAB_5",
+    "availabilityServiceabilityMessage": "Does not deliver to your location",
+    "orderabilityCommunication": {
+      "title": {
+        "text": "Wish you were"
+      },
+      "subTitle": {
+        "text": "CLOSER!"
+      },
+      "message": {
+        "text": "This location is outside the outlet's delivery area",
+        "textColour": "negative"
+      },
+      "customIcon": {
+        "bgGradientColorStart": "#F64C41",
+        "bgGradientColorEnd": "#E53554"
+      }
+    },
+    "hasBestsellerItems": true,
+    "cartOrderabilityNudgeBanner": {
+      "parameters": {},
+      "presentation": {}
+    },
+    "latLong": "19.3792388,72.8272379"
+  },
+  "menu": [
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Recommended",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719797",
+              "name": "Matar paneer",
+              "category": "Veg Main Course",
+              "imageId": "b4fb2a1d4e92794a25908f6b4333dcbf",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 14000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719801",
+              "name": "Kadhai paneer",
+              "category": "Veg Main Course",
+              "imageId": "621cfd5ce5988b0be006b7d3656125ff",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 19000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719804",
+              "name": "Paneer butter masala",
+              "category": "Veg Main Course",
+              "imageId": "3f426779751fb7a30a971d7574fe717f",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 19000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719811",
+              "name": "Shahi paneer",
+              "category": "Veg Main Course",
+              "imageId": "ca35c4c0f6f18a8989703eaca875b3c4",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 22000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719812",
+              "name": "Dal fry",
+              "category": "Dal",
+              "imageId": "6f500784fb8a4d2e969ef4c2198dfd80",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 11000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "5.0",
+                  "ratingCount": "8 ratings",
+                  "ratingCountV2": "8"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719813",
+              "name": "Dal tadka",
+              "category": "Dal",
+              "imageId": "448667d786a20babbd1ad2a0402cadf0",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 13000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719815",
+              "name": "Dal makhani",
+              "category": "Dal",
+              "imageId": "971ba77786a09f30a8a2c3df29fa5cfe",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 21000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719872",
+              "name": "Veg biryani",
+              "category": "Biryani",
+              "imageId": "398b8d6edcd13a107b83799ea669dbc5",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 18000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719873",
+              "name": "Paneer biryani",
+              "category": "Biryani",
+              "imageId": "09bd518a1638767e0d5a3a0518018e24",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 22000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719875",
+              "name": "Chicken biryani",
+              "category": "Biryani",
+              "imageId": "12a78eba889ee66fe447e556dfb8be99",
+              "inStock": 1,
+              "price": 19000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ],
+      "type": "CATEGORY_TYPE_RECOMMENDED"
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Non Veg Starters",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719783",
+              "name": "Tandoori chicken leg",
+              "category": "Non Veg Starters",
+              "inStock": 1,
+              "price": 14000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719784",
+              "name": "Tandoori chicken",
+              "category": "Non Veg Starters",
+              "inStock": 1,
+              "price": 26000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719786",
+              "name": "Chicken tikka",
+              "category": "Non Veg Starters",
+              "inStock": 1,
+              "price": 14000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719787",
+              "name": "Chicken pahadi tikka",
+              "category": "Non Veg Starters",
+              "inStock": 1,
+              "price": 14000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719788",
+              "name": "Chicken malai tikka",
+              "category": "Non Veg Starters",
+              "inStock": 1,
+              "price": 14000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719789",
+              "name": "Chicken cheese kebab",
+              "category": "Non Veg Starters",
+              "inStock": 1,
+              "price": 5500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719790",
+              "name": "Chicken schezwan kebab",
+              "category": "Non Veg Starters",
+              "inStock": 1,
+              "price": 5500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719792",
+              "name": "Chicken mayonnaise kebab",
+              "category": "Non Veg Starters",
+              "inStock": 1,
+              "price": 5500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719793",
+              "name": "Chicken cream tikka kebab",
+              "category": "Non Veg Starters",
+              "inStock": 1,
+              "price": 6500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Veg Main Course",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719795",
+              "name": "Chana masala",
+              "category": "Veg Main Course",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 12000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719796",
+              "name": "Mix bhaji",
+              "category": "Veg Main Course",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 13000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719797",
+              "name": "Matar paneer",
+              "category": "Veg Main Course",
+              "imageId": "b4fb2a1d4e92794a25908f6b4333dcbf",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 14000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719798",
+              "name": "Veg kolhapuri",
+              "category": "Veg Main Course",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 15000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719799",
+              "name": "Paneer masala",
+              "category": "Veg Main Course",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 16000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719800",
+              "name": "Paneer kolhapuri",
+              "category": "Veg Main Course",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 17000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719801",
+              "name": "Kadhai paneer",
+              "category": "Veg Main Course",
+              "imageId": "621cfd5ce5988b0be006b7d3656125ff",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 19000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719802",
+              "name": "Paneer tikka masala",
+              "category": "Veg Main Course",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 19000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719803",
+              "name": "Tufani paneer",
+              "category": "Veg Main Course",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 22000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719804",
+              "name": "Paneer butter masala",
+              "category": "Veg Main Course",
+              "imageId": "3f426779751fb7a30a971d7574fe717f",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 19000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719805",
+              "name": "Veg handi",
+              "category": "Veg Main Course",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 21000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719806",
+              "name": "Veg lababdar",
+              "category": "Veg Main Course",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 21000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719807",
+              "name": "Veg keema kasturi",
+              "category": "Veg Main Course",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 22000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719808",
+              "name": "Veg tawa masala",
+              "category": "Veg Main Course",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 21000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719809",
+              "name": "Handi paneer",
+              "category": "Veg Main Course",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 25000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719810",
+              "name": "Veg makhanwala",
+              "category": "Veg Main Course",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 21000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719811",
+              "name": "Shahi paneer",
+              "category": "Veg Main Course",
+              "imageId": "ca35c4c0f6f18a8989703eaca875b3c4",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 22000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Dal",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719812",
+              "name": "Dal fry",
+              "category": "Dal",
+              "imageId": "6f500784fb8a4d2e969ef4c2198dfd80",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 11000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "5.0",
+                  "ratingCount": "8 ratings",
+                  "ratingCountV2": "8"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719813",
+              "name": "Dal tadka",
+              "category": "Dal",
+              "imageId": "448667d786a20babbd1ad2a0402cadf0",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 13000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719814",
+              "name": "Dal ghotala",
+              "category": "Dal",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 12000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719815",
+              "name": "Dal makhani",
+              "category": "Dal",
+              "imageId": "971ba77786a09f30a8a2c3df29fa5cfe",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 21000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Egg",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719816",
+              "name": "Double fried egg curry",
+              "category": "Egg",
+              "inStock": 1,
+              "price": 12000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719817",
+              "name": "Double egg bhurji",
+              "category": "Egg",
+              "inStock": 1,
+              "price": 8000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719818",
+              "name": "Egg tod fod",
+              "category": "Egg",
+              "inStock": 1,
+              "price": 13000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Chicken Gravy",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719819",
+              "name": "Chicken masala fry",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 13000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719820",
+              "name": "Chicken keema fry",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 13000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719821",
+              "name": "Chicken keema ghotala",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 14000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719822",
+              "name": "Chicken angara",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 14000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719823",
+              "name": "Chicken dal gosht",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 14000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719824",
+              "name": "Kadhai chicken",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 20000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719825",
+              "name": "Handi chicken",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 19000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719826",
+              "name": "Chicken mughlai",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 19000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719827",
+              "name": "Chicken rashida",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 19000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719828",
+              "name": "Chicken kolhapuri",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 21000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719829",
+              "name": "Chicken tikka masala",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 20000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719830",
+              "name": "Butter chicken",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 21000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719831",
+              "name": "Chicken lazeez",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 24000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719832",
+              "name": "Murgh afghani masala",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 24000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719833",
+              "name": "Murgh nawabi masala",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 24000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719834",
+              "name": "Murgh rara masala",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 26000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719835",
+              "name": "Chicken mumtaz",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 28000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719836",
+              "name": "Dhaba gosht",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 21000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719837",
+              "name": "Chicken bhuna",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 20000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719838",
+              "name": "Chicken tawa masala",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 21000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719839",
+              "name": "Murgh lapeta masala",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 24000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719840",
+              "name": "Murgh patiala",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 32000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719841",
+              "name": "Murgh lahori",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 25000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719842",
+              "name": "Chicken hyderabadi",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 25000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719843",
+              "name": "Chicken chatpata",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 25000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719844",
+              "name": "Chicken tiranga",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 30000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719845",
+              "name": "Chicken balti",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 21000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719846",
+              "name": "Chicken do pyaza",
+              "category": "Chicken Gravy",
+              "inStock": 1,
+              "price": 16000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Mutton Gravy",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719847",
+              "name": "Mutton masala",
+              "category": "Mutton Gravy",
+              "inStock": 1,
+              "price": 24000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719848",
+              "name": "Mutton dal gosht",
+              "category": "Mutton Gravy",
+              "inStock": 1,
+              "price": 25000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719849",
+              "name": "Mutton angara",
+              "category": "Mutton Gravy",
+              "inStock": 1,
+              "price": 25000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719850",
+              "name": "Mutton mughlai",
+              "category": "Mutton Gravy",
+              "inStock": 1,
+              "price": 29000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719851",
+              "name": "Kadhai mutton",
+              "category": "Mutton Gravy",
+              "inStock": 1,
+              "price": 30000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719852",
+              "name": "Handi mutton",
+              "category": "Mutton Gravy",
+              "inStock": 1,
+              "price": 29000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719853",
+              "name": "Mutton rashida",
+              "category": "Mutton Gravy",
+              "inStock": 1,
+              "price": 29000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719854",
+              "name": "Mutton kolhapuri",
+              "category": "Mutton Gravy",
+              "inStock": 1,
+              "price": 30000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719855",
+              "name": "Mutton rogan josh",
+              "category": "Mutton Gravy",
+              "inStock": 1,
+              "price": 34000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Breads",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719857",
+              "name": "Tandoori roti",
+              "category": "Breads",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 2000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719858",
+              "name": "Butter tandoori roti",
+              "category": "Breads",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 3000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719859",
+              "name": "Butter tandoori paratha",
+              "category": "Breads",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 4000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719860",
+              "name": "Lachha paratha",
+              "category": "Breads",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 3000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719861",
+              "name": "Butter chapati roti",
+              "category": "Breads",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 2000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719862",
+              "name": "Chapati roti",
+              "category": "Breads",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 1200,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719863",
+              "name": "Chicken baida roti",
+              "category": "Breads",
+              "inStock": 1,
+              "price": 8500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Rice",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719864",
+              "name": "Dal khichdi",
+              "category": "Rice",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 16000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719865",
+              "name": "Tadka dal khichdi",
+              "category": "Rice",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 18000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719866",
+              "name": "Masala khichdi",
+              "category": "Rice",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 20000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719867",
+              "name": "Jeera rice",
+              "category": "Rice",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 18000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719868",
+              "name": "Plain rice",
+              "category": "Rice",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 5000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719869",
+              "name": "Basmati rice",
+              "category": "Rice",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 7000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719870",
+              "name": "Veg tawa pulao",
+              "category": "Rice",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 17000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719871",
+              "name": "Chicken tawa pulao",
+              "category": "Rice",
+              "inStock": 1,
+              "price": 21000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Biryani",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719872",
+              "name": "Veg biryani",
+              "category": "Biryani",
+              "imageId": "398b8d6edcd13a107b83799ea669dbc5",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 18000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719873",
+              "name": "Paneer biryani",
+              "category": "Biryani",
+              "imageId": "09bd518a1638767e0d5a3a0518018e24",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 22000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719874",
+              "name": "Egg biryani",
+              "category": "Biryani",
+              "inStock": 1,
+              "price": 17000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719875",
+              "name": "Chicken biryani",
+              "category": "Biryani",
+              "imageId": "12a78eba889ee66fe447e556dfb8be99",
+              "inStock": 1,
+              "price": 19000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719876",
+              "name": "Bhuna chicken biryani",
+              "category": "Biryani",
+              "inStock": 1,
+              "price": 22000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719877",
+              "name": "Chicken tikka biryani",
+              "category": "Biryani",
+              "inStock": 1,
+              "price": 22000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "126719878",
+              "name": "Mutton biryani",
+              "category": "Biryani",
+              "inStock": 1,
+              "price": 35000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    }
+  ]
+}

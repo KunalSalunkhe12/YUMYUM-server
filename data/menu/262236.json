@@ -1,0 +1,3932 @@
+{
+  "info": {
+    "id": "262236",
+    "name": "Aahar-E-Kolkata",
+    "city": "Mumbai",
+    "slugs": {
+      "restaurant": "aahare-kolkata-vasai-vasai",
+      "city": "mumbai"
+    },
+    "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+    "cloudinaryImageId": "dyv7mnflgjjzstj6rdfh",
+    "locality": "Vasai",
+    "areaName": "Vasai West",
+    "costForTwo": "40000",
+    "costForTwoMessage": "₹400 for two",
+    "cuisines": ["Bengali", "Thalis"],
+    "avgRating": 3.7,
+    "feeDetails": {
+      "restaurantId": "262236",
+      "fees": [
+        {
+          "name": "time"
+        },
+        {
+          "name": "distance",
+          "fee": 2000
+        },
+        {
+          "name": "special"
+        }
+      ],
+      "totalFee": 2000,
+      "icon": "v1648208530/surgecreatives/info",
+      "message": "Very Far (1,652 kms) | Additional delivery fee will apply"
+    },
+    "parentId": "25593",
+    "avgRatingString": "3.7",
+    "totalRatingsString": "500+ ratings",
+    "sla": {
+      "restaurantId": "262236",
+      "lastMileTravel": 1652.1,
+      "serviceability": "NON_SERVICEABLE",
+      "rainMode": "RAIN_MODE_NONE",
+      "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+      "lastMileTravelString": "1652.0 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2023-11-24 23:00:00",
+      "visibility": true,
+      "opened": true,
+      "restaurantClosedMeta": {}
+    },
+    "aggregatedDiscountInfo": {
+      "header": "20% off",
+      "shortDescriptionList": [
+        {
+          "meta": "20% off | Use TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "discountType": "Flat",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "descriptionList": [
+        {
+          "meta": "20% off up to ₹50 | Use code TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "Flat ₹75 off | Above ₹650",
+          "discountType": "Flat",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "visible": true
+    },
+    "badges": {},
+    "slugString": "aahare-kolkata-vasai-vasai",
+    "multiOutlet": true,
+    "isOpen": true,
+    "labels": [
+      {
+        "title": "Timings",
+        "message": "null"
+      },
+      {
+        "title": "Address",
+        "message": "Shop No 3, Destiny Appartment, Ambadi Road, Vasai West"
+      },
+      {
+        "title": "Cuisines",
+        "message": "Bengali,Thalis"
+      }
+    ],
+    "totalRatings": 500,
+    "aggregatedDiscountInfoV2": {
+      "header": "20% off",
+      "shortDescriptionList": [
+        {
+          "meta": "20% off | Use TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "discountType": "Flat",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "descriptionList": [
+        {
+          "meta": "20% off up to ₹50 | Use code TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "Flat ₹75 off | Above ₹650",
+          "discountType": "Flat",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "couponDetailsCta": "View coupon details"
+    },
+    "type": "F",
+    "headerBanner": {
+      "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/262236"
+    },
+    "ratingSlab": "RATING_SLAB_4",
+    "availabilityServiceabilityMessage": "Does not deliver to your location",
+    "orderabilityCommunication": {
+      "title": {
+        "text": "Wish you were"
+      },
+      "subTitle": {
+        "text": "CLOSER!"
+      },
+      "message": {
+        "text": "This location is outside the outlet's delivery area",
+        "textColour": "negative"
+      },
+      "customIcon": {
+        "bgGradientColorStart": "#F64C41",
+        "bgGradientColorEnd": "#E53554"
+      }
+    },
+    "hasBestsellerItems": true,
+    "nearestOutletNudge": {
+      "nearestOutletInfo": {
+        "siblingOutlet": {
+          "id": "83504",
+          "city": "0",
+          "slugs": {},
+          "areaName": "Jadavpur",
+          "costForTwo": "0",
+          "feeDetails": {},
+          "sla": {
+            "deliveryTime": 43,
+            "lastMileTravel": 5,
+            "slaString": "43 MINS",
+            "lastMileTravelString": "5.0 km",
+            "iconType": "ICON_TYPE_EMPTY"
+          },
+          "availability": {
+            "restaurantClosedMeta": {}
+          },
+          "aggregatedDiscountInfo": {
+            "visible": true
+          },
+          "badges": {},
+          "aggregatedDiscountInfoV2": {
+            "visible": true
+          },
+          "availabilityServiceabilityMessage": "Temporarily closed for delivery",
+          "cartOrderabilityNudgeBanner": {
+            "parameters": {},
+            "presentation": {}
+          }
+        }
+      },
+      "nearestOutletComms": {
+        "title": {
+          "text": "Don't worry! Try our outlet that's delivering"
+        },
+        "subTitle": {
+          "text": "Switch to the fastest alternate"
+        }
+      }
+    },
+    "cartOrderabilityNudgeBanner": {
+      "parameters": {},
+      "presentation": {}
+    },
+    "latLong": "19.388856458577,72.825692644044"
+  },
+  "menu": [
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Recommended",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "72636314",
+              "name": "Mutton Roll",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "imageId": "gjbjts3uhxhhpkdu1akz",
+              "inStock": 1,
+              "price": 18500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.3",
+                  "ratingCount": "9 ratings",
+                  "ratingCountV2": "9"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "73054591",
+              "name": "Egg Chicken Roll",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "imageId": "qrwelq8wscgrrd7tiqmv",
+              "inStock": 1,
+              "price": 14500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.1",
+                  "ratingCount": "29 ratings",
+                  "ratingCountV2": "29"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194326",
+              "name": "Chicken Roll",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "imageId": "hnynhmzzrgcumhieze6v",
+              "inStock": 1,
+              "price": 12500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.1",
+                  "ratingCount": "32 ratings",
+                  "ratingCountV2": "32"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194329",
+              "name": "Double Egg Chicken Roll",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "imageId": "vv9oxqgsloitlldbih6z",
+              "inStock": 1,
+              "price": 16500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "2.7",
+                  "ratingCount": "20 ratings",
+                  "ratingCountV2": "20"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194330",
+              "name": "Egg Mutton Roll",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "imageId": "tfbzsonkahg6qcokh7ah",
+              "inStock": 1,
+              "price": 19900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.4",
+                  "ratingCount": "5 ratings",
+                  "ratingCountV2": "5"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194332",
+              "name": "Fish Finger (6 Pcs)",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "description": "River fresh finger cut Bhetki fish marinated and crumbed fried served with mustard sauce and salad",
+              "imageId": "jir1cbjqbcpjhcwuixm6",
+              "inStock": 1,
+              "price": 20500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.0",
+                  "ratingCount": "10 ratings",
+                  "ratingCountV2": "10"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194334",
+              "name": "Machher Chop (2 Pcs)",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "description": "Macher Chop is a delicious and mouthwatering Bengali Style Fish Cutlet served with mustard sauce and salad",
+              "imageId": "n5nl6okc1uk9bt6jtxgh",
+              "inStock": 1,
+              "price": 15500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.1",
+                  "ratingCount": "6 ratings",
+                  "ratingCountV2": "6"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194338",
+              "name": "Vegetable Chop (2 Pcs)",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "description": "Bengali vegetable chop (also called 'beet chop' or 'veg cutlet') is widely popular in roadside chop stalls or cabins in Kolkata .Assorted vegetables mixture patty crumbed fried served with mustard sauce and salad",
+              "imageId": "lyong0l8laqncwf2a3ms",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 16000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "2.8",
+                  "ratingCount": "7 ratings",
+                  "ratingCountV2": "7"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194339",
+              "name": "Bhajabhuji-begun (4 Pcs)",
+              "category": "Pure Veg Bengali Bhajabhuji",
+              "description": "A Classic fry items",
+              "imageId": "epy4zf6avduuhhdyphll",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 14000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194343",
+              "name": "Jhuri Aloo Bhaja",
+              "category": "Pure Veg Bengali Bhajabhuji",
+              "description": "A Bengali style crispy fried potato strips",
+              "imageId": "antprvbkb3v3z2ush1sa",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 12500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.8",
+                  "ratingCount": "4 ratings",
+                  "ratingCountV2": "4"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "61139181",
+              "name": "Macher Matha Diye Moong Dal",
+              "category": "Bengali Daal",
+              "description": "Thick, rich, aromatic Bengali style Moog Dal along with the dominant presence of the fish head",
+              "imageId": "jvworrehbebibeb6kxov",
+              "inStock": 1,
+              "price": 14900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "51715858",
+              "name": "Shukto",
+              "category": "Pure Veg Bengali Niramish Aahar",
+              "description": "Bengali Shukto is the mild, comforting stew packed with a variety of vegetables, most notably potatoes, sweet potatoes, bitter gourd (korola), green bananas (kachkola), raw papaya (pepe), brinjal, drumsticks (shojne)",
+              "imageId": "rrupxop2piiozrh3zoqg",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 17500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.5",
+                  "ratingCount": "6 ratings",
+                  "ratingCountV2": "6"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "51715860",
+              "name": "Mochar Ghonto",
+              "category": "Pure Veg Bengali Niramish Aahar",
+              "description": "Is a pure vegetarian dish no onion no garlic recipe which is perfect for any puja days or vegetarian days",
+              "imageId": "bthim1gk7f8onpzaqhhd",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 20500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.8",
+                  "ratingCount": "4 ratings",
+                  "ratingCountV2": "4"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "51715867",
+              "name": "Dhokar Dalna",
+              "category": "Pure Veg Bengali Niramish Aahar",
+              "description": "Is a signature Bengali vegetarian dish. It is lentil cake made using chana dal which is traditionally fried and simmered in gravy without onion and garlic.",
+              "imageId": "g90727rpkvx7i1egcdtg",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 30500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.8",
+                  "ratingCount": "11 ratings",
+                  "ratingCountV2": "11"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "61138925",
+              "name": "Aloo Fulkopi Dalna",
+              "category": "Pure Veg Bengali Niramish Aahar",
+              "description": "Florets of Cauliflower and dice potatoes curry cooked with a tempering of asafetida and ginger",
+              "imageId": "vjewfnhoujajcan8h8cb",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 18500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.8",
+                  "ratingCount": "6 ratings",
+                  "ratingCountV2": "6"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194353",
+              "name": "Aloo Mutter Paneer",
+              "category": "Pure Veg Bengali Niramish Aahar",
+              "description": "Cubes of cottage cheese cooked with potatoes and green peas simmered in gravy",
+              "imageId": "mewsauwdhiwyfdd3oipe",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 20500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "51715797",
+              "name": "Mocha Chingri",
+              "category": "Non Veg Bengali Aamish Aahar",
+              "description": "Mocha Chingri is a Bengali delicacy, cooked with banana flowers and SHRIMPS.",
+              "imageId": "ggkcsmk6ncrsj0dcb07c",
+              "inStock": 1,
+              "price": 20500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194368",
+              "name": "Kolkata Bhekti Paturi (2 Pcs)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "Chunk of river fresh Kolkata Bhetki , steamed in banana-leaf parcels",
+              "imageId": "f3xxvojlkgmecotfrr0t",
+              "inStock": 1,
+              "price": 40500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194370",
+              "name": "Kolkata Bhetki Sorse ( 1 Pc)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "Chunk of river fresh Kolkata Bhetki   cooked in mustard curry",
+              "imageId": "l4fhgzjiq4hrz3cuq4wa",
+              "inStock": 1,
+              "price": 40500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194371",
+              "name": "Kolkata Chingri Malai Curry (apc)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "Is a Bengali curry made from tiger and king prawns and coconut milk and flavored with spices.",
+              "imageId": "wuljcartlfd9dknwogeo",
+              "inStock": 1,
+              "price": 35500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ],
+      "type": "CATEGORY_TYPE_RECOMMENDED"
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Aahare Express Combo",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105162",
+              "name": "AAHARE GOBINDOBHOG KHICHUDI WITH Labra( PUJO DAY SPECIAL )",
+              "category": "Aahare Express Combo",
+              "description": "A dish made of Gobindhobhog rice and lentils served with Bengali style Aloo dum",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 25500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105163",
+              "name": "Basanti Pulao With Chanar Kofta (2 Pcs) & Chutney",
+              "category": "Aahare Express Combo",
+              "description": "Basanti Pulao also known as Mishti Pulao, a fragrant rice dish along with the goodness of raisins and cashew nuts give a royal touch served with cottage cheese dumpling (2 pcs) in rich creamy gravy",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 27500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105164",
+              "name": "Basanti Pulao With Chicken (2 Pcs) & Chutney",
+              "category": "Aahare Express Combo",
+              "description": "Basanti Pulao also known as Mishti Pulao, a fragrant rice dish along with the goodness of raisins and cashew nuts give a royal touch served with chicken curry and Chutney",
+              "inStock": 1,
+              "price": 30500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105165",
+              "name": "Basanti Pulao With Kasa Mangsho (mutton) (2 Pcs) & Chutney",
+              "category": "Aahare Express Combo",
+              "description": "Basanti Pulao also known as Mishti Pulao, a fragrant rice dish along with the goodness of raisins and cashew nuts give a royal touch served with mutton curry and Chutney",
+              "inStock": 1,
+              "price": 35500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105166",
+              "name": "Gobindbhog Rice With Murgir Jhol & Chutney",
+              "category": "Aahare Express Combo",
+              "description": "Boil Gobindhobhog rice with chicken curryand Chutney",
+              "inStock": 1,
+              "price": 24900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105167",
+              "name": "Gobindbhog Rice With Musoor Dal And Aloo Siddho",
+              "category": "Aahare Express Combo",
+              "description": "Boiled Gobindhobhog rice Rice served with Musoor Dal and Aloo Siddho",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 14900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105168",
+              "name": "Koraisutir Kochuri (4 Pcs) With Kolkata Aloo Dum & Rosogolla",
+              "category": "Aahare Express Combo",
+              "description": "Koraishutir Kochuri is a deep-fried, puffy bread, stuffed with a filling of mildly spiced, hing-infused green peas or 'Koraishuti' served with Bengali style Aloo dum.",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 18500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105169",
+              "name": "Luchi 4pcs With Chicken (2 Pcs) & Rosogolla",
+              "category": "Aahare Express Combo",
+              "description": "Deep-fried flatbread, made of Maida flour, originating from the Bengal region serve with chicken preparation and Rosogolla",
+              "inStock": 1,
+              "price": 23500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105170",
+              "name": "Luchi 4pcs With Kasa Mangsho (mutton) (2 Pcs) & Rosogolla",
+              "category": "Aahare Express Combo",
+              "description": "Deep-fried flatbread, made of Maida flour, originating from the Bengal region serve with semi dry mutton preparation and Rosogolla",
+              "inStock": 1,
+              "price": 34900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105171",
+              "name": "Plain Rice With Bhetki Jhol (1 Pc) & Chutney",
+              "category": "Aahare Express Combo",
+              "description": "River fresh curry cut Bhetki cooked in home style served with steamed rice and Chutney",
+              "inStock": 1,
+              "price": 27900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105172",
+              "name": "Plain Rice With Katla Jhol (1 Pc) & Chutney",
+              "category": "Aahare Express Combo",
+              "description": "Steam rice served with river fresh Katla fish curry and Chutney",
+              "inStock": 1,
+              "price": 24900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Kolkata Deckers Lane (kolkata Street Food)",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "72445417",
+              "name": "Double Egg Roll",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "inStock": 1,
+              "price": 11500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.0",
+                  "ratingCount": "21 ratings",
+                  "ratingCountV2": "21"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "72636314",
+              "name": "Mutton Roll",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "imageId": "gjbjts3uhxhhpkdu1akz",
+              "inStock": 1,
+              "price": 18500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.3",
+                  "ratingCount": "9 ratings",
+                  "ratingCountV2": "9"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "73054591",
+              "name": "Egg Chicken Roll",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "imageId": "qrwelq8wscgrrd7tiqmv",
+              "inStock": 1,
+              "price": 14500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.1",
+                  "ratingCount": "29 ratings",
+                  "ratingCountV2": "29"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "77276921",
+              "name": "Double Egg Mutton Roll",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "imageId": "ingoqynz5waertpey4nm",
+              "inStock": 1,
+              "price": 22500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194326",
+              "name": "Chicken Roll",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "imageId": "hnynhmzzrgcumhieze6v",
+              "inStock": 1,
+              "price": 12500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.1",
+                  "ratingCount": "32 ratings",
+                  "ratingCountV2": "32"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194329",
+              "name": "Double Egg Chicken Roll",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "imageId": "vv9oxqgsloitlldbih6z",
+              "inStock": 1,
+              "price": 16500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "2.7",
+                  "ratingCount": "20 ratings",
+                  "ratingCountV2": "20"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194330",
+              "name": "Egg Mutton Roll",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "imageId": "tfbzsonkahg6qcokh7ah",
+              "inStock": 1,
+              "price": 19900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.4",
+                  "ratingCount": "5 ratings",
+                  "ratingCountV2": "5"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194332",
+              "name": "Fish Finger (6 Pcs)",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "description": "River fresh finger cut Bhetki fish marinated and crumbed fried served with mustard sauce and salad",
+              "imageId": "jir1cbjqbcpjhcwuixm6",
+              "inStock": 1,
+              "price": 20500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.0",
+                  "ratingCount": "10 ratings",
+                  "ratingCountV2": "10"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194334",
+              "name": "Machher Chop (2 Pcs)",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "description": "Macher Chop is a delicious and mouthwatering Bengali Style Fish Cutlet served with mustard sauce and salad",
+              "imageId": "n5nl6okc1uk9bt6jtxgh",
+              "inStock": 1,
+              "price": 15500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.1",
+                  "ratingCount": "6 ratings",
+                  "ratingCountV2": "6"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194338",
+              "name": "Vegetable Chop (2 Pcs)",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "description": "Bengali vegetable chop (also called 'beet chop' or 'veg cutlet') is widely popular in roadside chop stalls or cabins in Kolkata .Assorted vegetables mixture patty crumbed fried served with mustard sauce and salad",
+              "imageId": "lyong0l8laqncwf2a3ms",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 16000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "2.8",
+                  "ratingCount": "7 ratings",
+                  "ratingCountV2": "7"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105174",
+              "name": "Chicken Cutlet (2 Pcs)",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "description": "A crisp and tasty breaded chicken patty served with Kasundi and salad",
+              "inStock": 1,
+              "price": 15500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105175",
+              "name": "Chicken Stew With Toast Bread",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "description": "Chicken stew is a firm favourite among office-goers in Calcutta, especially in the central business district of Dalhousie is a less spicy, soupy curry made with chicken and veggies with butter, black pepper & whole spices",
+              "inStock": 1,
+              "price": 12500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105176",
+              "name": "Fish Fry (1 Pc)",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "description": "River fresh Bhetki fish chunk marinated and crumbed fried served with mustard sauce and salad",
+              "inStock": 1,
+              "price": 30500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105177",
+              "name": "Uttor Kolkata Mutton Dimer Devil - (2 Pcs)",
+              "category": "Kolkata Deckers Lane (kolkata Street Food)",
+              "description": "These devils are made with half hard boiled eggs, wrapped with potato and spicy mutton minced mixture, dipped in batter, coated with bread crumbs and then deep fried served with mustard sauce and salad",
+              "inStock": 1,
+              "price": 15500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Pure Veg Bengali Bhajabhuji",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194339",
+              "name": "Bhajabhuji-begun (4 Pcs)",
+              "category": "Pure Veg Bengali Bhajabhuji",
+              "description": "A Classic fry items",
+              "imageId": "epy4zf6avduuhhdyphll",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 14000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194340",
+              "name": "Bhajabhuji-beguni (4 Pcs)",
+              "category": "Pure Veg Bengali Bhajabhuji",
+              "description": "Beguni is a common Bengali snack originating from the Bengal region. It is made of eggplant which is sliced and dipped in gram flour batter before being either fried or deep fried in oil",
+              "imageId": "buxffv82rkgysalehgis",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 12900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194343",
+              "name": "Jhuri Aloo Bhaja",
+              "category": "Pure Veg Bengali Bhajabhuji",
+              "description": "A Bengali style crispy fried potato strips",
+              "imageId": "antprvbkb3v3z2ush1sa",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 12500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.8",
+                  "ratingCount": "4 ratings",
+                  "ratingCountV2": "4"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194344",
+              "name": "Mix Bhajar Thala-3 Type",
+              "category": "Pure Veg Bengali Bhajabhuji",
+              "description": "Three types of  assorted vegetables fry",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 12500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194345",
+              "name": "Mix Bhajar Thala-5 Type",
+              "category": "Pure Veg Bengali Bhajabhuji",
+              "description": "Five types of  assorted vegetables fry",
+              "imageId": "okkn4cztw7bmbjc2zt4w",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 13500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "2.8",
+                  "ratingCount": "4 ratings",
+                  "ratingCountV2": "4"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "94952985",
+              "name": "Bhajabhuji-kumrani (4 Pcs)",
+              "category": "Pure Veg Bengali Bhajabhuji",
+              "description": "Red pumpkin flitters served as an appetizer with daal (lentil)",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 11900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Bengali Daal",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "61139181",
+              "name": "Macher Matha Diye Moong Dal",
+              "category": "Bengali Daal",
+              "description": "Thick, rich, aromatic Bengali style Moog Dal along with the dominant presence of the fish head",
+              "imageId": "jvworrehbebibeb6kxov",
+              "inStock": 1,
+              "price": 14900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194350",
+              "name": "Narkel Diye Cholar Dal",
+              "category": "Bengali Daal",
+              "description": "Narkel diye cholar dal is a special Bengali version of the chana dal and is prepared commonly in most Bengali households. The Bengali-style chana dal is prepared by cooking chana dal with aromatic dried spices and a hint of fried coconut pieces, adding flavor to this already flavorful dish.",
+              "imageId": "bmba7kdue9se4xmc65bj",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 13500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "94952991",
+              "name": "Panch Phoron Musoor Dal",
+              "category": "Bengali Daal",
+              "description": "Boil Masuoor dal tempered with five spices",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 15500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105180",
+              "name": "Sonamuger Dal With Green Peas",
+              "category": "Bengali Daal",
+              "description": "Roasted yellow lentil seasoned with spices and Green Peas goes well with steamed rice and infused with desi ghee",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 13500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Pure Veg Bengali Niramish Aahar",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "51715858",
+              "name": "Shukto",
+              "category": "Pure Veg Bengali Niramish Aahar",
+              "description": "Bengali Shukto is the mild, comforting stew packed with a variety of vegetables, most notably potatoes, sweet potatoes, bitter gourd (korola), green bananas (kachkola), raw papaya (pepe), brinjal, drumsticks (shojne)",
+              "imageId": "rrupxop2piiozrh3zoqg",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 17500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.5",
+                  "ratingCount": "6 ratings",
+                  "ratingCountV2": "6"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "51715860",
+              "name": "Mochar Ghonto",
+              "category": "Pure Veg Bengali Niramish Aahar",
+              "description": "Is a pure vegetarian dish no onion no garlic recipe which is perfect for any puja days or vegetarian days",
+              "imageId": "bthim1gk7f8onpzaqhhd",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 20500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.8",
+                  "ratingCount": "4 ratings",
+                  "ratingCountV2": "4"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "51715867",
+              "name": "Dhokar Dalna",
+              "category": "Pure Veg Bengali Niramish Aahar",
+              "description": "Is a signature Bengali vegetarian dish. It is lentil cake made using chana dal which is traditionally fried and simmered in gravy without onion and garlic.",
+              "imageId": "g90727rpkvx7i1egcdtg",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 30500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.8",
+                  "ratingCount": "11 ratings",
+                  "ratingCountV2": "11"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "61138925",
+              "name": "Aloo Fulkopi Dalna",
+              "category": "Pure Veg Bengali Niramish Aahar",
+              "description": "Florets of Cauliflower and dice potatoes curry cooked with a tempering of asafetida and ginger",
+              "imageId": "vjewfnhoujajcan8h8cb",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 18500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.8",
+                  "ratingCount": "6 ratings",
+                  "ratingCountV2": "6"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194353",
+              "name": "Aloo Mutter Paneer",
+              "category": "Pure Veg Bengali Niramish Aahar",
+              "description": "Cubes of cottage cheese cooked with potatoes and green peas simmered in gravy",
+              "imageId": "mewsauwdhiwyfdd3oipe",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 20500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105181",
+              "name": "Kolkata Bhaja Masala Aloo Dum",
+              "category": "Pure Veg Bengali Niramish Aahar",
+              "description": "Potatoes cooked in a Kolkata Style spicy gravy flavored with cumin and ginger infused with fresh cumin, fennel, and coriander seeds that have been dry roasted and ground into a powdered form.",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 14500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105183",
+              "name": "Rajbarir Chanar Kofta Curry (4 Pcs)",
+              "category": "Pure Veg Bengali Niramish Aahar",
+              "description": "Cottage cheese dumplings served with rich malai gravy",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 20500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Non Veg Bengali Aamish Aahar",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "51715797",
+              "name": "Mocha Chingri",
+              "category": "Non Veg Bengali Aamish Aahar",
+              "description": "Mocha Chingri is a Bengali delicacy, cooked with banana flowers and SHRIMPS.",
+              "imageId": "ggkcsmk6ncrsj0dcb07c",
+              "inStock": 1,
+              "price": 20500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "94953000",
+              "name": "College Canteen Omelette Curry",
+              "category": "Non Veg Bengali Aamish Aahar",
+              "description": "Omelette Curry mostly served in the collage canteens of Bengal. Give us a nostalgic remembrance of Collage days.",
+              "inStock": 1,
+              "price": 14900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105186",
+              "name": "Dimer Kosha (2 Pcs) Homestyle",
+              "category": "Non Veg Bengali Aamish Aahar",
+              "description": "Dim Kosha is a spicy Bengali egg dish with a tangy, sweet & spicy",
+              "inStock": 1,
+              "price": 14900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105187",
+              "name": "Mourola Macher Piyaji- (6 Pcs)",
+              "category": "Non Veg Bengali Aamish Aahar",
+              "description": "Crunchy Mourola fish mix with gram flour , slice onions, chopped green chilies and deepfried serve with sauce.",
+              "inStock": 1,
+              "price": 19900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Bengali Macher Keramati - Only Fish",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194368",
+              "name": "Kolkata Bhekti Paturi (2 Pcs)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "Chunk of river fresh Kolkata Bhetki , steamed in banana-leaf parcels",
+              "imageId": "f3xxvojlkgmecotfrr0t",
+              "inStock": 1,
+              "price": 40500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194370",
+              "name": "Kolkata Bhetki Sorse ( 1 Pc)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "Chunk of river fresh Kolkata Bhetki   cooked in mustard curry",
+              "imageId": "l4fhgzjiq4hrz3cuq4wa",
+              "inStock": 1,
+              "price": 40500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194371",
+              "name": "Kolkata Chingri Malai Curry (apc)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "Is a Bengali curry made from tiger and king prawns and coconut milk and flavored with spices.",
+              "imageId": "wuljcartlfd9dknwogeo",
+              "inStock": 1,
+              "price": 35500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194375",
+              "name": "Hilsa Bhapa -  (1pc)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "Is a classic Ilish preparation of Bengali cuisine where fresh Hilsa is marinated in special mustard-coconut-yogurt paste and steamed",
+              "imageId": "ahe31g2dxrgjkdvhafbp",
+              "inStock": 1,
+              "price": 58500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194376",
+              "name": "Padma Hilsa Fry   (1 Pc)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "imageId": "u4rmkicy6laqsfpxmwnx",
+              "inStock": 1,
+              "price": 55500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194378",
+              "name": "Hilsa Sorse  (1 Pc)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "Hilsa chunk cooked in mustard curry",
+              "imageId": "feprzlbz55ummzlanohn",
+              "inStock": 1,
+              "price": 59900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194380",
+              "name": "Katla Fry  (1 Pc)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "imageId": "orzf1avblnxmvztgg4fu",
+              "inStock": 1,
+              "price": 23000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.8",
+                  "ratingCount": "11 ratings",
+                  "ratingCountV2": "11"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194382",
+              "name": "Katla Kalia  (1 Pc)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "Bengali fish delicacy of mature Katla carp in a fiery red onion, ginger and yoghurt sauce.",
+              "imageId": "wxgufcn239q7omcnmzq8",
+              "inStock": 1,
+              "price": 27000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194384",
+              "name": "Lotiyar Jhuri (shutki)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "Loitta macher jhuri is a Bangladeshi recipe of Bombay duck stir fried with onions .It is spicy in taste.",
+              "imageId": "sltgo0g6ntbklocwwce7",
+              "inStock": 1,
+              "price": 22900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194388",
+              "name": "Pabda Sorse  (1 Pc)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "Indian Catfish cooked in mustard curry",
+              "imageId": "lhj6fgvp0jfm2nhfbmam",
+              "inStock": 1,
+              "price": 30500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194390",
+              "name": "Pomfret Fry  (1 Pc)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "imageId": "jxlvuibve04hpbpbyx5w",
+              "inStock": 1,
+              "price": 40500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.9",
+                  "ratingCount": "7 ratings",
+                  "ratingCountV2": "7"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194391",
+              "name": "Pomfret Jhaal (1 Pc)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "A spicy Pomfret fish curry recipe in Bengal style. Macher jhal is a common phrase used to indicate a recipe for spicy Bengali fish curry",
+              "imageId": "xsk4kbbkkq9xveftpxtx",
+              "inStock": 1,
+              "price": 50500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "94953006",
+              "name": "Pabda Tel Borir Jhol (1 Pc)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "Indian Catfish cooked in a spicy oily curry with lentil dumplings",
+              "inStock": 1,
+              "price": 29900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105189",
+              "name": "Barishali Hilsa (1 Pc)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "Ilish Borishali, a famous Hilsa delicacy in India is named after a district of Bangladesh, Barishal?.The dish is cooked with mustard, Coconut and Curd.",
+              "inStock": 1,
+              "price": 58500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105190",
+              "name": "Padma Doi Hilsa (1 Pc)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "Doi Ilish?is a traditional Bengali Curd based Hilsa fish curry where Hilsa or Ilish is cooked with Curd and a few spices.",
+              "inStock": 1,
+              "price": 58500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105191",
+              "name": "Doi Katla (1 Pc)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "Katla fish pieces cooked in rich creamy white gravy made of curd, ginger-garlic-onion, cashew nuts and some spices.",
+              "inStock": 1,
+              "price": 25500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105192",
+              "name": "Padma Hilsa Begun Borir Jhol (1 Pc)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "Hilsa chunk cooked in home-style curry with brinjal and lentil dumpling",
+              "inStock": 1,
+              "price": 58500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105193",
+              "name": "Home Style Bhetki With Aloo, Fulkopi (1 Pc)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "inStock": 1,
+              "price": 35500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105194",
+              "name": "Home Style Katla With Aloo, Fulkopi (1 Pcs)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "Katla fish Jhal is a traditional  fish curry in Bengali cuisines with potato and cauliflower .",
+              "inStock": 1,
+              "price": 25500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105197",
+              "name": "Home Style Pabda Jhol With Tomato (1 Pc)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "Pabda fish cooked in home style with tomatoes",
+              "inStock": 1,
+              "price": 30500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105202",
+              "name": "Mourala Macher Bati Chorchori",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "Small fish semi dry spicy preparation",
+              "inStock": 1,
+              "price": 14900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105203",
+              "name": "Narkel Bata Chingri Bhapa",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "A traditional Bengali dish of Prawns steamed in a sharp mustard, coconut and yoghurt sauce.",
+              "inStock": 1,
+              "price": 35500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105204",
+              "name": "Pabda Macher Jhal -e-jhole (1 Pc) Homestyle",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "A spicy preparation of Pabda fish",
+              "inStock": 1,
+              "price": 30500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105206",
+              "name": "Rosalo Katla Kalia (1 Pc)",
+              "category": "Bengali Macher Keramati - Only Fish",
+              "description": "Bengali fish delicacy of mature Katla fish in a fiery red onion, ginger and yoghurt sauce.",
+              "inStock": 1,
+              "price": 25500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Bengali Style Murgir - Only Chicken",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194399",
+              "name": "Dhakai Chicken Chaap (1 Pc)",
+              "category": "Bengali Style Murgir - Only Chicken",
+              "description": "Kolkata style Chicken Chaap is a Mughlai exemplary where the Chicken pieces marinated first with sweet-smelling flavors and zest glue then it cooked further. The final product is a rich, flavorful, complex curry with delicate chicken which tastes incredible with parotta, roti, biryani, or pulao.",
+              "imageId": "ufrwbxanmtdypwzlabie",
+              "inStock": 1,
+              "price": 35500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194402",
+              "name": "Murgi Kasha (2 Pcs)",
+              "category": "Bengali Style Murgir - Only Chicken",
+              "description": "Chicken Marinated in a spicy marinade and cooked along with whole Indian spices and tossed in a caramelized onion gravy",
+              "imageId": "y3pufskf8jskjsflw2fm",
+              "inStock": 1,
+              "price": 30500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.4",
+                  "ratingCount": "6 ratings",
+                  "ratingCountV2": "6"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194404",
+              "name": "Murgir Lal Jhol (2 Pcs)",
+              "category": "Bengali Style Murgir - Only Chicken",
+              "description": "A fiery red Bengali chicken curry",
+              "imageId": "df7l5dcxizdwyavzfijf",
+              "inStock": 1,
+              "price": 25500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.2",
+                  "ratingCount": "12 ratings",
+                  "ratingCountV2": "12"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105208",
+              "name": "Chicken Dakbunglow (2 Pcs)",
+              "category": "Bengali Style Murgir - Only Chicken",
+              "description": "Is a Bengali style chicken curry cooked with basic spices along with egg and potato.",
+              "inStock": 1,
+              "price": 23500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105209",
+              "name": "Goalondo Chicken Curry (2 Pcs)",
+              "category": "Bengali Style Murgir - Only Chicken",
+              "description": "A rustic chicken curry prepared by the Muslim boatmen plying between Goalodno and Narayanganj in undivided Bengal",
+              "inStock": 1,
+              "price": 34900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105210",
+              "name": "Kancha Lanka Dhonepata Bata Murgi-2 Pcs - Chef Special",
+              "category": "Bengali Style Murgir - Only Chicken",
+              "description": "Murgi Kacha Lanka is a Bengali style chicken curry cooked with the paste of skin of green chilies.",
+              "inStock": 1,
+              "price": 35500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Bengali Style Pathar Pachali Only Mutton",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194407",
+              "name": "Dhakai Mutton Rezala",
+              "category": "Bengali Style Pathar Pachali Only Mutton",
+              "description": "A Bengali Dish is a delicious curry which is made in Yogurt, Cashew and Poppy seeds paste that gives it a rich flavor. The dish is filled with loads of flavor and subtle taste from the use of cardamom and nutmeg.",
+              "imageId": "q9tzdaogtemk1w8owqjl",
+              "inStock": 1,
+              "price": 55500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194408",
+              "name": "Kolkata Golbari Kashamangsho (4 Pcs)",
+              "category": "Bengali Style Pathar Pachali Only Mutton",
+              "description": "Mutton Marinated in a spicy marinade and cooked along with whole Indian spices and tossed in a caramelized onion gravy",
+              "imageId": "elf7kvaityelc7rj0dhs",
+              "inStock": 1,
+              "price": 55500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194411",
+              "name": "Mutton Dakbunglow (4 Pcs)",
+              "category": "Bengali Style Pathar Pachali Only Mutton",
+              "description": "Is a Bengali style Mutton curry cooked with basic spices along with boil egg and potato.",
+              "imageId": "qeigqvagcxi2amc2px7y",
+              "inStock": 1,
+              "price": 55500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194412",
+              "name": "Robibarer Mangsher Jhol (4 Pcs)",
+              "category": "Bengali Style Pathar Pachali Only Mutton",
+              "description": "Tender goat meat cooked in mildly spiced gravy with a chunk of potato. Makes for a perfect lunch for a Bengali on a Sunday",
+              "imageId": "vhxgaarsxmi2wcwoi5e8",
+              "inStock": 1,
+              "price": 50500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105212",
+              "name": "Railway Mutton Curry (4 Pcs)",
+              "category": "Bengali Style Pathar Pachali Only Mutton",
+              "description": "Railway mutton curry is?a British Raj colonial-era dish that was served on long-distance trains can have with rotis or breads.",
+              "inStock": 1,
+              "price": 50500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Kolkata Biryani",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194413",
+              "name": "Egg Biryani",
+              "category": "Kolkata Biryani",
+              "description": "Kolkata Biryani is exceptionally light, low on essence and colour, and mildly spiced - using just the right amount of spices to enhance the taste.",
+              "imageId": "veecccclcgpue8kquq9z",
+              "inStock": 1,
+              "price": 20500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.2",
+                  "ratingCount": "11 ratings",
+                  "ratingCountV2": "11"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194414",
+              "name": "Kolkata Chicken Biriyani",
+              "category": "Kolkata Biryani",
+              "description": "Kolkata Biryani is exceptionally light, low on essence and colour, and mildly spiced - using just the right amount of spices to enhance the taste.",
+              "imageId": "hw0pzrvikltpu1smkb15",
+              "inStock": 1,
+              "price": 30500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.4",
+                  "ratingCount": "85 ratings",
+                  "ratingCountV2": "85"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194415",
+              "name": "Kolkata Mutton Biriyani",
+              "category": "Kolkata Biryani",
+              "description": "Kolkata Biryani is exceptionally light, low on essence and colour, and mildly spiced - using just the right amount of spices to enhance the taste.",
+              "imageId": "cssk5aok7ckddravxeuh",
+              "inStock": 1,
+              "price": 35500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.1",
+                  "ratingCount": "39 ratings",
+                  "ratingCountV2": "39"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Bengali Regular Thali",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "51715810",
+              "name": "Veg Thali.",
+              "category": "Bengali Regular Thali",
+              "description": "(Rice+Dal+Bhaja+2Veg+2Roti+Salad+Chutney+Misti)",
+              "imageId": "ke8a0zqthvcrpuyqh0ah",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 24900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.9",
+                  "ratingCount": "57 ratings",
+                  "ratingCountV2": "57"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "51715812",
+              "name": "Fish Thali.",
+              "category": "Bengali Regular Thali",
+              "description": "(Rice+Dal+Bhaja+Veg+1Pc Katla Kalia+ 2Roti+Salad+Chutney+Misti)",
+              "imageId": "ym3pft88fdmam9paxbwa",
+              "inStock": 1,
+              "price": 29900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.1",
+                  "ratingCount": "20 ratings",
+                  "ratingCountV2": "20"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "51715814",
+              "name": "Chicken Thali.",
+              "category": "Bengali Regular Thali",
+              "description": "(Rice+Dal+Bhaja+Veg+2Pc Chicken+ 2Roti+Salad+Chutney+Misti)",
+              "imageId": "h7vpjqqgtuco9jatc1x6",
+              "inStock": 1,
+              "price": 29900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.1",
+                  "ratingCount": "22 ratings",
+                  "ratingCountV2": "22"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "51715816",
+              "name": "Mutton Thali.",
+              "category": "Bengali Regular Thali",
+              "description": "(Rice+Dal+Bhaja+Veg+2Pc Mutton+ 2Roti+Salad+Chutney+Misti)",
+              "imageId": "n7reul78h6ed8cgctmh4",
+              "inStock": 1,
+              "price": 34900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.9",
+                  "ratingCount": "3 ratings",
+                  "ratingCountV2": "3"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "61139053",
+              "name": "Egg Thali.",
+              "category": "Bengali Regular Thali",
+              "description": "(Rice+Dal+Bhaja+Veg+2Pc Egg Kasa + 2Roti+Salad+Chutney+Misti)",
+              "imageId": "t50fmvfeeif4v2bwcsly",
+              "inStock": 1,
+              "price": 24900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "NONVEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.2",
+                  "ratingCount": "20 ratings",
+                  "ratingCountV2": "20"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Pure Veg Bengali Sather Pate- Accompaniments",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "51715826",
+              "name": "Basanti Pulao",
+              "category": "Pure Veg Bengali Sather Pate- Accompaniments",
+              "imageId": "x8hsutxmtz0itolasxtt",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 17500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.9",
+                  "ratingCount": "8 ratings",
+                  "ratingCountV2": "8"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194422",
+              "name": "Chapati (4 Pcs)",
+              "category": "Pure Veg Bengali Sather Pate- Accompaniments",
+              "imageId": "g47ryesbrzttq60yugut",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 10000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "3.6",
+                  "ratingCount": "11 ratings",
+                  "ratingCountV2": "11"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194426",
+              "name": "Koraisutir Kochuri (4 Pcs)",
+              "category": "Pure Veg Bengali Sather Pate- Accompaniments",
+              "imageId": "ybelwnhcc36pcjoqneut",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 13500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.9",
+                  "ratingCount": "7 ratings",
+                  "ratingCountV2": "7"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194427",
+              "name": "Lucchi (4 Pcs)",
+              "category": "Pure Veg Bengali Sather Pate- Accompaniments",
+              "imageId": "vjotqquengl6g9jkjbod",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 13000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "1.8",
+                  "ratingCount": "5 ratings",
+                  "ratingCountV2": "5"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125105213",
+              "name": "Gobindabhog Steam Rice",
+              "category": "Pure Veg Bengali Sather Pate- Accompaniments",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 13500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "125255791",
+              "name": "Aahare Special Kolkata Gobindobhog Khichdi",
+              "category": "Pure Veg Bengali Sather Pate- Accompaniments",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 15500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Salads & Raita",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "61139360",
+              "name": "Green Salad",
+              "category": "Salads & Raita",
+              "imageId": "x70rdks680kkbx0jw8ar",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 11000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "5.0",
+                  "ratingCount": "7 ratings",
+                  "ratingCountV2": "7"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Bengali Desserts (fruit Chutney & Sweets)",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194432",
+              "name": "Chutney Amsatta With Khejur",
+              "category": "Bengali Desserts (fruit Chutney & Sweets)",
+              "description": "Aamsotto Khejur Chutney is a traditional Bengali delicacy made with aamsotto (dried mango bar), dates, and panch phoron flavor.",
+              "imageId": "f6ndrg9c7jsqx05nbq3u",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 13500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.9",
+                  "ratingCount": "5 ratings",
+                  "ratingCountV2": "5"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194433",
+              "name": "Gobindobhog Payesh",
+              "category": "Bengali Desserts (fruit Chutney & Sweets)",
+              "description": "Payesh is a sugary concoction of flavorful Gobindhobhog rice/basmati rice & milk flavored with cardamom and bay leaves.",
+              "imageId": "zo1eq4z03h7sydwu888r",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 15500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.5",
+                  "ratingCount": "8 ratings",
+                  "ratingCountV2": "8"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194435",
+              "name": "Kolkata Rosogolla (4 Pcs)",
+              "category": "Bengali Desserts (fruit Chutney & Sweets)",
+              "imageId": "00ed76dc6b388267465b74bcee2d212f",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 13500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "5.0",
+                  "ratingCount": "4 ratings",
+                  "ratingCountV2": "4"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194436",
+              "name": "Mishti Doi (1 Pc)",
+              "category": "Bengali Desserts (fruit Chutney & Sweets)",
+              "imageId": "o8e2733svvticsujtqto",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 16000,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "2.5",
+                  "ratingCount": "5 ratings",
+                  "ratingCountV2": "5"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79194431",
+              "name": "Chutney Aam Seasonal",
+              "category": "Bengali Desserts (fruit Chutney & Sweets)",
+              "imageId": "v061ktyjojbfqy9qvbag",
+              "isVeg": 1,
+              "price": 14900,
+              "variants": {},
+              "variantsV2": {},
+              "nextAvailableAtMessage": "Next available at 12 noon, tomorrow",
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    }
+  ]
+}

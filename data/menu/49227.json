@@ -1,0 +1,4695 @@
+{
+  "info": {
+    "id": "49227",
+    "name": "Natural Ice Cream",
+    "city": "Mumbai",
+    "slugs": {
+      "restaurant": "natural-ice-cream-sheetal-manav-mandir-vasai",
+      "city": "mumbai"
+    },
+    "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+    "cloudinaryImageId": "vfrf9qcpavsbpsllwiio",
+    "locality": "Sheetal Manav Mandir",
+    "areaName": "Vasai West",
+    "costForTwo": "15000",
+    "costForTwoMessage": "₹150 for two",
+    "cuisines": ["Ice Cream", "Desserts"],
+    "avgRating": 4.7,
+    "veg": true,
+    "feeDetails": {
+      "restaurantId": "49227",
+      "fees": [
+        {
+          "name": "time"
+        },
+        {
+          "name": "distance",
+          "fee": 2000
+        },
+        {
+          "name": "special"
+        }
+      ],
+      "totalFee": 2000,
+      "icon": "v1648208530/surgecreatives/info",
+      "message": "Very Far (1,652.3 kms) | Additional delivery fee will apply"
+    },
+    "parentId": "2093",
+    "avgRatingString": "4.7",
+    "totalRatingsString": "5K+ ratings",
+    "sla": {
+      "restaurantId": "49227",
+      "lastMileTravel": 1652.3,
+      "serviceability": "NON_SERVICEABLE",
+      "rainMode": "RAIN_MODE_NONE",
+      "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+      "lastMileTravelString": "1652.3 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2023-11-24 23:30:00",
+      "visibility": true,
+      "opened": true,
+      "restaurantClosedMeta": {}
+    },
+    "aggregatedDiscountInfo": {
+      "header": "20% off",
+      "shortDescriptionList": [
+        {
+          "meta": "20% off | Use TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "discountType": "Flat",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "descriptionList": [
+        {
+          "meta": "20% off up to ₹50 | Use code TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "Flat ₹75 off | Above ₹650",
+          "discountType": "Flat",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "visible": true
+    },
+    "badges": {},
+    "slugString": "natural-ice-cream-sheetal-manav-mandir-vasai",
+    "multiOutlet": true,
+    "isOpen": true,
+    "labels": [
+      {
+        "title": "Timings",
+        "message": "null"
+      },
+      {
+        "title": "Address",
+        "message": "33, Sheetal Manav Mandir, Vasai West, Mumbai 401202"
+      },
+      {
+        "title": "Cuisines",
+        "message": "Ice Cream,Desserts"
+      }
+    ],
+    "totalRatings": 5000,
+    "aggregatedDiscountInfoV2": {
+      "header": "20% off",
+      "shortDescriptionList": [
+        {
+          "meta": "20% off | Use TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "discountType": "Flat",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "descriptionList": [
+        {
+          "meta": "20% off up to ₹50 | Use code TRYNEW",
+          "discountType": "Percentage",
+          "operationType": "RESTAURANT"
+        },
+        {
+          "meta": "Flat ₹75 off | Above ₹650",
+          "discountType": "Flat",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "couponDetailsCta": "View coupon details"
+    },
+    "type": "F",
+    "headerBanner": {
+      "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/49227"
+    },
+    "ratingSlab": "RATING_SLAB_5",
+    "availabilityServiceabilityMessage": "Does not deliver to your location",
+    "orderabilityCommunication": {
+      "title": {
+        "text": "Wish you were"
+      },
+      "subTitle": {
+        "text": "CLOSER!"
+      },
+      "message": {
+        "text": "This location is outside the outlet's delivery area",
+        "textColour": "negative"
+      },
+      "customIcon": {
+        "bgGradientColorStart": "#F64C41",
+        "bgGradientColorEnd": "#E53554"
+      }
+    },
+    "hasBestsellerItems": true,
+    "nearestOutletNudge": {
+      "nearestOutletInfo": {
+        "siblingOutlet": {
+          "id": "326540",
+          "city": "0",
+          "slugs": {},
+          "areaName": "Southern Avenue",
+          "costForTwo": "0",
+          "feeDetails": {},
+          "sla": {
+            "deliveryTime": 29,
+            "lastMileTravel": 3,
+            "slaString": "29 MINS",
+            "lastMileTravelString": "3.0 km",
+            "iconType": "ICON_TYPE_EMPTY"
+          },
+          "availability": {
+            "restaurantClosedMeta": {}
+          },
+          "aggregatedDiscountInfo": {
+            "visible": true
+          },
+          "badges": {},
+          "aggregatedDiscountInfoV2": {
+            "visible": true
+          },
+          "availabilityServiceabilityMessage": "Temporarily closed for delivery",
+          "cartOrderabilityNudgeBanner": {
+            "parameters": {},
+            "presentation": {}
+          }
+        }
+      },
+      "nearestOutletComms": {
+        "title": {
+          "text": "Don't worry! Try our outlet that's delivering"
+        },
+        "subTitle": {
+          "text": "Switch to the fastest alternate"
+        }
+      }
+    },
+    "cartOrderabilityNudgeBanner": {
+      "parameters": {},
+      "presentation": {}
+    },
+    "latLong": "19.385506740323077,72.82499726861715"
+  },
+  "menu": [
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Recommended",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "58995067",
+              "name": "Sitaphal Ice Cream",
+              "category": "Seasonal",
+              "description": "Serves 1 | This blockbuster flavour from Naturals is loved across the nation. This is why we go to great lengths to make this flavour, including sourcing the best Sitaphal from Saswad, Maharashtra. We’ve also innovated and self-engineered the machine used for the pulping of sitaphal. Because we know that you’ll go to great lengths as well to relish this flavour!",
+              "imageId": "fce7b1cc481f573bee8192aa2e07aaea",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "30190134",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "94136457",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "94136458",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "94136460",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Mini Pack 300 grams",
+                        "price": 261.02,
+                        "id": "94136459",
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "30190134",
+                        "variationId": "94136457"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "101434620",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "30190134",
+                        "variationId": "94136458"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "101434620",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "30190134",
+                        "variationId": "94136459"
+                      }
+                    ],
+                    "price": 26102,
+                    "addonCombinations": [
+                      {
+                        "groupId": "101434619",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "101434619",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "101434619",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "30190134",
+                        "variationId": "94136460"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "101434619",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "101434619",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "101434619",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "101434620",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.8",
+                  "ratingCount": "437 ratings",
+                  "ratingCountV2": "437"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "58995083",
+              "name": "Mango (Medium Fat) Ice Cream",
+              "category": "Seasonal",
+              "description": "Serves 1 | We’ve taken the king of fruits and created an ice cream flavour that rules! Our mango ice cream is made from hand-picked Alphonso mangoes sourced from Ratnagiri. This flavour is every mango lover’s fantasy come true.\r\n\r\nEnergy (Kcal) :- 149,\r\nCarbohydrate (g):- 17,\r\nProtein (g):- 5,\r\nFats (g):- 8,\r\nAllergen Declaration:- May contain: Brazilnuts, Cashew, Hazelnuts, Pecans, Pistachio, Walnut, Peanut & Milk,\r\nServing size : 80 gm per person\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n",
+              "imageId": "dbb46aa1f3ff504c27cf70c78b0f0091",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "11556865",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "38001217",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "38001218",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "38001220",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Mini Pack 300 grams",
+                        "price": 261.02,
+                        "id": "38001219",
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556865",
+                        "variationId": "38001217"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323162",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556865",
+                        "variationId": "38001218"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323162",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556865",
+                        "variationId": "38001219"
+                      }
+                    ],
+                    "price": 26102,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323161",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323161",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323161",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556865",
+                        "variationId": "38001220"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323161",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323161",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323161",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "78323162",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.7",
+                  "ratingCount": "165 ratings",
+                  "ratingCountV2": "165"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "127372934",
+              "name": "Tutti Frutti Ice Cream",
+              "category": "Friday Funday Flavour (New Attraction)",
+              "imageId": "f1549b598083396dba6acc7a6f385ab0",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "33865405",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "104678593",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "104678594",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "33865405",
+                        "variationId": "104678593"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "120153196",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "33865405",
+                        "variationId": "104678594"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "120153196",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "120153196",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "58995085",
+              "name": "Tender Coconut Ice Cream",
+              "category": "Round The Year",
+              "description": "Serves 1 | Naturals is a pioneer of the ‘Tender Coconut’ flavour in the country. As an original flavour from Naturals, it is a huge favourite among ice cream lovers. It’s made with real malai from tender coconuts that are sourced from Kerala and Karnataka.You just can’t have enough of this delicious flavour!",
+              "imageId": "6cd8778cf0c95e12108d06eac5c8288f",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "11556835",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "38001089",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "38001090",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "38001092",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Mini Pack 300 grams",
+                        "price": 261.02,
+                        "id": "38001091",
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556835",
+                        "variationId": "38001089"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "77282106",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556835",
+                        "variationId": "38001090"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "77282106",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556835",
+                        "variationId": "38001091"
+                      }
+                    ],
+                    "price": 26102,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323140",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323140",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323140",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556835",
+                        "variationId": "38001092"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323140",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323140",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323140",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "77282106",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.8",
+                  "ratingCount": "672 ratings",
+                  "ratingCountV2": "672"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "58995065",
+              "name": "Roasted Almond Ice Cream",
+              "category": "Round The Year",
+              "description": "Serves 1 | The almonds are sourced from California. But the inimitable taste of this delicious flavour is our very own! As the name suggests, the almonds are roasted and that’s how they lend a crispy and chunky feel to the ice cream. Indulgence, anyone?\r\n\r\nEnergy (Kcal) :- 191,\r\nCarbohydrate (g):- 16,\r\nProtein (g):- 8,\r\nFats (g):- 13,\r\nAllergen Declaration:- May contain: Brazilnuts, Cashew, Hazelnuts, Pecans, Pistachio, Walnut, Peanut & Milk,\r\nServing size : 80 gm per person",
+              "imageId": "6adb6d1ee1571542b377f745de410054",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "11556838",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "38001097",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "38001098",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Mini Pack 300 grams",
+                        "price": 261.02,
+                        "id": "38001100",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "38001101",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556838",
+                        "variationId": "38001097"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323142",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556838",
+                        "variationId": "38001098"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323142",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556838",
+                        "variationId": "38001100"
+                      }
+                    ],
+                    "price": 26102,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323141",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323141",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323141",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556838",
+                        "variationId": "38001101"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323141",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323141",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323141",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "78323142",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.4",
+                  "ratingCount": "354 ratings",
+                  "ratingCountV2": "354"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "58995070",
+              "name": "Coffee Walnut Ice Cream",
+              "category": "Round The Year",
+              "description": "Serves 1 | Coffee comes together with roasted walnuts to give you this unique flavour. It’s taste will stay with you long after the scoop has disappeared from your cup.\r\nEnergy (Kcal) :- 198,\r\nCarbohydrate (g):- 20,\r\nProtein (g):- 8,\r\nFats (g):- 12,\r\nAllergen Declaration:- May contain: Brazilnuts, Cashew, Hazelnuts, Pecans, Pistachio, Walnut, Peanut & Milk,\r\nServing size : 80 gm per person",
+              "imageId": "840581e7d19342052d8be3ace845c734",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "11556862",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "38001201",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "38001203",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "38001208",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Mini Pack 300 grams",
+                        "price": 261.02,
+                        "id": "38001206",
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556862",
+                        "variationId": "38001201"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323160",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556862",
+                        "variationId": "38001203"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323160",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556862",
+                        "variationId": "38001206"
+                      }
+                    ],
+                    "price": 26102,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323159",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323159",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323159",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556862",
+                        "variationId": "38001208"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323159",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323159",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323159",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "78323160",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.8",
+                  "ratingCount": "161 ratings",
+                  "ratingCountV2": "161"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "76213648",
+              "name": "Kesar Pista Ice Cream",
+              "category": "Round The Year",
+              "description": "Serves 1 | Looking for a royal flavour to pamper yourself with? Look no further. Our Kesar Pista ice cream has Kesar from Kashmir and Pista from Iran. Time to give your ice cream cravings an exotic touch!\r\n\r\nEnergy (Kcal) :- 217,\r\nCarbohydrate (g):- 18,\r\nProtein (g):- 5,\r\nFats (g):- 17,\r\nAllergen Declaration:- May contain: Brazilnuts, Cashew, Hazelnuts, Pecans, Pistachio, Walnut, Peanut & Milk,\r\nServing size : 80 gm per person",
+              "imageId": "7a6095bca9c7d3736429cd26a19bf8c0",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "11556844",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "38001124",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "38001125",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "38001129",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Mini Pack 300 grams",
+                        "price": 261.02,
+                        "id": "38001127",
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556844",
+                        "variationId": "38001124"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323148",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556844",
+                        "variationId": "38001125"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323148",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556844",
+                        "variationId": "38001127"
+                      }
+                    ],
+                    "price": 26102,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323147",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323147",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323147",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556844",
+                        "variationId": "38001129"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323147",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323147",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323147",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "78323148",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.8",
+                  "ratingCount": "154 ratings",
+                  "ratingCountV2": "154"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "76213659",
+              "name": "Papaya Pineapple Ice Cream",
+              "category": "Round The Year",
+              "description": "Serves 1 | The delightful duo of papaya and pineapple make this an irresistible flavour. Papaya is sourced from Solapur and Pineapple from Kerala. Just to give you a taste that’s truly memorable!\r\n\r\nEnergy (Kcal) :- 162,\r\nCarbohydrate (g):- 14,\r\nProtein (g):- 5,\r\nFats (g):- 11,\r\nAllergen Declaration:- May contain: Brazilnuts, Cashew, Hazelnuts, Pecans, Pistachio, Walnut, Peanut & Milk,\r\nServing size : 80 gm per person",
+              "imageId": "d407290ab0e8781600dcf350df275cda",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "11556870",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "38001237",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "38001239",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "38001243",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556870",
+                        "variationId": "38001237"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323166",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556870",
+                        "variationId": "38001239"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323166",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556870",
+                        "variationId": "38001243"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323165",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323165",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323165",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "78323166",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {},
+              "showImage": true,
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.3",
+                  "ratingCount": "109 ratings",
+                  "ratingCountV2": "109"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ],
+      "type": "CATEGORY_TYPE_RECOMMENDED"
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Waffle Cone",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "87417959",
+              "name": "Empty Waffle cone",
+              "category": "Waffle Cone",
+              "description": "Serves 1",
+              "imageId": "s5cyvsjut9hqsuzvlhsf",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 933,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "No Added Sugar",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "110502662",
+              "name": "Anjeer (Medium Fat Ice Cream, No Added Sugar)",
+              "category": "No Added Sugar",
+              "description": "Serves 1 | Energy (Kcal) :- 173,\r\nCarbohydrate (g):- 24,\r\nProtein (g):- 5,\r\nFats (g):- 7,\r\nAllergen Declaration:- May contain: Brazilnuts, Cashew, Hazelnuts, Pecans, Pistachio, Walnut, Peanut & Milk,\r\nServing size : 80 gm per person",
+              "imageId": "e4gfqtgk0biaotkkewya",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "26716741",
+                    "name": "Option NO ADDED SUGAR ANJEER",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 74.58,
+                        "default": 1,
+                        "id": "84742124",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 139.83,
+                        "id": "84742125",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "26716741",
+                        "variationId": "84742124"
+                      }
+                    ],
+                    "price": 7458,
+                    "addonCombinations": [
+                      {
+                        "groupId": "87196717",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "26716741",
+                        "variationId": "84742125"
+                      }
+                    ],
+                    "price": 13983,
+                    "addonCombinations": [
+                      {
+                        "groupId": "87196717",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "87196717",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 7458,
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.6",
+                  "ratingCount": "7 ratings",
+                  "ratingCountV2": "7"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "110502663",
+              "name": "Mango (Medium Fat Ice Cream, No Added Sugar)",
+              "category": "No Added Sugar",
+              "description": "Serves 1 | Energy (Kcal) :- 143,\r\nCarbohydrate (g):- 19,\r\nProtein (g):- 4,\r\nFats (g):- 6,\r\nAllergen Declaration:- May contain: Brazilnuts, Cashew, Hazelnuts, Pecans, Pistachio, Walnut, Peanut & Milk,\r\nServing size : 80 gm per person",
+              "imageId": "asigyks8dnpfe6bjlo2l",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "26716742",
+                    "name": "Option",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 74.58,
+                        "default": 1,
+                        "id": "84742126",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 139.83,
+                        "id": "84742127",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "26716742",
+                        "variationId": "84742126"
+                      }
+                    ],
+                    "price": 7458,
+                    "addonCombinations": [
+                      {
+                        "groupId": "87196718",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "26716742",
+                        "variationId": "84742127"
+                      }
+                    ],
+                    "price": 13983,
+                    "addonCombinations": [
+                      {
+                        "groupId": "87196718",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "87196718",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 7458,
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "5.0",
+                  "ratingCount": "9 ratings",
+                  "ratingCountV2": "9"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Seasonal",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "58995067",
+              "name": "Sitaphal Ice Cream",
+              "category": "Seasonal",
+              "description": "Serves 1 | This blockbuster flavour from Naturals is loved across the nation. This is why we go to great lengths to make this flavour, including sourcing the best Sitaphal from Saswad, Maharashtra. We’ve also innovated and self-engineered the machine used for the pulping of sitaphal. Because we know that you’ll go to great lengths as well to relish this flavour!",
+              "imageId": "fce7b1cc481f573bee8192aa2e07aaea",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "30190134",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "94136457",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "94136458",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "94136460",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Mini Pack 300 grams",
+                        "price": 261.02,
+                        "id": "94136459",
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "30190134",
+                        "variationId": "94136457"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "101434620",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "30190134",
+                        "variationId": "94136458"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "101434620",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "30190134",
+                        "variationId": "94136459"
+                      }
+                    ],
+                    "price": 26102,
+                    "addonCombinations": [
+                      {
+                        "groupId": "101434619",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "101434619",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "101434619",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "30190134",
+                        "variationId": "94136460"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "101434619",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "101434619",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "101434619",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "101434620",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.8",
+                  "ratingCount": "437 ratings",
+                  "ratingCountV2": "437"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "58995083",
+              "name": "Mango (Medium Fat) Ice Cream",
+              "category": "Seasonal",
+              "description": "Serves 1 | We’ve taken the king of fruits and created an ice cream flavour that rules! Our mango ice cream is made from hand-picked Alphonso mangoes sourced from Ratnagiri. This flavour is every mango lover’s fantasy come true.\r\n\r\nEnergy (Kcal) :- 149,\r\nCarbohydrate (g):- 17,\r\nProtein (g):- 5,\r\nFats (g):- 8,\r\nAllergen Declaration:- May contain: Brazilnuts, Cashew, Hazelnuts, Pecans, Pistachio, Walnut, Peanut & Milk,\r\nServing size : 80 gm per person\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n",
+              "imageId": "dbb46aa1f3ff504c27cf70c78b0f0091",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "11556865",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "38001217",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "38001218",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "38001220",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Mini Pack 300 grams",
+                        "price": 261.02,
+                        "id": "38001219",
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556865",
+                        "variationId": "38001217"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323162",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556865",
+                        "variationId": "38001218"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323162",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556865",
+                        "variationId": "38001219"
+                      }
+                    ],
+                    "price": 26102,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323161",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323161",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323161",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556865",
+                        "variationId": "38001220"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323161",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323161",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323161",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "78323162",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.7",
+                  "ratingCount": "165 ratings",
+                  "ratingCountV2": "165"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "79474372",
+              "name": "Black Grapes (Medium Fat) Ice Cream",
+              "category": "Seasonal",
+              "description": "Serves 1 | Expect a taste of heaven in every bite of our original Black Grapes ice cream. It’s amazing taste will leave you craving for more!\r\n\r\nEnergy (Kcal) :- 162,\r\nCarbohydrate (g):- 18,\r\nProtein (g):- 5,\r\nFats (g):- 9,\r\nAllergen Declaration:- May contain: Brazilnuts, Cashew, Hazelnuts, Pecans, Pistachio, Walnut, Peanut & Milk,\r\nServing size : 80 gm per person",
+              "imageId": "322f233e167247c4a0b972964a08cb7b",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "34656791",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "107161643",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "107161644",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "107161645",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "34656791",
+                        "variationId": "107161643"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "124015010",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "34656791",
+                        "variationId": "107161644"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "124015010",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "34656791",
+                        "variationId": "107161645"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "124015009",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "124015009",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "124015009",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "124015010",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "5.0",
+                  "ratingCount": "4 ratings",
+                  "ratingCountV2": "4"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Friday Funday Flavour (New Attraction)",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "62218288",
+              "name": "Royal Dry Fruit Ice Cream",
+              "category": "Friday Funday Flavour (New Attraction)",
+              "description": "Serves 1 | Royalty beckons in this gorgeously original flavour from Naturals, which is also specially available during Diwali. The likes of prunes, apricot and kesar come together to create this perfect ice cream that will leave you amazed!\r\n\r\nEnergy (Kcal) :- 190,\r\nCarbohydrate (g):- 18,\r\nProtein (g):- 6,\r\nFats (g):- 12,\r\nAllergen Declaration:- May contain: Brazilnuts, Cashew, Hazelnuts, Pecans, Pistachio, Walnut, Peanut & Milk,\r\nServing size : 80 gm per person",
+              "imageId": "81e4e0180df0a269ab10b8d3611b0b65",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "33865403",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "104678587",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "104678588",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "104678589",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "33865403",
+                        "variationId": "104678587"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "120153192",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "33865403",
+                        "variationId": "104678588"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "120153192",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "33865403",
+                        "variationId": "104678589"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "120153191",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "120153191",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "120153191",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "120153192",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "5.0",
+                  "ratingCount": "9 ratings",
+                  "ratingCountV2": "9"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "105820245",
+              "name": "Orange Pistachio (Medium Fat) Ice Cream",
+              "category": "Friday Funday Flavour (New Attraction)",
+              "description": "Serves 1 | Orange Pistachio is inspired by the nostalgic taste of orange barfi which is loved by all. This flavour also has a Turkish influence, since orange and pista is a combination used for making Turkish delights. Naturals has launched the Orange Pistachio ice cream, which has an international yet desi twist. Pulpy, zesty orange bites compliment the nutty, roasted pistachios in this unique flavour!\nEnergy (Kcal) :- 167,\nCarbohydrate (g):- 21,\nProtein (g):- 5,\nFats (g):- 9,\nAllergen Declaration:- May contain: Brazilnuts, Cashew, Hazelnuts, Pecans, Pistachio, Walnut, Peanut & Milk,\nServing size : 80 gm per person\n",
+              "imageId": "ce482dba351603582ed7f578b431e61d",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "22498985",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 79.24,
+                        "default": 1,
+                        "id": "73414780",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 149.16,
+                        "id": "73414781",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 396.19,
+                        "id": "73414782",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "22498985",
+                        "variationId": "73414780"
+                      }
+                    ],
+                    "price": 7924,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323194",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "22498985",
+                        "variationId": "73414781"
+                      }
+                    ],
+                    "price": 14916,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323194",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "22498985",
+                        "variationId": "73414782"
+                      }
+                    ],
+                    "price": 39619,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323193",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323193",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323193",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "78323194",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 7924,
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.7",
+                  "ratingCount": "16 ratings",
+                  "ratingCountV2": "16"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "120909943",
+              "name": "@ Rose Walnut Ice Cream",
+              "category": "Friday Funday Flavour (New Attraction)",
+              "description": "Serves 1 | An exotic dessert made from Rose Petals sourced from Rajasthan. Roasted walnuts add to the rich and heavenly taste. This treat is a perfect reward after a long day at work!\r\n\r\nEnergy (Kcal) :- 208,\r\nCarbohydrate (g):- 31,\r\nProtein (g):- 6,\r\nFats (g):- 9,\r\nAllergen Declaration:- May contain: Brazilnuts, Cashew, Hazelnuts, Pecans, Pistachio, Walnut, Peanut & Milk,\r\nServing size : 80 gm per person",
+              "imageId": "ea7e80c19309af060de78a08c505ee2e",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "30190137",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "94136467",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "94136468",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "94136469",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "30190137",
+                        "variationId": "94136467"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "101434626",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "30190137",
+                        "variationId": "94136468"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "101434626",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "30190137",
+                        "variationId": "94136469"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "101434625",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "101434625",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "101434625",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "101434626",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.8",
+                  "ratingCount": "6 ratings",
+                  "ratingCountV2": "6"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "127910341",
+              "name": "Kaju Kesar Shrikhand Ice Cream",
+              "category": "Friday Funday Flavour (New Attraction)",
+              "description": "Serves 1 | Inspired by ‘Shrikhand’, the popular dessert from Maharashtra and Gujarat, this delicacy contains cardamom, cashew and kesar so you can enjoy a flavour that’s got a rich look, texture and taste.\r\n\r\nEnergy (Kcal) :- 190,\r\nCarbohydrate (g):- 24,\r\nProtein (g):- 6,\r\nFats (g):- 10,\r\nAllergen Declaration:- May contain: Brazilnuts, Cashew, Hazelnuts, Pecans, Pistachio, Walnut, Peanut & Milk,\r\nServing size : 80 gm per person",
+              "imageId": "457a6cd6c15b3183233b6f67f30f0b14",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "34138309",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "105442903",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "105442904",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "105442905",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "34138309",
+                        "variationId": "105442903"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "121688197",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "34138309",
+                        "variationId": "105442904"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "121688197",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "34138309",
+                        "variationId": "105442905"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "121688195",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "121688195",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "121688195",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "121688197",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "128295998",
+              "name": "@ Gulkand Ice Cream",
+              "category": "Friday Funday Flavour (New Attraction)",
+              "description": "Serves 1 | Dig into this delicious and enticing dessert that’s made from special pink rose petals. It looks so inviting, you’ll give in to this dessert in a heartbeat!\r\n\r\nEnergy (Kcal) :- 183,\r\nCarbohydrate (g):- 21,\r\nProtein (g):- 6,\r\nFats (g):- 10,\r\nAllergen Declaration:- May contain: Brazilnuts, Cashew, Hazelnuts, Pecans, Pistachio, Walnut, Peanut & Milk,\r\nServing size : 80 gm per person",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "34389468",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "106226963",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "106226964",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "106226965",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "34389468",
+                        "variationId": "106226963"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "122973061",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "34389468",
+                        "variationId": "106226964"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "122973061",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "34389468",
+                        "variationId": "106226965"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "122973060",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "122973060",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "122973060",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "122973061",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "127372934",
+              "name": "Tutti Frutti Ice Cream",
+              "category": "Friday Funday Flavour (New Attraction)",
+              "imageId": "f1549b598083396dba6acc7a6f385ab0",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "33865405",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "104678593",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "104678594",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "33865405",
+                        "variationId": "104678593"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "120153196",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "33865405",
+                        "variationId": "104678594"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "120153196",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "120153196",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+      "title": "Round The Year",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "58995085",
+              "name": "Tender Coconut Ice Cream",
+              "category": "Round The Year",
+              "description": "Serves 1 | Naturals is a pioneer of the ‘Tender Coconut’ flavour in the country. As an original flavour from Naturals, it is a huge favourite among ice cream lovers. It’s made with real malai from tender coconuts that are sourced from Kerala and Karnataka.You just can’t have enough of this delicious flavour!",
+              "imageId": "6cd8778cf0c95e12108d06eac5c8288f",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "11556835",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "38001089",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "38001090",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "38001092",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Mini Pack 300 grams",
+                        "price": 261.02,
+                        "id": "38001091",
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556835",
+                        "variationId": "38001089"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "77282106",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556835",
+                        "variationId": "38001090"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "77282106",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556835",
+                        "variationId": "38001091"
+                      }
+                    ],
+                    "price": 26102,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323140",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323140",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323140",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556835",
+                        "variationId": "38001092"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323140",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323140",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323140",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "77282106",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.8",
+                  "ratingCount": "672 ratings",
+                  "ratingCountV2": "672"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "58995065",
+              "name": "Roasted Almond Ice Cream",
+              "category": "Round The Year",
+              "description": "Serves 1 | The almonds are sourced from California. But the inimitable taste of this delicious flavour is our very own! As the name suggests, the almonds are roasted and that’s how they lend a crispy and chunky feel to the ice cream. Indulgence, anyone?\r\n\r\nEnergy (Kcal) :- 191,\r\nCarbohydrate (g):- 16,\r\nProtein (g):- 8,\r\nFats (g):- 13,\r\nAllergen Declaration:- May contain: Brazilnuts, Cashew, Hazelnuts, Pecans, Pistachio, Walnut, Peanut & Milk,\r\nServing size : 80 gm per person",
+              "imageId": "6adb6d1ee1571542b377f745de410054",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "11556838",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "38001097",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "38001098",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Mini Pack 300 grams",
+                        "price": 261.02,
+                        "id": "38001100",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "38001101",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556838",
+                        "variationId": "38001097"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323142",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556838",
+                        "variationId": "38001098"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323142",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556838",
+                        "variationId": "38001100"
+                      }
+                    ],
+                    "price": 26102,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323141",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323141",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323141",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556838",
+                        "variationId": "38001101"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323141",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323141",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323141",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "78323142",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.4",
+                  "ratingCount": "354 ratings",
+                  "ratingCountV2": "354"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "58995070",
+              "name": "Coffee Walnut Ice Cream",
+              "category": "Round The Year",
+              "description": "Serves 1 | Coffee comes together with roasted walnuts to give you this unique flavour. It’s taste will stay with you long after the scoop has disappeared from your cup.\r\nEnergy (Kcal) :- 198,\r\nCarbohydrate (g):- 20,\r\nProtein (g):- 8,\r\nFats (g):- 12,\r\nAllergen Declaration:- May contain: Brazilnuts, Cashew, Hazelnuts, Pecans, Pistachio, Walnut, Peanut & Milk,\r\nServing size : 80 gm per person",
+              "imageId": "840581e7d19342052d8be3ace845c734",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "11556862",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "38001201",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "38001203",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "38001208",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Mini Pack 300 grams",
+                        "price": 261.02,
+                        "id": "38001206",
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556862",
+                        "variationId": "38001201"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323160",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556862",
+                        "variationId": "38001203"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323160",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556862",
+                        "variationId": "38001206"
+                      }
+                    ],
+                    "price": 26102,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323159",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323159",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323159",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556862",
+                        "variationId": "38001208"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323159",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323159",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323159",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "78323160",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.8",
+                  "ratingCount": "161 ratings",
+                  "ratingCountV2": "161"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "58995076",
+              "name": "Anjeer Ice Cream",
+              "category": "Round The Year",
+              "description": "Serves 1 | Discover the subtle sweetness of dry figs in our original Anjeer ice cream. Figs sourced from Afghanistan lend their unique taste to this delicious flavour.\r\n\r\nEnergy (Kcal) :- 183,\r\nCarbohydrate (g):- 17,\r\nProtein (g):- 6,\r\nFats (g):- 12,\r\nAllergen Declaration:- May contain: Brazilnuts, Cashew, Hazelnuts, Pecans, Pistachio, Walnut, Peanut & Milk,\r\nServing size : 80 gm per person",
+              "imageId": "lskqghxnpxfvauyzfpin",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "11556854",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "38001171",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "38001172",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "38001175",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556854",
+                        "variationId": "38001171"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323156",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556854",
+                        "variationId": "38001172"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323156",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556854",
+                        "variationId": "38001175"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323155",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323155",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323155",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "78323156",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.7",
+                  "ratingCount": "232 ratings",
+                  "ratingCountV2": "232"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "58995078",
+              "name": "Malai Ice Cream",
+              "category": "Round The Year",
+              "description": "Serves 1 | This classic and timeless flavour from Naturals will surprise you every time you lay your hands on it. It’s made from just milk and sugar, but the result is magical! The Malai ice cream is also a perfect base for making sundaes or other such dishes. It’s bound to make your cooking experiments at home a resounding success.",
+              "imageId": "43654617aec2c77a7aad579263bef835",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "11556847",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "38001142",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "38001143",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "38001150",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556847",
+                        "variationId": "38001142"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323152",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556847",
+                        "variationId": "38001143"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323152",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556847",
+                        "variationId": "38001150"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323151",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323151",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323151",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "78323152",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.7",
+                  "ratingCount": "213 ratings",
+                  "ratingCountV2": "213"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "58995088",
+              "name": "Kaju Kismis Ice Cream",
+              "category": "Round The Year",
+              "description": "Serves 1 | Good news for cashew connoisseurs who also love kismis. Our Kaju Kismis ice cream is just the thing your taste buds desire!\r\n\r\nEnergy (Kcal) :- 184,\r\nCarbohydrate (g):- 18,\r\nProtein (g):- 7,\r\nFats (g):- 12,\r\nAllergen Declaration:- May contain: Brazilnuts, Cashew, Hazelnuts, Pecans, Pistachio, Walnut, Peanut & Milk,\r\nServing size : 80 gm per person",
+              "imageId": "169808e5716cf9a05868419e6b9801e4",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "11556839",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "38001105",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "38001106",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "38001108",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556839",
+                        "variationId": "38001105"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323144",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556839",
+                        "variationId": "38001106"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323144",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556839",
+                        "variationId": "38001108"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323143",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323143",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323143",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "78323144",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.8",
+                  "ratingCount": "129 ratings",
+                  "ratingCountV2": "129"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "76213648",
+              "name": "Kesar Pista Ice Cream",
+              "category": "Round The Year",
+              "description": "Serves 1 | Looking for a royal flavour to pamper yourself with? Look no further. Our Kesar Pista ice cream has Kesar from Kashmir and Pista from Iran. Time to give your ice cream cravings an exotic touch!\r\n\r\nEnergy (Kcal) :- 217,\r\nCarbohydrate (g):- 18,\r\nProtein (g):- 5,\r\nFats (g):- 17,\r\nAllergen Declaration:- May contain: Brazilnuts, Cashew, Hazelnuts, Pecans, Pistachio, Walnut, Peanut & Milk,\r\nServing size : 80 gm per person",
+              "imageId": "7a6095bca9c7d3736429cd26a19bf8c0",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "11556844",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "38001124",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "38001125",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "38001129",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Mini Pack 300 grams",
+                        "price": 261.02,
+                        "id": "38001127",
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556844",
+                        "variationId": "38001124"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323148",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556844",
+                        "variationId": "38001125"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323148",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556844",
+                        "variationId": "38001127"
+                      }
+                    ],
+                    "price": 26102,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323147",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323147",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323147",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556844",
+                        "variationId": "38001129"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323147",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323147",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323147",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "78323148",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.8",
+                  "ratingCount": "154 ratings",
+                  "ratingCountV2": "154"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "76213649",
+              "name": "Choco cream Ice Cream",
+              "category": "Round The Year",
+              "description": "Serves 1 | If you’re a chocolate enthusiast, you are in for a treat to the senses. Our original Choco Cream ice cream is made from coco mass sourced all the way from Ghana. A word of caution: our Choco Cream ice cream will leave you wanting for more, whether you get a single scoop or a family pack.\n",
+              "imageId": "7fd189d7871fe78787771c2e61d97d96",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "11556845",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "38001132",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "38001133",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Mini Pack 300 grams",
+                        "price": 261.02,
+                        "id": "38001136",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "38001138",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556845",
+                        "variationId": "38001132"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323150",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556845",
+                        "variationId": "38001133"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323150",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556845",
+                        "variationId": "38001136"
+                      }
+                    ],
+                    "price": 26102,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323149",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323149",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323149",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556845",
+                        "variationId": "38001138"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323149",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323149",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323149",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "78323150",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.9",
+                  "ratingCount": "98 ratings",
+                  "ratingCountV2": "98"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "76213659",
+              "name": "Papaya Pineapple Ice Cream",
+              "category": "Round The Year",
+              "description": "Serves 1 | The delightful duo of papaya and pineapple make this an irresistible flavour. Papaya is sourced from Solapur and Pineapple from Kerala. Just to give you a taste that’s truly memorable!\r\n\r\nEnergy (Kcal) :- 162,\r\nCarbohydrate (g):- 14,\r\nProtein (g):- 5,\r\nFats (g):- 11,\r\nAllergen Declaration:- May contain: Brazilnuts, Cashew, Hazelnuts, Pecans, Pistachio, Walnut, Peanut & Milk,\r\nServing size : 80 gm per person",
+              "imageId": "d407290ab0e8781600dcf350df275cda",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "11556870",
+                    "name": "Choose Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "38001237",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "38001239",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "38001243",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556870",
+                        "variationId": "38001237"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323166",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556870",
+                        "variationId": "38001239"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323166",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556870",
+                        "variationId": "38001243"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323165",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323165",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323165",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "78323166",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.3",
+                  "ratingCount": "109 ratings",
+                  "ratingCountV2": "109"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "76213674",
+              "name": "Watermelon Ice Cream",
+              "category": "Round The Year",
+              "description": "Serves 1 | There’s nothing like some exquisite watermelon ice cream on a hot sunny afternoon! So play it cool and beat the heat with our delicious watermelon ice cream.\r\n\r\nEnergy (Kcal) :- 162,\r\nCarbohydrate (g):- 15,\r\nProtein (g):- 5,\r\nFats (g):- 11,\r\nAllergen Declaration:- May contain: Brazilnuts, Cashew, Hazelnuts, Pecans, Pistachio, Walnut, Peanut & Milk,\r\nServing size : 80 gm per person",
+              "imageId": "259d286a43692332deeee892f47c7f31",
+              "inStock": 1,
+              "isVeg": 1,
+              "variants": {},
+              "variantsV2": {
+                "variantGroups": [
+                  {
+                    "groupId": "11556882",
+                    "name": "Choose  Size",
+                    "variations": [
+                      {
+                        "name": "Single scoop cup",
+                        "price": 69.92,
+                        "default": 1,
+                        "id": "38001311",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Double scoop cup",
+                        "price": 130.5,
+                        "id": "38001314",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      },
+                      {
+                        "name": "Family Pack 500 grams",
+                        "price": 349.58,
+                        "id": "38001320",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                      }
+                    ]
+                  }
+                ],
+                "pricingModels": [
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556882",
+                        "variationId": "38001311"
+                      }
+                    ],
+                    "price": 6992,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323168",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556882",
+                        "variationId": "38001314"
+                      }
+                    ],
+                    "price": 13050,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323168",
+                        "addonId": "62358028"
+                      }
+                    ]
+                  },
+                  {
+                    "variations": [
+                      {
+                        "groupId": "11556882",
+                        "variationId": "38001320"
+                      }
+                    ],
+                    "price": 34958,
+                    "addonCombinations": [
+                      {
+                        "groupId": "78323167",
+                        "addonId": "63197045"
+                      },
+                      {
+                        "groupId": "78323167",
+                        "addonId": "63197046"
+                      },
+                      {
+                        "groupId": "78323167",
+                        "addonId": "63197047"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "addons": [
+                {
+                  "groupId": "78323168",
+                  "groupName": "Waffle Cone",
+                  "choices": [
+                    {
+                      "id": "62358028",
+                      "name": "Waffle cone",
+                      "price": 933,
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ],
+                  "maxAddons": 1,
+                  "maxFreeAddons": -1
+                }
+              ],
+              "itemAttribute": {
+                "vegClassifier": "VEG",
+                "portionSize": "Serves 1"
+              },
+              "defaultPrice": 6992,
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "5.0",
+                  "ratingCount": "88 ratings",
+                  "ratingCountV2": "88"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    }
+  ]
+}
