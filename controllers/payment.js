@@ -51,6 +51,7 @@ const payment = async (req, res) => {
 };
 
 const fulfillOrder = async (customerData, checkoutCompleted) => {
+
     const order = new Order({
         userId: customerData.metadata.userId,
         payment_intent: checkoutCompleted.payment_intent,
@@ -78,6 +79,7 @@ const fulfillOrder = async (customerData, checkoutCompleted) => {
 
     try {
         await order.save();
+        console.log("Order saved successfully")
     } catch (error) {
         console.log(error);
     }
@@ -105,10 +107,12 @@ const webhook = async (req, res) => {
                 }
             );
             const customerData = await stripe.customers.retrieve(checkoutCompleted.customer);
-            console.log(checkoutCompleted)
 
             if (checkoutCompleted.payment_status === 'paid') {
                 fulfillOrder(customerData, checkoutCompleted)
+
+                res.status(200).json({ success: true, message: 'Webhook processed successfully' });
+
             }
             break;
         default:
