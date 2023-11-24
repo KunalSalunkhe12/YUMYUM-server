@@ -1,5 +1,5 @@
 const stripe = require("stripe")(process.env.STRIPE_SECRET_KEY);
-const endpointSecret = "whsec_97459639adbbc849729b5e2d02fd73133258531e0a5ad98b484967c6700b07cc"
+const endpointSecret = process.env.STRIPE_WEBHOOK_SECRET;
 const Order = require("../models/order");
 
 const payment = async (req, res) => {
