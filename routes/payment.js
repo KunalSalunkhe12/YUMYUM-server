@@ -4,6 +4,6 @@ const { payment, webhook } = require('../controllers/payment.js');
 const router = express.Router();
 
 router.post('/pay', payment);
-router.post('/webhook', webhook)
+router.post('/webhook', express.raw({ type: 'application/json' }), webhook)
 
 module.exports = router;

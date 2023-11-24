@@ -86,12 +86,11 @@ const fulfillOrder = async (customerData, checkoutCompleted) => {
 }
 
 const webhook = async (req, res) => {
-    const rawBody = req.rawBody.toString('utf8');
     const sig = req.headers['stripe-signature'];
     let event;
 
     try {
-        event = stripe.webhooks.constructEvent(rawBody, sig, endpointSecret);
+        event = stripe.webhooks.constructEvent(req.body, sig, endpointSecret);
     } catch (err) {
         res.status(400).send(`Webhook Error: ${err.message}`);
         return;

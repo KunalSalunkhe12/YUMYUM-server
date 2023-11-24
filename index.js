@@ -4,7 +4,6 @@ const fetch = require('cross-fetch');
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 dotenv.config();
-const bodyParser = require('body-parser')
 const fs = require('fs')
 const path = require('path')
 
@@ -17,13 +16,13 @@ const app = express();
 const port = 3000;
 
 app.use(cors());
-app.use(bodyParser.urlencoded({ extended: false }))
-app.use(bodyParser.json({
-    verify: (req, res, buf) => {
-        req.rawBody = buf
-    },
-    limit: '10mb'
-}))
+app.use((req, res, next) => {
+    if (req.originalUrl === '/create-checkout-session/webhook') {
+        next();
+    } else {
+        express.json()(req, res, next);
+    }
+});
 
 app.use('/api', restaurantRoutes)
 app.use('/user', userRoutes)
