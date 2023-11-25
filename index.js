@@ -40,6 +40,8 @@ app.get('/', (req, res) => {
 
 
 //This route is only used to create restaurants menu json files
+//It is for DEVELOPMENT ONLY
+//Ignore this route
 app.post('/create-menu', (req, res) => {
     const { id, info, menu } = req.body
     const filePath = path.join(__dirname, `./data/menu/${id}.json`)
