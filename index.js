@@ -18,7 +18,7 @@ const port = 3000;
 app.use(cors({
     origin: process.env.CLIENT_URL,
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
-    credentials: true,  // If your requests include credentials (e.g., cookies)
+    credentials: true,
 }));
 
 app.use((req, res, next) => {
@@ -38,43 +38,15 @@ app.get('/', (req, res) => {
     res.send('YumYum- server')
 })
 
-//Old search api
-app.get('/search', (req, res) => {
-    const { searchInput } = req.query
-    const url = `https://www.swiggy.com/dapi/restaurants/search/v3?lat=19.3667296&lng=72.819814&str=${searchInput}&trackingId=undefined&submitAction=ENTER&queryUniqueId=d27bc450-4b77-77b6-ba67-9b72b1edbb08&selectedPLTab=RESTAURANT`
 
-    fetch(url, {
-        headers: {
-            'Content-Type': 'application/json',
-            'Access-Control-Allow-Origin': '*',
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
-
-        }
-    })
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('Network response was not ok');
-            }
-            return response.json();
-        })
-        .then(data => {
-            res.json(data);
-        })
-        .catch(error => {
-            console.error(error);
-            res.status(500).send('An error occurred');
-        });
-});
-
-//Save restaurant info from swiggy to data files
-
+//This route is only used to create restaurants menu json files
 app.post('/create-menu', (req, res) => {
     const { id, info, menu } = req.body
     const filePath = path.join(__dirname, `./data/menu/${id}.json`)
     const data = JSON.stringify({ info, menu })
     if (fs.existsSync(filePath)) {
         console.log(`File ${filePath} already exists.`);
-        return; // Stop execution if the file exists
+        return;
     }
     fs.writeFile(filePath, data, (err) => {
         if (err) {
