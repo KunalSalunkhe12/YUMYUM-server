@@ -15,7 +15,12 @@ const orderRoutes = require('./routes/order.js');
 const app = express();
 const port = 3000;
 
-app.use(cors());
+app.use(cors({
+    origin: process.env.CLIENT_URL,
+    methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
+    credentials: true,  // If your requests include credentials (e.g., cookies)
+}));
+
 app.use((req, res, next) => {
     if (req.originalUrl === '/create-checkout-session/webhook') {
         next();
