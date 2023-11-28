@@ -3,7 +3,8 @@ const endpointSecret = process.env.STRIPE_WEBHOOK_SECRET;
 const Order = require("../models/order");
 
 const payment = async (req, res) => {
-    const { cartData, userId } = req.body;
+    const { cartData } = req.body;
+    const { id: userId } = req.user
 
     const customer = await stripe.customers.create({
         metadata: {

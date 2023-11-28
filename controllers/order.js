@@ -1,7 +1,7 @@
 const Order = require('../models/order');
 
 const getOrders = async (req, res) => {
-    const { userId } = req.params;
+    const { id: userId } = req.user;
     try {
         const orders = await Order.find({ userId });
         res.status(200).json({ orders });
