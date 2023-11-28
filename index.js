@@ -13,7 +13,7 @@ const paymentRoutes = require('./routes/payment.js');
 const orderRoutes = require('./routes/order.js');
 
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 app.use(cors({
     origin: process.env.CLIENT_URL,
@@ -63,7 +63,7 @@ app.post('/create-menu', (req, res) => {
 })
 
 
-const connectDB = async () => {
+const start = async () => {
     try {
         await mongoose.connect(process.env.MONGO_URL, {
             useNewUrlParser: true,
@@ -71,15 +71,18 @@ const connectDB = async () => {
         });
 
         console.log('MongoDB connected');
+
+        app.listen(port, () => {
+            console.log(`Server listening on port ${port}`);
+        });
+
     } catch (err) {
         console.error(err.message);
         process.exit(1);
     }
 }
-connectDB();
 
-app.listen(port, () => {
-    console.log(`Server listening on port ${port}`);
-});
+start();
+
 
 
